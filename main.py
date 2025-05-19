@@ -2,7 +2,6 @@ import json
 import tkinter as tk
 from tkinter import messagebox
 import subprocess
-from PIL import Image, ImageTk  # 處理圖片 (需安裝 Pillow: pip install Pillow)
 
 def load_checked_data():
     try:
