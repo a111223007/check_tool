@@ -13,6 +13,18 @@ def load_checked_data():
     except json.JSONDecodeError:
         print("警告：'check_exam_output.json' 為空，使用空資料。")
         return []
+    
+def get_last_index(checked_data, question_data):
+    for i, question in enumerate(question_data):
+        found = False
+        for item in checked_data:
+            if item.get('question_data') == question:
+                found = True
+                break
+        if not found:
+            return i  # 第一次沒出現在已檢查資料中的題目
+    return len(question_data)  # 所有題目都做完
+
 
 def display_question(question_data, question_index, total_questions, checked_data):
     question = question_data[question_index]
@@ -44,7 +56,7 @@ def display_question(question_data, question_index, total_questions, checked_dat
         tk.Label(window, text="圖片 : 沒有圖片", fg=fg_color, bg=bg_color).pack(pady=10)
 
     # 顯示已儲存的狀態 (如果有的話)
-    saved_status = get_saved_status(checked_data, question['question_number'])
+    saved_status = get_saved_status(checked_data, question)
     if saved_status == "確認":
         tk.Label(window, text=f"狀態: {saved_status}", fg="green", bg=bg_color).pack(pady=5)
     elif saved_status == "錯誤":
@@ -85,18 +97,21 @@ def display_question(question_data, question_index, total_questions, checked_dat
     tk.Button(button_frame, text="上一題", command=previous_question, fg="black", bg="white").pack(side=tk.LEFT, padx=10)
 
 
-def get_saved_status(checked_data, question_number):
+
+def get_saved_status(checked_data, question):
     for item in checked_data:
-        if item['question_number'] == question_number:
+        if item.get('question_data') == question:
             return item['status']
     return None
+
 
 def save_result(status, question):
     # 將題目資料轉換為 JSON 字串，並傳遞給 save.py
     question_json = json.dumps(question, ensure_ascii=False)  # 處理中文
+    question_index_str = str(current_question_index) 
     try:
         subprocess.run(
-            ["python", "save.py", status, question_json],
+            ["python", "save.py", status, question_json, question_index_str],
             check=True,
             capture_output=True,
             text=True,
@@ -139,6 +154,8 @@ if __name__ == "__main__":
     window = tk.Tk()
     window.title("題目顯示")
     window.geometry("600x450")
+    window.attributes("-topmost", True)
+
 
     current_mode = "light"
     bg_color = "white"
@@ -153,7 +170,8 @@ if __name__ == "__main__":
     # 取得總題數
     total_questions = len(question_data)
 
-    current_question_index = 0
+    current_question_index = get_last_index(checked_data, question_data)
+
     display_question(question_data, current_question_index, total_questions, checked_data)
 
     window.mainloop()
