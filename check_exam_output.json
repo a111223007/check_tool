@@ -1,0 +1,938 @@
+[
+    {
+        "total_question_number": 1,
+        "status": [
+            "題目錯誤"
+        ],
+        "question_data": {
+            "school": "私立健行科技大學",
+            "department": "電子工程研究所",
+            "year": "101",
+            "question_number": "1",
+            "question_text": "圖一電路中，若二極體為理想二極體，求 $I_D$ 之值。",
+            "options": [],
+            "type": "short-answer",
+            "image_file": [
+                "101-計算機概論-私立健行科技大學-電子工程研究所_page_2_1.png"
+            ]
+        }
+    },
+    {
+        "total_question_number": 2,
+        "status": [
+            "題目錯誤",
+            "路徑錯誤"
+        ],
+        "question_data": {
+            "school": "私立健行科技大學",
+            "department": "電子工程研究所",
+            "year": "101",
+            "question_number": "2",
+            "question_text": "圖二電路為一反向放大器，試求其輸出電壓 $v_o$。",
+            "options": [],
+            "type": "short-answer",
+            "image_file": [
+                "101-計算機概論-私立健行科技大學-電子工程研究所_page_2_2.png"
+            ]
+        }
+    },
+    {
+        "total_question_number": 3,
+        "status": [
+            "題目錯誤",
+            "路徑錯誤"
+        ],
+        "question_data": {
+            "school": "私立健行科技大學",
+            "department": "電子工程研究所",
+            "year": "101",
+            "question_number": "3",
+            "question_text": "圖三電路為一共同源放大器，試求其輸出電壓 $v_o$。",
+            "options": [],
+            "type": "short-answer",
+            "image_file": [
+                "101-計算機概論-私立健行科技大學-電子工程研究所_page_2_3.png"
+            ]
+        }
+    },
+    {
+        "total_question_number": 4,
+        "status": [
+            "題目錯誤",
+            "路徑錯誤"
+        ],
+        "question_data": {
+            "school": "私立健行科技大學",
+            "department": "電子工程研究所",
+            "year": "101",
+            "question_number": "4",
+            "question_text": "圖四電路為一共同汲極放大器，試求其輸出電壓 $v_o$。",
+            "options": [],
+            "type": "short-answer",
+            "image_file": [
+                "101-計算機概論-私立健行科技大學-電子工程研究所_page_2_4.png"
+            ]
+        }
+    },
+    {
+        "total_question_number": 5,
+        "status": [
+            "題目錯誤",
+            "路徑錯誤"
+        ],
+        "question_data": {
+            "school": "私立健行科技大學",
+            "department": "電子工程研究所",
+            "year": "101",
+            "question_number": "5",
+            "question_text": "圖五電路為一共同基極放大器，試求其輸出電壓 $v_o$。",
+            "options": [],
+            "type": "short-answer",
+            "image_file": [
+                "101-計算機概論-私立健行科技大學-電子工程研究所_page_2_5.png"
+            ]
+        }
+    },
+    {
+        "total_question_number": 6,
+        "status": [
+            "題目錯誤"
+        ],
+        "question_data": {
+            "school": "私立健行科技大學",
+            "department": "電子工程研究所",
+            "year": "101",
+            "question_number": "1",
+            "question_text": "圖一電路中，若 $V_D = 0.7V$，求 $I_D$ 之值？",
+            "options": [],
+            "type": "short-answer",
+            "image_file": [
+                "101-計算機概論-私立健行科技大學-電子工程研究所_page_2_1.png"
+            ]
+        }
+    },
+    {
+        "total_question_number": 7,
+        "status": [
+            "題目錯誤",
+            "路徑錯誤"
+        ],
+        "question_data": {
+            "school": "私立健行科技大學",
+            "department": "電子工程研究所",
+            "year": "101",
+            "question_number": "2",
+            "question_text": "圖二電路為一個加法器電路，試說明其運作原理。",
+            "options": [],
+            "type": "short-answer",
+            "image_file": [
+                "101-計算機概論-私立健行科技大學-電子工程研究所_page_2_2.png"
+            ]
+        }
+    },
+    {
+        "total_question_number": 8,
+        "status": [
+            "題目錯誤",
+            "路徑錯誤"
+        ],
+        "question_data": {
+            "school": "私立健行科技大學",
+            "department": "電子工程研究所",
+            "year": "101",
+            "question_number": "3",
+            "question_text": "圖三電路為一個電壓追隨器電路，試說明其運作原理及特性。",
+            "options": [],
+            "type": "short-answer",
+            "image_file": [
+                "101-計算機概論-私立健行科技大學-電子工程研究所_page_2_3.png"
+            ]
+        }
+    },
+    {
+        "total_question_number": 9,
+        "status": [
+            "題目錯誤",
+            "路徑錯誤"
+        ],
+        "question_data": {
+            "school": "私立健行科技大學",
+            "department": "電子工程研究所",
+            "year": "101",
+            "question_number": "4",
+            "question_text": "圖四電路為一個共射極放大器電路，試說明其運作原理及特性。",
+            "options": [],
+            "type": "short-answer",
+            "image_file": [
+                "101-計算機概論-私立健行科技大學-電子工程研究所_page_2_4.png"
+            ]
+        }
+    },
+    {
+        "total_question_number": 10,
+        "status": [
+            "題目錯誤",
+            "路徑錯誤"
+        ],
+        "question_data": {
+            "school": "私立健行科技大學",
+            "department": "電子工程研究所",
+            "year": "101",
+            "question_number": "5",
+            "question_text": "圖五電路為一個共源極放大器電路，試說明其運作原理及特性。",
+            "options": [],
+            "type": "short-answer",
+            "image_file": [
+                "101-計算機概論-私立健行科技大學-電子工程研究所_page_2_5.png"
+            ]
+        }
+    },
+    {
+        "total_question_number": 11,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "私立中原大學",
+            "department": "工業與系統工程學系碩士班甲組",
+            "year": "102",
+            "question_number": "8",
+            "question_text": "Create a program that estimates the adult height of a child based on the following formula, with parents' heights as the inputs (30 Points):\nBoy's adult height: \\(\\frac{(Father's Height + Mother's Height + 13)}{2}\\)\nGirl's adult height: \\(\\frac{(Father's Height - 13 + Mother's Height)}{2}\\)\nThe height unit is in centimeters (cm). The program will take the child's name, gender of the child (boy or girl), the height of the father in cm, and the height of the mother in cm as inputs. The program will output the estimated adult height in cm. The program will allow the user to enter a new set of values and get the predicted height until the user decides to quit.",
+            "options": [],
+            "type": "coding-answer",
+            "image_file": [
+                "102-計算機概論-私立中原大學-工業與系統工程學系碩士班甲組_page_3_1.png"
+            ]
+        }
+    },
+    {
+        "total_question_number": 12,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "私立元智大學",
+            "department": "生物與醫學資訊碩士學位學程",
+            "year": "102",
+            "question_number": "1",
+            "question_text": "Which of the following statements is incorrect?",
+            "options": [
+                "a. 2.25 = 10.01",
+                "b. 3167 = 121313",
+                "c. 101101001001₂ = 449₁₀",
+                "d. 447₁₀ = 3167₈"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 13,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "私立元智大學",
+            "department": "生物與醫學資訊碩士學位學程",
+            "year": "102",
+            "question_number": "2",
+            "question_text": "What is the largest positive integer that an 8-bit two's complement notation can represent?",
+            "options": [
+                "a. 128",
+                "b. 127",
+                "c. 255",
+                "d. 64"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 14,
+        "status": [
+            "選項錯誤"
+        ],
+        "question_data": {
+            "school": "私立元智大學",
+            "department": "生物與醫學資訊碩士學位學程",
+            "year": "102",
+            "question_number": "3",
+            "question_text": "Which of the following is the best description for \"pipelining?\"",
+            "options": [
+                "a. A rate of processing more than one instruction at a time.",
+                "b. A means of assigning particular bits to a pattern.",
+                "c. The interface between computer and a peripheral device.",
+                "d. A means of restricting the capabilities within a processor.",
+                "e. A means of encoding instructions for different processes."
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 15,
+        "status": [
+            "選項錯誤"
+        ],
+        "question_data": {
+            "school": "私立元智大學",
+            "department": "生物與醫學資訊碩士學位學程",
+            "year": "102",
+            "question_number": "4",
+            "question_text": "Which of the following is a protocol for controlling the right to transmit a message to a network?",
+            "options": [
+                "a. TCP",
+                "b. IP",
+                "c. I CANN",
+                "d. CSMA/CD",
+                "e. UDP"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 16,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "私立元智大學",
+            "department": "生物與醫學資訊碩士學位學程",
+            "year": "102",
+            "question_number": "5",
+            "question_text": "Which of the following tasks is not performed by the kernel of an operating system?",
+            "options": [
+                "a. Process scheduling",
+                "b. Resource allocation",
+                "c. Deadlock avoidance",
+                "d. Cache block replacement",
+                "e. File allocation"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 17,
+        "status": [
+            "選項錯誤"
+        ],
+        "question_data": {
+            "school": "私立元智大學",
+            "department": "生物與醫學資訊碩士學位學程",
+            "year": "102",
+            "question_number": "6-a",
+            "question_text": "Which of the following programs can self-terminate?",
+            "options": [
+                "a. $X = 3$",
+                "b. $X = 3$",
+                "c. repeat (X = X - 3) until (X < 0)",
+                "d. repeat (X = X - 3) until (X < 0)"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 18,
+        "status": [
+            "題目錯誤",
+            "選項錯誤"
+        ],
+        "question_data": {
+            "school": "私立元智大學",
+            "department": "生物與醫學資訊碩士學位學程",
+            "year": "102",
+            "question_number": "6-b",
+            "question_text": "while (X > 0) X = X - 2",
+            "options": [
+                "a. while (X > 0) X = X -1",
+                "b. while (X > 0) X = X -1",
+                "c. repeat (X = X - 3) until (X < 0)",
+                "d. repeat (X = X - 3) until (X < 0)"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 19,
+        "status": [
+            "選項錯誤"
+        ],
+        "question_data": {
+            "school": "私立元智大學",
+            "department": "生物與醫學資訊碩士學位學程",
+            "year": "102",
+            "question_number": "7",
+            "question_text": "Which of the following moments is incorrect?",
+            "options": [
+                "a. $0.125_{10} = 0.001_2$",
+                "b. $0.625_{10} = 0.101_2$",
+                "c. $2^{-3} = 0.125_{10}$",
+                "d. $0.1_2 = 0.5_{10}$",
+                "e. $0.01_2 > 0.001_2$"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 20,
+        "status": [
+            "題目錯誤",
+            "選項錯誤"
+        ],
+        "question_data": {
+            "school": "私立元智大學",
+            "department": "生物與醫學資訊碩士學位學程",
+            "year": "102",
+            "question_number": "8",
+            "question_text": "Which of the following is the postfix notation of the infix notation 4-(3+4)?",
+            "options": [
+                "a. 434+-",
+                "b. 43+4-",
+                "c. 43+4-",
+                "d. 434+-",
+                "e. 43+4-"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 21,
+        "status": [
+            "題號錯誤"
+        ],
+        "question_data": {
+            "school": "私立元智大學",
+            "department": "生物與醫學資訊碩士學位學程",
+            "year": "102",
+            "question_number": "9",
+            "question_text": "Which of the following combinations about the tree traversal is correct?",
+            "options": [
+                "a. Pre-order: ABCDE, In-order: BCAEDF, Post-order: EDCBA",
+                "b. Pre-order: ABCDFG, In-order: CBDAEFG, Post-order: EDCGFBA",
+                "c. Pre-order: ABCDEFG, In-order: CBAFEDG, Post-order: GFEDCBA",
+                "d. Pre-order: CGFAIBD, In-order: FGBABIE, Post-order: FGEBDA",
+                "e. None of above"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 22,
+        "status": [
+            "題號錯誤"
+        ],
+        "question_data": {
+            "school": "私立元智大學",
+            "department": "生物與醫學資訊碩士學位學程",
+            "year": "102",
+            "question_number": "10",
+            "question_text": "Which of the following logic gate combinations can implement any combinational Boolean function?",
+            "options": [
+                "a. (AND, NOT)",
+                "b. (XOR, NOT)",
+                "c. (XOR, AND)",
+                "d. (NOR, OR)",
+                "e. (AND, OR)"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 23,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "私立輔仁大學",
+            "department": "圖書資訊學系碩士班乙組",
+            "year": "102",
+            "question_number": "1",
+            "question_text": "QR_code",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 24,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "私立輔仁大學",
+            "department": "圖書資訊學系碩士班乙組",
+            "year": "102",
+            "question_number": "2",
+            "question_text": "數位落差",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 25,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "私立輔仁大學",
+            "department": "圖書資訊學系碩士班乙組",
+            "year": "102",
+            "question_number": "3",
+            "question_text": "資料探勘",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 26,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "私立輔仁大學",
+            "department": "圖書資訊學系碩士班乙組",
+            "year": "102",
+            "question_number": "4",
+            "question_text": "雲端運算",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 27,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "私立輔仁大學",
+            "department": "圖書資訊學系碩士班乙組",
+            "year": "102",
+            "question_number": "5",
+            "question_text": "請以十六進位制加法加總$(4DA)_{16} + (8F6)_{16} = (\\quad)_{16}$",
+            "options": [],
+            "type": "fill-in-the-blank",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 28,
+        "status": [
+            "題目錯誤"
+        ],
+        "question_data": {
+            "school": "私立輔仁大學",
+            "department": "圖書資訊學系碩士班乙組",
+            "year": "102",
+            "question_number": "6",
+            "question_text": "請將十進位數字轉成八進位與十六進位$(5168.625)_{10} = (\\quad)_8 = (\\quad)_{16}$",
+            "options": [],
+            "type": "fill-in-the-blank",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 29,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "私立輔仁大學",
+            "department": "圖書資訊學系碩士班乙組",
+            "year": "102",
+            "question_number": "7",
+            "question_text": "現在坊間使用的微軟windows 7作業系統有分成32位元版與64位元版，請問兩者有何差別。",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 30,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "私立輔仁大學",
+            "department": "圖書資訊學系碩士班乙組",
+            "year": "102",
+            "question_number": "8",
+            "question_text": "請說明在網路設定中，Net Mask 的作用，請用一個 IP 位址實例來解釋？",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 31,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "私立輔仁大學",
+            "department": "圖書資訊學系碩士班乙組",
+            "year": "102",
+            "question_number": "9",
+            "question_text": "請說明為何要發展IPv6？並列出其位址表示法？",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 32,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立成功大學",
+            "department": "工程科學系碩士班乙組",
+            "year": "103",
+            "question_number": "1",
+            "question_text": "For the following used terminologies in information field, explain the content, purpose, and application of each term and give an illustrative example if possible. If it is an acronym, give the full name. For example, UPS: Uninterruptible Power Supply, a device that contains surge protection circuits and one or more batteries to provide power during a temporary or permanent loss of power. (30%)\n(a) LTE; (b) OLED; (c) Full HD; (d) MPEG; (e) DVD; (f) FAT32; (g) APP; (h) MFC; (i) USB; (j) DDR.",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 33,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立成功大學",
+            "department": "工程科學系碩士班乙組",
+            "year": "103",
+            "question_number": "2-a",
+            "question_text": "List at least three operating systems applied in current commercial mobile phones. (5%)",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 34,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立成功大學",
+            "department": "工程科學系碩士班乙組",
+            "year": "103",
+            "question_number": "2-b",
+            "question_text": "What are the seven layers of Open Systems Interconnection protocols? (5%)",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 35,
+        "status": [
+            "路徑錯誤"
+        ],
+        "question_data": {
+            "school": "國立成功大學",
+            "department": "工程科學系碩士班乙組",
+            "year": "103",
+            "question_number": "3",
+            "question_text": "How can you express the exclusive OR function between events A and B by Boolean expression? (5%) How can you apply the above function to control the light which located between the upper and down stairs of a building? Draw your designed circuit. (10%)",
+            "options": [],
+            "type": "short-answer",
+            "image_file": [
+                "103-計算機概論-國立成功大學-工程科學系碩士班乙組_page_1_3.png"
+            ]
+        }
+    },
+    {
+        "total_question_number": 36,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立成功大學",
+            "department": "工程科學系碩士班乙組",
+            "year": "103",
+            "question_number": "4",
+            "question_text": "The program development life cycle is a set of steps programmers use to build computer programs. Give the steps and describe the jobs for each step. (10%)",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 37,
+        "status": [
+            "路徑錯誤"
+        ],
+        "question_data": {
+            "school": "國立成功大學",
+            "department": "工程科學系碩士班乙組",
+            "year": "103",
+            "question_number": "5-a",
+            "question_text": "Draw a digraph with at least 10 vertices and 20 edges. Represent the graph by (a) Adjacency list; (5%)",
+            "options": [],
+            "type": "draw-answer",
+            "image_file": [
+                "103-計算機概論-國立成功大學-工程科學系碩士班乙組_page_1_5-a.png"
+            ]
+        }
+    },
+    {
+        "total_question_number": 38,
+        "status": [
+            "路徑錯誤"
+        ],
+        "question_data": {
+            "school": "國立成功大學",
+            "department": "工程科學系碩士班乙組",
+            "year": "103",
+            "question_number": "5-b",
+            "question_text": "Adjacency matrix; (5%)",
+            "options": [],
+            "type": "draw-answer",
+            "image_file": [
+                "103-計算機概論-國立成功大學-工程科學系碩士班乙組_page_1_5-b.png"
+            ]
+        }
+    },
+    {
+        "total_question_number": 39,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立成功大學",
+            "department": "工程科學系碩士班乙組",
+            "year": "103",
+            "question_number": "5-c",
+            "question_text": "Give the complexities for the storage, edge insertion, and graph traversal operations (assume the graph with n vertices and m edges). (5%)",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 40,
+        "status": [
+            "題目錯誤"
+        ],
+        "question_data": {
+            "school": "國立成功大學",
+            "department": "工程科學系碩士班乙組",
+            "year": "103",
+            "question_number": "6-a",
+            "question_text": "The Fibonacci numbers is defined as $F_0$=0, $F_1$=1, and $F_n = F_{n-1} + F_{n-2}$ for $n \\ge 2$. Write a recursive algorithm to generate the number sequence. (5%)",
+            "options": [],
+            "type": "coding-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 41,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立成功大學",
+            "department": "工程科學系碩士班乙組",
+            "year": "103",
+            "question_number": "6-b",
+            "question_text": "Write an iterative algorithm to generate the number sequence. (5%)",
+            "options": [],
+            "type": "coding-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 42,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立成功大學",
+            "department": "工程科學系碩士班乙組",
+            "year": "103",
+            "question_number": "6-c",
+            "question_text": "Discuss the time complexities of (a) and (b), and give some comments. (5%)",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 43,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立成功大學",
+            "department": "工程科學系碩士班乙組",
+            "year": "103",
+            "question_number": "7",
+            "question_text": "How can you implement a priority queue by heap data structure? (5%)",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 44,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中山大學",
+            "department": "資訊管理學系碩士班甲組",
+            "year": "104",
+            "question_number": "7",
+            "question_text": "Consider 8-bit integers. Which of the following is the binary representation of \"-5\", when using 2's complement?",
+            "options": [
+                "a. 10000101",
+                "b. 10000110",
+                "c. 11111010",
+                "d. 11111011",
+                "e. 11111001"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 45,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中山大學",
+            "department": "資訊管理學系碩士班甲組",
+            "year": "104",
+            "question_number": "8",
+            "question_text": "Which of the following is the result of 0x2a8f \\oplus 0xa94e, where \\oplus indicates \"exclusive or\"?",
+            "options": [
+                "a. 0x83c1",
+                "b. 0x280e",
+                "c. 0xabef",
+                "d. 0xd3dd",
+                "e. 0x2a8f"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 46,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中山大學",
+            "department": "資訊管理學系碩士班甲組",
+            "year": "104",
+            "question_number": "9",
+            "question_text": "Which of the following is the result of 0x2a8f + 0xa94e, where + indicates \"addition\"?",
+            "options": [
+                "a. 0x83c1",
+                "b. 0x280e",
+                "c. 0xabef",
+                "d. 0xd3dd",
+                "e. 0x2a8f"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 47,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中山大學",
+            "department": "資訊管理學系碩士班甲組",
+            "year": "104",
+            "question_number": "10",
+            "question_text": "Flash memory chips are a type of _______, which means they consist entirely of electronic components, such as integrated circuits, and contain no moving parts.",
+            "options": [
+                "a. fixed disks",
+                "b. redundant array of independent disks",
+                "c. floppy disk",
+                "d. solid-state media",
+                "e. external hard drives"
+            ],
+            "type": "fill-in-the-blank",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 48,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中山大學",
+            "department": "資訊管理學系碩士班甲組",
+            "year": "104",
+            "question_number": "11",
+            "question_text": "What is the remainder of $2^{10}$?",
+            "options": [
+                "a. 0",
+                "b. 2",
+                "c. 4",
+                "d. 6",
+                "e. 8"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 49,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中山大學",
+            "department": "資訊管理學系碩士班甲組",
+            "year": "104",
+            "question_number": "12",
+            "question_text": "Which of the following Operating Systems requires more than one core?",
+            "options": [
+                "a. Real-time",
+                "b. Multiprogramming",
+                "c. Time-sharing",
+                "d. Virtual machine",
+                "e. None of the above"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 50,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中正大學",
+            "department": "資訊管理學系碩士班甲組",
+            "year": "104",
+            "question_number": "7",
+            "question_text": "下列的敘述中,哪些為真(true)?(28分)\n(A)演算法要滿足以下條件:輸入、輸出、明確性(definiteness)、無限性(infiniteness)、有效率性(effectiveness)。\n(B)抽象化資料型態(abstract data type)將物件及其運算規格,與物件實際表示方法與運算的實作方法分開。\n(C)與機器相關的時間和空間估計,亦即為複雜度理論。\n(D) 效能分析(performance analysis)與量測(performance measurement)都可用來找出沒有效率程式碼片段。\n(E) 空間複雜度(space complexity)是指完成程式所需要的記憶體大小。\n(F) O(nlogn)的時間複雜度高於O(m²)。\n(G) O(2ⁿ)的時間複雜度高於O(n)。",
+            "options": [],
+            "type": "multiple-choice",
+            "image_file": []
+        }
+    }
+]
