@@ -934,5 +934,807 @@
             "type": "multiple-choice",
             "image_file": []
         }
+    },
+    {
+        "total_question_number": 51,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中正大學",
+            "department": "資訊管理學系碩士班甲組",
+            "year": "104",
+            "question_number": "8",
+            "question_text": "下列的敘述中,哪些為真(true)?(12分)\n(A)堆疊(stack)為一後進先出(last-in-first-out)的有序串列。\n(B)堆疊(stack)的插入與刪除發生在不同端。\n(C)堆疊(stack)常被用於作業系統所建構的工作排程。",
+            "options": [],
+            "type": "multiple-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 52,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立高雄應用科技大學",
+            "department": "電子工程研究所丙組",
+            "year": "104",
+            "question_number": "1-a",
+            "question_text": "簡述CPU的功能或特性",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 53,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立高雄應用科技大學",
+            "department": "電子工程研究所丙組",
+            "year": "104",
+            "question_number": "1-b",
+            "question_text": "簡述RAM的功能或特性",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 54,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立高雄應用科技大學",
+            "department": "電子工程研究所丙組",
+            "year": "104",
+            "question_number": "1-c",
+            "question_text": "簡述ROM的功能或特性",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 55,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立高雄應用科技大學",
+            "department": "電子工程研究所丙組",
+            "year": "104",
+            "question_number": "1-d",
+            "question_text": "簡述CPU機器週期(Machine Cycle)的功能或特性",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 56,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立高雄應用科技大學",
+            "department": "電子工程研究所丙組",
+            "year": "104",
+            "question_number": "1-e",
+            "question_text": "簡述繼承(物件導向設計)的功能或特性",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 57,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立高雄應用科技大學",
+            "department": "電子工程研究所丙組",
+            "year": "104",
+            "question_number": "1-f",
+            "question_text": "簡述OS的功能或特性",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 58,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立高雄應用科技大學",
+            "department": "電子工程研究所丙組",
+            "year": "104",
+            "question_number": "1-g",
+            "question_text": "簡述Unicode的功能或特性",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 59,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立高雄應用科技大學",
+            "department": "電子工程研究所丙組",
+            "year": "104",
+            "question_number": "1-h",
+            "question_text": "簡述Thrashing的功能或特性",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 60,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立高雄應用科技大學",
+            "department": "電子工程研究所丙組",
+            "year": "104",
+            "question_number": "1-i",
+            "question_text": "簡述堆疊(Stack)的功能或特性",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 61,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立高雄應用科技大學",
+            "department": "電子工程研究所丙組",
+            "year": "104",
+            "question_number": "1-j",
+            "question_text": "簡述二元樹(Binary Tree)的功能或特性",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 62,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立高雄應用科技大學",
+            "department": "電子工程研究所丙組",
+            "year": "104",
+            "question_number": "2-a",
+            "question_text": "Z[0][0][0]的位址為何?",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 63,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立高雄應用科技大學",
+            "department": "電子工程研究所丙組",
+            "year": "104",
+            "question_number": "2-b",
+            "question_text": "Z[3][2][1]的位址為何?",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 64,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立高雄應用科技大學",
+            "department": "電子工程研究所丙組",
+            "year": "104",
+            "question_number": "3-a",
+            "question_text": "以迴圈方式來設計此函數。",
+            "options": [],
+            "type": "coding-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 65,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立高雄應用科技大學",
+            "department": "電子工程研究所丙組",
+            "year": "104",
+            "question_number": "3-b",
+            "question_text": "以遞迴方式來設計此函數。",
+            "options": [],
+            "type": "coding-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 66,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立高雄應用科技大學",
+            "department": "電子工程研究所丙組",
+            "year": "104",
+            "question_number": "4-a",
+            "question_text": "請利用C或JAVA程式語言撰寫此遞迴函數A。",
+            "options": [],
+            "type": "coding-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 67,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立高雄應用科技大學",
+            "department": "電子工程研究所丙組",
+            "year": "104",
+            "question_number": "4-b",
+            "question_text": "求A(2,4)的值。",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 68,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "土木工程學系碩士班辛：資訊應用組",
+            "year": "105",
+            "question_number": "1",
+            "question_text": "Please write in binary notation the number 1976 (base 10).",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 69,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "土木工程學系碩士班辛：資訊應用組",
+            "year": "105",
+            "question_number": "2",
+            "question_text": "Please write in binary notation the real number 0.671875 (base 10).",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 70,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "土木工程學系碩士班辛：資訊應用組",
+            "year": "105",
+            "question_number": "3-1",
+            "question_text": "Regarding Huffman Encoding: Suppose that we want to use binary notation to represent the string \"AAABBBAABCAAAABD\". Please show the count occurrence of each character.",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 71,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "土木工程學系碩士班辛：資訊應用組",
+            "year": "105",
+            "question_number": "3-2",
+            "question_text": "Regarding Huffman Encoding: Suppose that we want to use binary notation to represent the string \"AAABBBAABCAAAABD\". Please build a Huffman tree.",
+            "options": [],
+            "type": "draw-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 72,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "土木工程學系碩士班辛：資訊應用組",
+            "year": "105",
+            "question_number": "3-3",
+            "question_text": "Regarding Huffman Encoding: Suppose that we want to use binary notation to represent the string \"AAABBBAABCAAAABD\". Please use the tree to represent the given string.",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 73,
+        "status": [
+            "路徑錯誤"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "土木工程學系碩士班辛：資訊應用組",
+            "year": "105",
+            "question_number": "4",
+            "question_text": "Please indicate the name and describe the functionality of the component labelled \"?\" in the following diagram.",
+            "options": [],
+            "type": "short-answer",
+            "image_file": [
+                "105-計算機概論-國立中央大學-土木工程學系碩士班辛：資訊應用組_page_1_4.png"
+            ]
+        }
+    },
+    {
+        "total_question_number": 74,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "土木工程學系碩士班辛：資訊應用組",
+            "year": "105",
+            "question_number": "5",
+            "question_text": "Please describe the machine cycle, which includes FETCH, DECODE, and EXECUTE.",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 75,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "土木工程學系碩士班辛：資訊應用組",
+            "year": "105",
+            "question_number": "6-1",
+            "question_text": "Please explain the following terms: Semaphores",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 76,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "土木工程學系碩士班辛：資訊應用組",
+            "year": "105",
+            "question_number": "6-2",
+            "question_text": "Please explain the following terms: IPv4",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 77,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "土木工程學系碩士班辛：資訊應用組",
+            "year": "105",
+            "question_number": "6-3",
+            "question_text": "Please explain the following terms: IPv6",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 78,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "土木工程學系碩士班辛：資訊應用組",
+            "year": "105",
+            "question_number": "6-4",
+            "question_text": "Please explain the following terms: IP",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 79,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "土木工程學系碩士班辛：資訊應用組",
+            "year": "105",
+            "question_number": "6-5",
+            "question_text": "Please explain the following terms: TCP",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 80,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "土木工程學系碩士班辛：資訊應用組",
+            "year": "105",
+            "question_number": "6-6",
+            "question_text": "Please explain the following terms: UDP",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 81,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "土木工程學系碩士班辛：資訊應用組",
+            "year": "105",
+            "question_number": "6-7",
+            "question_text": "Please explain the following terms: OSI 7-layer model",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 82,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "土木工程學系碩士班辛：資訊應用組",
+            "year": "105",
+            "question_number": "7",
+            "question_text": "Please explain the Public/Private Key mechanism to securely transmit information on Internet.",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 83,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "土木工程學系碩士班辛：資訊應用組",
+            "year": "105",
+            "question_number": "8",
+            "question_text": "Please explain why your mobile phone can approximately show the current physical address of the device, by using a WiFi connection.",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 84,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "資訊管理學系碩士班丁組",
+            "year": "105",
+            "question_number": "1",
+            "question_text": "(1)何謂 DLL (Dynamic Linking Library)?(5%)\n(2) DLL Hijacking 是一種常見的駭客攻擊方法,請詳述其攻擊原理。(5%)\n(3)有哪些方法可以降低遭受DLL Hijacking 攻擊的風險,請詳述。(5%)",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 85,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "資訊管理學系碩士班丁組",
+            "year": "105",
+            "question_number": "2",
+            "question_text": "(1)何謂 Cache?其功用為何?(5%)\n(2)請比較下列兩種 cache write policy 的優缺點:write-through and write-back (5%)",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 86,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "資訊管理學系碩士班丁組",
+            "year": "105",
+            "question_number": "3-a",
+            "question_text": "什麼時候會採用Mesh 拓撲形狀建置網路?",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 87,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "資訊管理學系碩士班丁組",
+            "year": "105",
+            "question_number": "3-b",
+            "question_text": "為何雜湊函式(Hash Function)常被用來確保資料的完整性(Integrity)?",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 88,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "資訊管理學系碩士班丁組",
+            "year": "105",
+            "question_number": "3-c",
+            "question_text": "使用FHSS為何能在無線傳輸過程中避免資料遭竊聽?",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 89,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "資訊管理學系碩士班丁組",
+            "year": "105",
+            "question_number": "3-d",
+            "question_text": "CRC (Cyclic Redundancy Checksum)通常使用在OSI七層架構中那一層?",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 90,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "資訊管理學系碩士班丁組",
+            "year": "105",
+            "question_number": "3-e",
+            "question_text": "什麼時候會使用到調變(Modulation)技術?",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 91,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "資訊管理學系碩士班丁組",
+            "year": "105",
+            "question_number": "4",
+            "question_text": "試寫出以下HTML碼在瀏覽器的顯示結果:(5%)\n```html\n<!DOCTYPE html>\n<html>\n<body>\n<p id=\"deno\"></p>\nWhere is the text?\n<script>\ndocument.getElementById(\"demo\").innerHTML = \"Hello!\";\n</script>\n</body>\n</html>\n```",
+            "options": [],
+            "type": "coding-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 92,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "資訊管理學系碩士班丁組",
+            "year": "105",
+            "question_number": "5",
+            "question_text": "試寫出以下 HTML碼的顯示結果,並清楚標示CSS 屬性的影響:(5%)\n```html\n<!DOCTYPE html>\n<html>\n<head>\n<style>\nh1 {\n  color: red;\n  display: none;\n}\nh1.h {\n}\np {\n  background-color: lightgrey;\n  width: 300px;\n  padding: 10px;\n  border: 2px solid;\n}\n</style>\n</head>\n<body>\n<h1>This is heading1</h1>\n<h1 class=\"h\">This is heading2</h1>\n<p>CSS describes how HTML elements are to be displayed on screen, paper, or in\nother media.</p>\n</body>\n</html>\n```",
+            "options": [],
+            "type": "coding-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 93,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "資訊管理學系碩士班丁組",
+            "year": "105",
+            "question_number": "6",
+            "question_text": "CPM(Critical Path Method)是專案管理上的一個方法,試問在該方法裏,“Float”或是“Slack”是指甚麼?並請說明它與專案執行時間的關係?(%5)",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 94,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "資訊管理學系碩士班丁組",
+            "year": "105",
+            "question_number": "7",
+            "question_text": "有關電腦與軟體的系統發展,對於系統分析與設計,我們會將他們的工作大網與工作細部項目一一列出在 Gantt chat (typically categorized within a work breakdown structure),以安排工作時程。試問有那些因素會使這些工作大綱與工作細部項目有所不同?(作答時,需先一一列出這些因素,有所說明時再做說明)(%9)",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 95,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "資訊管理學系碩士班丁組",
+            "year": "105",
+            "question_number": "8",
+            "question_text": "有三個 relations 如下:1.學生(學號,姓名,系名,地址,電話),2.教室(教室代號,位置),3.修課(課程代號,學號,成績),4.課程(課程代號,課程名稱),其中畫底線之 attribute(s)為 relation 的主鍵。試以最簡之SQL 完成下列:擷取每一個課程的修課學生,列出課程名稱以及修課學生的名字、系別。(%6)",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 96,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "資訊管理學系碩士班丁組",
+            "year": "105",
+            "question_number": "9",
+            "question_text": "設有A, B兩 entities,其為多對多的對應關係,試以ERD (Chen notation 或Crow's Foot notation)圖示這兩 entities 及其對應關係。(註:若使用 Chen notation,ERD 圖內需包含 composite entity,以及 entities 問對應情況的資訊)(%5)",
+            "options": [],
+            "type": "draw-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 97,
+        "status": [
+            "題目錯誤"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "資訊管理學系碩士班丁組",
+            "year": "105",
+            "question_number": "10-A",
+            "question_text": "\"downcast\" is important for polymorphism. When should it be used? (5%)",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 98,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "資訊管理學系碩士班丁組",
+            "year": "105",
+            "question_number": "10-B",
+            "question_text": "How can it cause run-time exception if not used properly and how to avoid potential run time error during downcasting? (5%)",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 99,
+        "status": [
+            "圖片錯誤"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "資訊管理學系碩士班丁組",
+            "year": "105",
+            "question_number": "11-A",
+            "question_text": "針對下面這個問題,盡量用物件導向的概念來設計你的程式,(A)請畫出 class diagram (5%)",
+            "options": [],
+            "type": "draw-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 100,
+        "status": [
+            "圖片錯誤"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "資訊管理學系碩士班丁組",
+            "year": "105",
+            "question_number": "11-B",
+            "question_text": "寫出你的程式流程(10%)。(沒畫出 class diagram 則程式流程不予記分,程式與 class diagram 無法配合的會扣分)",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
     }
 ]
