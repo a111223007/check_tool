@@ -43,6 +43,8 @@ def save_result(status, question):
     except FileNotFoundError:
         print("錯誤：找不到 save.py 檔案。")
 
+error_vars = {}
+
 def toggle_mode():
     global current_mode, bg_color, fg_color
     current_mode = "dark" if current_mode == "light" else "light"
@@ -57,6 +59,8 @@ def apply_colors():
         mode_button.config(fg=fg_color, bg=bg_color)
 
 def display_question(question_data, question_index, total_questions, checked_data):
+    global error_vars
+
     question = question_data[question_index]
     for widget in window.winfo_children():
         if widget != mode_button:
@@ -88,12 +92,12 @@ def display_question(question_data, question_index, total_questions, checked_dat
     else:
         tk.Label(options_frame, text="（此題沒有選項）", fg="gray", bg=bg_color).pack(anchor='w')
 
-
+    tk.Label(options_frame, text="圖片路徑：", fg=fg_color, bg=bg_color).pack(anchor='w')
     if question['image_file']:
         image_filename = question['image_file'][0]
         tk.Label(window, text=f"圖片路徑 : {image_filename}", fg=fg_color, bg=bg_color).pack(pady=10)
     else:
-        tk.Label(window, text="圖片 : 沒有圖片", fg=fg_color, bg=bg_color).pack(pady=10)
+        tk.Label(options_frame, text="（此題沒有圖片路徑）", fg="gray", bg=bg_color).pack(anchor='w')
 
     # 顯示狀態（支援 list）
     saved_status = get_saved_status(checked_data, question)
@@ -116,13 +120,15 @@ def display_question(question_data, question_index, total_questions, checked_dat
     button_frame = tk.Frame(window, bg=bg_color)
     button_frame.pack(pady=10)
 
+    prev_values = {k: v.get() for k, v in error_vars.items()} if error_vars else {}
+
     # 錯誤類型勾選框
     error_vars = {
-        "題號錯誤": tk.BooleanVar(),
-        "題目錯誤": tk.BooleanVar(),
-        "選項錯誤": tk.BooleanVar(),
-        "圖片錯誤": tk.BooleanVar(),
-        "路徑錯誤": tk.BooleanVar(),
+        "題號錯誤": tk.BooleanVar(value=prev_values.get("題號錯誤", False)),
+        "題目錯誤": tk.BooleanVar(value=prev_values.get("題目錯誤", False)),
+        "選項錯誤": tk.BooleanVar(value=prev_values.get("選項錯誤", False)),
+        "圖片錯誤": tk.BooleanVar(value=prev_values.get("圖片錯誤", False)),
+        "路徑錯誤": tk.BooleanVar(value=prev_values.get("路徑錯誤", False)),
     }
     for label, var in error_vars.items():
         tk.Checkbutton(button_frame, text=label, variable=var, bg=bg_color, fg=fg_color).pack(anchor='w')
@@ -174,7 +180,7 @@ if __name__ == "__main__":
 
     window = tk.Tk()
     window.title("題目顯示")
-    window.geometry("600x600")
+    window.geometry("")
     window.attributes("-topmost", True)
 
     current_mode = "light"
