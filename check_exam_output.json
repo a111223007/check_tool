@@ -1736,5 +1736,21 @@
             "type": "short-answer",
             "image_file": []
         }
+    },
+    {
+        "total_question_number": 101,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "資訊管理學系碩士班乙組",
+            "year": "105",
+            "question_number": "1",
+            "question_text": "(1)何謂 DLL (Dynamic Linking Library)?(5%)\n(2) DLL Hijacking 是一種常見的駭客攻擊方法,請詳述其攻擊原理。(5%)\n(3)有哪些方法可以降低遭受DLL Hijacking 攻擊的風險,請詳述。(5%)",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
     }
 ]
