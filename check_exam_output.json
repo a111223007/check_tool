@@ -1752,5 +1752,261 @@
             "type": "short-answer",
             "image_file": []
         }
+    },
+    {
+        "total_question_number": 102,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "資訊管理學系碩士班乙組",
+            "year": "105",
+            "question_number": "2",
+            "question_text": "(1)何謂 Cache?其功用為何?(5%)\n(2)請比較下列兩種 cache write policy 的優缺點:write-through and write-back (5%)",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 103,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "資訊管理學系碩士班乙組",
+            "year": "105",
+            "question_number": "3-a",
+            "question_text": "什麼時候會採用Mesh 拓撲形狀建置網路?",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 104,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "資訊管理學系碩士班乙組",
+            "year": "105",
+            "question_number": "3-b",
+            "question_text": "為何雜湊函式(Hash Function)常被用來確保資料的完整性(Integrity)?",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 105,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "資訊管理學系碩士班乙組",
+            "year": "105",
+            "question_number": "3-c",
+            "question_text": "使用FHSS為何能在無線傳輸過程中避免資料遭竊聽?",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 106,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "資訊管理學系碩士班乙組",
+            "year": "105",
+            "question_number": "3-d",
+            "question_text": "CRC (Cyclic Redundancy Checksum)通常使用在OSI七層架構中那一層?",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 107,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "資訊管理學系碩士班乙組",
+            "year": "105",
+            "question_number": "3-e",
+            "question_text": "什麼時候會使用到調變(Modulation)技術?",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 108,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "資訊管理學系碩士班乙組",
+            "year": "105",
+            "question_number": "4",
+            "question_text": "試寫出以下HTML碼在瀏覽器的顯示結果:(5%)\n<!DOCTYPE html>\n<html>\n<body>\n<p id=\"demo\"></p>\nWhere is the text?\n<script>\ndocument.getElementById(\"demo\").innerHTML = \"Hello!\";\n</script>\n</body>\n</html>",
+            "options": [],
+            "type": "coding-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 109,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "資訊管理學系碩士班乙組",
+            "year": "105",
+            "question_number": "5",
+            "question_text": "試寫出以下 HTML碼的顯示結果,並清楚標示CSS 屬性的影響:(5%)\n<!DOCTYPE html>\n<html>\n<head>\n<style>\nh1 {\ncolor: red;\ndisplay: none;\n}\nh1.h {\n}\np {\nbackground-color: lightgrey;\nwidth: 300px;\npadding: 10px;\nborder: 2px solid;\n}\n</style>\n</head>\n<body>\n<h1>This is heading1</h1>\n<h1 class=\"h\">This is heading2</h1>\n<p>CSS describes how HTML elements are to be displayed on screen, paper, or in\nother media.</p>\n</body>\n</html>",
+            "options": [],
+            "type": "coding-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 110,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "資訊管理學系碩士班乙組",
+            "year": "105",
+            "question_number": "6",
+            "question_text": "CPM(Critical Path Method)是專案管理上的一個方法,試問在該方法裏,“Float”或是“Slack”是指甚麼?並請說明它與專案執行時間的關係?(%5)",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 111,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "資訊管理學系碩士班乙組",
+            "year": "105",
+            "question_number": "7",
+            "question_text": "有關電腦與軟體的系統發展,對於系統分析與設計,我們會將他們的工作大網與工作細部項目一一列出在 Gantt chat (typically categorized within a work breakdown structure),以安排工作時程。試問有那些因素會使這些工作大綱與工作細部項目有所不同?(作答時,需先一一列出這些因素,有所說明時再做說明)(%9)",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 112,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "資訊管理學系碩士班乙組",
+            "year": "105",
+            "question_number": "8",
+            "question_text": "有三個 relations 如下:1.學生(學號,姓名,系名,地址,電話),2.教室(教室代號,位置),3.修課(課程代號,學號,成績),4.課程(課程代號,課程名稱),其中畫底線之 attribute(s)為 relation 的主鍵。試以最簡之SQL 完成下列:擷取每一個課程的修課學生,列出課程名稱以及修課學生的名字、系別。(%6)",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 113,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "資訊管理學系碩士班乙組",
+            "year": "105",
+            "question_number": "9",
+            "question_text": "設有A, B兩 entities,其為多對多的對應關係,試以ERD (Chen notation 或Crow's Foot notation)圖示這兩 entities 及其對應關係。(註:若使用 Chen notation,ERD 圖內需包含 composite entity,以及 entities 問對應情況的資訊)(%5)",
+            "options": [],
+            "type": "draw-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 114,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "資訊管理學系碩士班乙組",
+            "year": "105",
+            "question_number": "10-A",
+            "question_text": "When should it be used? (5%)",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 115,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "資訊管理學系碩士班乙組",
+            "year": "105",
+            "question_number": "10-B",
+            "question_text": "How can it cause run-time exception if not used properly and how to avoid potential run time error during downcasting? (5%)",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 116,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "資訊管理學系碩士班乙組",
+            "year": "105",
+            "question_number": "11-A",
+            "question_text": "請畫出 class diagram (5%)",
+            "options": [],
+            "type": "draw-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 117,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "資訊管理學系碩士班乙組",
+            "year": "105",
+            "question_number": "11-B",
+            "question_text": "寫出你的程式流程(10%)。(沒畫出 class diagram 則程式流程不予記分,程式與 class diagram 無法配合的會扣分)",
+            "options": [],
+            "type": "coding-answer",
+            "image_file": []
+        }
     }
 ]
