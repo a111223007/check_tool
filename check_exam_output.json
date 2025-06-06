@@ -2008,5 +2008,812 @@
             "type": "coding-answer",
             "image_file": []
         }
+    },
+    {
+        "total_question_number": 118,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "資訊管理學系碩士班甲組",
+            "year": "105",
+            "question_number": "1",
+            "question_text": "(1)何謂 DLL (Dynamic Linking Library)?(5%)\n(2) DLL Hijacking 是一種常見的駭客攻擊方法,請詳述其攻擊原理。(5%)\n(3)有哪些方法可以降低遭受DLL Hijacking 攻擊的風險,請詳述。(5%)",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 119,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "資訊管理學系碩士班甲組",
+            "year": "105",
+            "question_number": "2",
+            "question_text": "(1)何謂 Cache?其功用為何?(5%)\n(2)請比較下列兩種 cache write policy 的優缺點:write-through and write-back (5%)",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 120,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "資訊管理學系碩士班甲組",
+            "year": "105",
+            "question_number": "3-a",
+            "question_text": "什麼時候會採用Mesh 拓撲形狀建置網路?",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 121,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "資訊管理學系碩士班甲組",
+            "year": "105",
+            "question_number": "3-b",
+            "question_text": "為何雜湊函式(Hash Function)常被用來確保資料的完整性(Integrity)?",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 122,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "資訊管理學系碩士班甲組",
+            "year": "105",
+            "question_number": "3-c",
+            "question_text": "使用FHSS為何能在無線傳輸過程中避免資料遭竊聽?",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 123,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "資訊管理學系碩士班甲組",
+            "year": "105",
+            "question_number": "3-d",
+            "question_text": "CRC (Cyclic Redundancy Checksum)通常使用在OSI七層架構中那一層?",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 124,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "資訊管理學系碩士班甲組",
+            "year": "105",
+            "question_number": "3-e",
+            "question_text": "什麼時候會使用到調變(Modulation)技術?",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 125,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "資訊管理學系碩士班甲組",
+            "year": "105",
+            "question_number": "4",
+            "question_text": "試寫出以下HTML碼在瀏覽器的顯示結果:(5%)\n```html\n<!DOCTYPE html>\n<html>\n<body>\n<p id=\"demo\"></p>\nWhere is the text?\n<script>\ndocument.getElementById(\"demo\").innerHTML = \"Hello!\";\n</script>\n</body>\n</html>\n```",
+            "options": [],
+            "type": "coding-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 126,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "資訊管理學系碩士班甲組",
+            "year": "105",
+            "question_number": "5",
+            "question_text": "試寫出以下 HTML碼的顯示結果,並清楚標示CSS 屬性的影響:(5%)\n```html\n<!DOCTYPE html>\n<html>\n<head>\n<style>\nh1 {\n  color: red;\ndisplay: none;\n}\np {\n  background-color: lightgrey;\n  width: 300px;\n  padding: 10px;\n  border: 2px solid;\n}\n</style>\n</head>\n<body>\n<h1>This is heading1</h1>\n<h1 class=\"h\">This is heading2</h1>\n<p>CSS describes how HTML elements are to be displayed on screen, paper, or in\nother media.</p>\n</body>\n</html>\n```",
+            "options": [],
+            "type": "coding-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 127,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "資訊管理學系碩士班甲組",
+            "year": "105",
+            "question_number": "6",
+            "question_text": "CPM(Critical Path Method)是專案管理上的一個方法,試問在該方法裏,“Float”或是“Slack”是指甚麼?並請說明它與專案執行時間的關係?(%5)",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 128,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "資訊管理學系碩士班甲組",
+            "year": "105",
+            "question_number": "7",
+            "question_text": "有關電腦與軟體的系統發展,對於系統分析與設計,我們會將他們的工作大網與工作細部項目一一列出在 Gantt chat (typically categorized within a work breakdown structure),以安排工作時程。試問有那些因素會使這些工作大綱與工作細部項目有所不同?(作答時,需先一一列出這些因素,有所說明時再做說明)(%9)",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 129,
+        "status": [
+            "題目錯誤"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "資訊管理學系碩士班甲組",
+            "year": "105",
+            "question_number": "8",
+            "question_text": "有三個 relations 如下:1.學生(學號,姓名,系名,地址,電話),2.教室(教室代號,位置),3.修課(課程代號,學號,成績),4.課程(課程代號,課程名稱),其中畫底線之 attribute(s)為 relation 的主鍵。試以最簡之SQL 完成下列:擷取每一個課程的修課學生,列出課程名稱以及修課學生的名字、系別。(%6)",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 130,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "資訊管理學系碩士班甲組",
+            "year": "105",
+            "question_number": "9",
+            "question_text": "設有A, B兩 entities,其為多對多的對應關係,試以ERD (Chen notation 或Crow's Foot notation) 圖示這兩 entities 及其對應關係。(註:若使用 Chen notation,ERD 圖內需包含 composite entity,以及 entities 問對應情況的資訊)(%5)",
+            "options": [],
+            "type": "draw-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 131,
+        "status": [
+            "題目錯誤"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "資訊管理學系碩士班甲組",
+            "year": "105",
+            "question_number": "10-A",
+            "question_text": "\"downcast\" is important for polymorphism. When should it be used? (5%)",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 132,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "資訊管理學系碩士班甲組",
+            "year": "105",
+            "question_number": "10-B",
+            "question_text": "How can it cause run-time exception if not used properly and how to avoid potential run time error during downcasting? (5%)",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 133,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "資訊管理學系碩士班甲組",
+            "year": "105",
+            "question_number": "11-A",
+            "question_text": "針對下面這個問題,盡量用物件導向的概念來設計你的程式,(A)請畫出 class diagram (5%)",
+            "options": [],
+            "type": "draw-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 134,
+        "status": [
+            "圖片錯誤",
+            "路徑錯誤"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "資訊管理學系碩士班甲組",
+            "year": "105",
+            "question_number": "11-B",
+            "question_text": "寫出你的程式流程(10%)。(沒畫出 class diagram 則程式流程不予記分,程式與 class diagram 無法配合的會扣分)\n輸入是一行分數的運算式,其中分數最多3個,運算子只有+和-,請輸出運算結果。分數格式為X/Y (X,Y為小於100的正整數),內無空格,分數和運算子間均有一空格隔開。",
+            "options": [],
+            "type": "coding-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 135,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立政治大學",
+            "department": "圖書資訊與檔案學研究所圖書資訊學組",
+            "year": "105",
+            "question_number": "1",
+            "question_text": "請解釋以下名詞:(20%)\n(1) 3D印列(3D printing) (5%)\n(2)容錯式磁碟陣列(Redundant Array of Independent Disks, RAID) (5%)\n(3) 物聯網(Internet of Things, IoT) (5%)\n(4)第4代行動通訊網路(4G) (5%)",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 136,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立政治大學",
+            "department": "圖書資訊與檔案學研究所圖書資訊學組",
+            "year": "105",
+            "question_number": "2-1",
+            "question_text": "關聯式資料庫中的資料表(table)與檢視表(view)有何不同?(5%)",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 137,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立政治大學",
+            "department": "圖書資訊與檔案學研究所圖書資訊學組",
+            "year": "105",
+            "question_number": "2-2",
+            "question_text": "說明採用檢視表(view)進行資料查詢的優點為何?(5%)",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 138,
+        "status": [
+            "路徑錯誤"
+        ],
+        "question_data": {
+            "school": "國立政治大學",
+            "department": "圖書資訊與檔案學研究所圖書資訊學組",
+            "year": "105",
+            "question_number": "2-3",
+            "question_text": "以下關聯式資料庫的資料表 Emp,請以SQL指令建立一個僅可查詢包含Emp_no, Emp_name 及 Sex欄位的檢視表 Emp_v1? (5%)",
+            "options": [],
+            "type": "coding-answer",
+            "image_file": [
+                "105-計算機概論-國立政治大學-圖書資訊與檔案學研究所圖書資訊學組_page_1_2_3.png"
+            ]
+        }
+    },
+    {
+        "total_question_number": 139,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立政治大學",
+            "department": "圖書資訊與檔案學研究所圖書資訊學組",
+            "year": "105",
+            "question_number": "2-4",
+            "question_text": "承上題,請以SQL指令查詢檢視表 Emp_v1 中所有性別為男性的資料?(5%)",
+            "options": [],
+            "type": "coding-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 140,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立政治大學",
+            "department": "圖書資訊與檔案學研究所圖書資訊學組",
+            "year": "105",
+            "question_number": "3-1",
+            "question_text": "試比較內部排序法與外部排序法的差異為何?(5%)",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 141,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立政治大學",
+            "department": "圖書資訊與檔案學研究所圖書資訊學組",
+            "year": "105",
+            "question_number": "3-2",
+            "question_text": "試說明如何評估排序演算法的優劣?(5%)",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 142,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立政治大學",
+            "department": "圖書資訊與檔案學研究所圖書資訊學組",
+            "year": "105",
+            "question_number": "3-3",
+            "question_text": "試用任何程式語言搭配陣列(array),撰寫一支氣泡排序法(bubble sort)程式,可以將(6,4,9,8,3)進行由小到大的排序?(10%)",
+            "options": [],
+            "type": "coding-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 143,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立政治大學",
+            "department": "圖書資訊與檔案學研究所圖書資訊學組",
+            "year": "105",
+            "question_number": "4",
+            "question_text": "試比較網路拓璞(topology)架構中的匯流排、環狀、星型及網狀的優缺點分別為何?(20%)",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 144,
+        "status": [
+            "路徑錯誤"
+        ],
+        "question_data": {
+            "school": "國立政治大學",
+            "department": "圖書資訊與檔案學研究所圖書資訊學組",
+            "year": "105",
+            "question_number": "5",
+            "question_text": "作業系統執行程序(process)若採用可搶先之SJF(shortest job first)方法,試計算以下四個程序的平均等待時間為何?(20%)",
+            "options": [],
+            "type": "short-answer",
+            "image_file": [
+                "105-計算機概論-國立政治大學-圖書資訊與檔案學研究所圖書資訊學組_page_1_5.png"
+            ]
+        }
+    },
+    {
+        "total_question_number": 145,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立政治大學",
+            "department": "數位內容碩士學位學程資訊技術組",
+            "year": "105",
+            "question_number": "1-1",
+            "question_text": "TCP (Transmission Control Protocol) is a core protocol of the Internet Protocol Suite, because it provides the fast connectionless service by exchanging packets without acknowledgements or guaranteed delivery.",
+            "options": [],
+            "type": "true-false",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 146,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立政治大學",
+            "department": "數位內容碩士學位學程資訊技術組",
+            "year": "105",
+            "question_number": "1-2",
+            "question_text": "Data structures queue and stack behave in the same way, because they both are used to hold a collection of data items and allow data items to be inserted into as well as removed from a collection in an arbitrary order.",
+            "options": [],
+            "type": "true-false",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 147,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立政治大學",
+            "department": "數位內容碩士學位學程資訊技術組",
+            "year": "105",
+            "question_number": "1-3",
+            "question_text": "The performance of a computer program depends on various components, such as the algorithm, the programming language, the compiler, the operating system, the hardware, etc.",
+            "options": [],
+            "type": "true-false",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 148,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立政治大學",
+            "department": "數位內容碩士學位學程資訊技術組",
+            "year": "105",
+            "question_number": "1-4",
+            "question_text": "For solving a problem, the divide-and-conquer approach first divides the given problem into sub-problems, conquers or solves each sub-problem, and then combines solutions for sub-problems into a solution for the given problem.",
+            "options": [],
+            "type": "true-false",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 149,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立政治大學",
+            "department": "數位內容碩士學位學程資訊技術組",
+            "year": "105",
+            "question_number": "1-5",
+            "question_text": "Typically speaking, there are five steps to transform a C program stored in a file into a program running in memory: Preprocessing, Assembling, Compiling, Linking, and Loading.",
+            "options": [],
+            "type": "true-false",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 150,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立政治大學",
+            "department": "數位內容碩士學位學程資訊技術組",
+            "year": "105",
+            "question_number": "2-1",
+            "question_text": "Which one of the following binary numbers is equivalent of the Octal value 111?",
+            "options": [
+                "a. 1100110",
+                "b. 1001101",
+                "c. 1001001",
+                "d. 1001100"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 151,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立政治大學",
+            "department": "數位內容碩士學位學程資訊技術組",
+            "year": "105",
+            "question_number": "2-2",
+            "question_text": "What is the smallest integer represented by 8 bits in two's complement format?",
+            "options": [
+                "a. -127",
+                "b. -128",
+                "c. -255",
+                "d. -256"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 152,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立政治大學",
+            "department": "數位內容碩士學位學程資訊技術組",
+            "year": "105",
+            "question_number": "2-3",
+            "question_text": "What is the largest integer represented by 8 bits in two's complement format?",
+            "options": [
+                "a. 127",
+                "b. 128",
+                "c. 255",
+                "d. 256"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 153,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立政治大學",
+            "department": "數位內容碩士學位學程資訊技術組",
+            "year": "105",
+            "question_number": "2-4",
+            "question_text": "Which one of the following sorting algorithms is the most efficient one in the worst case?",
+            "options": [
+                "a. Selection sort",
+                "b. Quick sort",
+                "c. Merge sort",
+                "d. Insertion sort"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 154,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立政治大學",
+            "department": "數位內容碩士學位學程資訊技術組",
+            "year": "105",
+            "question_number": "2-5",
+            "question_text": "Which the following expressions will be TRUE if A and C are both TRUE and B is FALSE?",
+            "options": [
+                "a. A XOR (B XOR C)",
+                "b. B XOR A",
+                "c. B OR (NOT A AND C)",
+                "d. C AND B"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 155,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立政治大學",
+            "department": "數位內容碩士學位學程資訊技術組",
+            "year": "105",
+            "question_number": "2-6",
+            "question_text": "Which one of the following techniques is the most similar to the technique of web proxy?",
+            "options": [
+                "a. Cache",
+                "b. Virtual machine",
+                "c. Multi-core processors",
+                "d. Cloud computing"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 156,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立政治大學",
+            "department": "數位內容碩士學位學程資訊技術組",
+            "year": "105",
+            "question_number": "2-7",
+            "question_text": "Which one of the following methods is the best way to select a pivot key for quick sort?",
+            "options": [
+                "a. Mode",
+                "b. The largest number",
+                "c. The smallest number",
+                "d. Median"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 157,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立政治大學",
+            "department": "數位內容碩士學位學程資訊技術組",
+            "year": "105",
+            "question_number": "2-8",
+            "question_text": "Which one of the following programs is NOT a compiler?",
+            "options": [
+                "a. GNU Compiler Collection",
+                "b. Firefox",
+                "c. Javac",
+                "d. Psyco"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 158,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立政治大學",
+            "department": "數位內容碩士學位學程資訊技術組",
+            "year": "105",
+            "question_number": "2-9",
+            "question_text": "Which one of the following programming languages is NOT an object-oriented programming language?",
+            "options": [
+                "a. Java",
+                "b. Fortran",
+                "c. C#",
+                "d. Python"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 159,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立政治大學",
+            "department": "數位內容碩士學位學程資訊技術組",
+            "year": "105",
+            "question_number": "1",
+            "question_text": "Why the IP address, 140.119.70.256, is INCORRECT?",
+            "options": [
+                "a. It has too few parts;",
+                "b. It contains an invalid value;",
+                "c. The numbers should add up to an even number;",
+                "d. The last number should end with 254."
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 160,
+        "status": [
+            "題目錯誤"
+        ],
+        "question_data": {
+            "school": "國立政治大學",
+            "department": "數位內容碩士學位學程資訊技術組",
+            "year": "105",
+            "question_number": "3-1",
+            "question_text": "CPU (Central Processing Unit)",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 161,
+        "status": [
+            "題目錯誤"
+        ],
+        "question_data": {
+            "school": "國立政治大學",
+            "department": "數位內容碩士學位學程資訊技術組",
+            "year": "105",
+            "question_number": "3-2",
+            "question_text": "VPN (Virtual Private Network)",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 162,
+        "status": [
+            "題目錯誤"
+        ],
+        "question_data": {
+            "school": "國立政治大學",
+            "department": "數位內容碩士學位學程資訊技術組",
+            "year": "105",
+            "question_number": "3-3",
+            "question_text": "DNS (Domain Name System)",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 163,
+        "status": [
+            "題目錯誤"
+        ],
+        "question_data": {
+            "school": "國立政治大學",
+            "department": "數位內容碩士學位學程資訊技術組",
+            "year": "105",
+            "question_number": "3-4",
+            "question_text": "SaaS (Software as a Service)",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 164,
+        "status": [
+            "題目錯誤"
+        ],
+        "question_data": {
+            "school": "國立政治大學",
+            "department": "數位內容碩士學位學程資訊技術組",
+            "year": "105",
+            "question_number": "3-5",
+            "question_text": "PaaS (Platform as a Service)",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
     }
 ]
