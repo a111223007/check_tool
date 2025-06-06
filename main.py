@@ -68,61 +68,79 @@ def display_question(question_data, question_index, total_questions, checked_dat
 
     apply_colors()
 
-    info_frame = tk.Frame(window, bg=bg_color)
-    info_frame.pack(pady=10)
+    # 建立 Canvas 和 Scrollbar
+    canvas = tk.Canvas(window, bg=bg_color, highlightthickness=0)
+    scrollbar = tk.Scrollbar(window, orient="vertical", command=canvas.yview)
+    scrollable_frame = tk.Frame(canvas, bg=bg_color)
 
+    scrollable_frame.bind(
+        "<Configure>",
+        lambda e: canvas.configure(scrollregion=canvas.bbox("all"))
+    )
+
+    canvas_window = canvas.create_window((0, 0), window=scrollable_frame, anchor="nw")
+    canvas.bind("<Configure>", lambda e: canvas.itemconfig(canvas_window, width=e.width))
+
+    canvas.configure(yscrollcommand=scrollbar.set)
+    canvas.pack(side="left", fill="both", expand=True)
+    scrollbar.pack(side="right", fill="y")
+
+    def _on_mousewheel(event):
+        canvas.yview_scroll(int(-1 * (event.delta / 120)), "units")
+    canvas.bind_all("<MouseWheel>", _on_mousewheel)
+
+    # === 顯示題目資訊 ===
+    info_frame = tk.Frame(scrollable_frame, bg=bg_color)
+    info_frame.pack(pady=10)
     tk.Label(info_frame, text=f"學校: {question['school']}", fg=fg_color, bg=bg_color).pack()
     tk.Label(info_frame, text=f"科系: {question['department']}", fg=fg_color, bg=bg_color).pack()
     tk.Label(info_frame, text=f"年份: {question['year']}", fg=fg_color, bg=bg_color).pack()
     tk.Label(info_frame, text=f"題號: {question['question_number']} ({question_index + 1}/{total_questions})", fg=fg_color, bg=bg_color).pack()
 
-    # 題目（放在選項前）
-    question_label = tk.Label(window, text="題目: " + question['question_text'], fg=fg_color, bg=bg_color, wraplength=500)
+    # 題目文字
+    question_label = tk.Label(scrollable_frame, text="題目: " + question['question_text'], fg=fg_color, bg=bg_color, wraplength=500, justify='left')
     question_label.pack(pady=10)
 
-    # 選項
-    options_frame = tk.Frame(window, bg=bg_color)
+    # 選項區
+    options_frame = tk.Frame(scrollable_frame, bg=bg_color)
     options_frame.pack(pady=5)
-
     tk.Label(options_frame, text="選項：", fg=fg_color, bg=bg_color).pack(anchor='w')
     if 'options' in question and isinstance(question['options'], list) and question['options']:
-        for idx, option in enumerate(question['options']):
-            option_text = f"{option}"
-            tk.Label(options_frame, text=option_text, fg=fg_color, bg=bg_color, wraplength=500, justify='left').pack(anchor='w')
+        for option in question['options']:
+            tk.Label(options_frame, text=option, fg=fg_color, bg=bg_color, wraplength=500, justify='left').pack(anchor='w')
     else:
         tk.Label(options_frame, text="（此題沒有選項）", fg="gray", bg=bg_color).pack(anchor='w')
 
-    tk.Label(options_frame, text="圖片路徑：", fg=fg_color, bg=bg_color).pack(anchor='w')
+    # 圖片路徑
+    image_frame = tk.Frame(scrollable_frame, bg=bg_color)
+    image_frame.pack(pady=10)
+
+    tk.Label(image_frame, text="圖片路徑：", fg=fg_color, bg=bg_color).pack()
     if question['image_file']:
         image_filename = question['image_file'][0]
-        tk.Label(window, text=f"圖片路徑 : {image_filename}", fg=fg_color, bg=bg_color).pack(pady=10)
+        tk.Label(image_frame, text=f"{image_filename}", fg=fg_color, bg=bg_color).pack()
     else:
-        tk.Label(options_frame, text="（此題沒有圖片路徑）", fg="gray", bg=bg_color).pack(anchor='w')
+        tk.Label(image_frame, text="（此題沒有圖片路徑）", fg="gray", bg=bg_color).pack()
 
-    # 顯示狀態（支援 list）
+
+    # 狀態顯示
     saved_status = get_saved_status(checked_data, question)
-
-    # 優先處理 list 中包含 "確認" 的情況
     if isinstance(saved_status, list):
         if "確認" in saved_status and len(saved_status) == 1:
-            # 單一確認：綠色
-            tk.Label(window, text="狀態: 確認", fg="green", bg=bg_color).pack(pady=5)
+            tk.Label(scrollable_frame, text="狀態: 確認", fg="green", bg=bg_color).pack(pady=5)
         else:
-            # 多個錯誤（含或不含確認）：紅色
             status_str = "、".join(saved_status)
-            tk.Label(window, text=f"狀態: {status_str}", fg="red", bg=bg_color).pack(pady=5)
+            tk.Label(scrollable_frame, text=f"狀態: {status_str}", fg="red", bg=bg_color).pack(pady=5)
     elif saved_status == "確認":
-        tk.Label(window, text=f"狀態: {saved_status}", fg="green", bg=bg_color).pack(pady=5)
+        tk.Label(scrollable_frame, text=f"狀態: {saved_status}", fg="green", bg=bg_color).pack(pady=5)
     else:
-        tk.Label(window, text="狀態: 未標記", fg="orange", bg=bg_color).pack(pady=5)
+        tk.Label(scrollable_frame, text="狀態: 未標記", fg="orange", bg=bg_color).pack(pady=5)
 
-
-    button_frame = tk.Frame(window, bg=bg_color)
+    # 勾選框與按鈕
+    button_frame = tk.Frame(scrollable_frame, bg=bg_color)
     button_frame.pack(pady=10)
 
     prev_values = {k: v.get() for k, v in error_vars.items()} if error_vars else {}
-
-    # 錯誤類型勾選框
     error_vars = {
         "題號錯誤": tk.BooleanVar(value=prev_values.get("題號錯誤", False)),
         "題目錯誤": tk.BooleanVar(value=prev_values.get("題目錯誤", False)),
@@ -161,10 +179,12 @@ def display_question(question_data, question_index, total_questions, checked_dat
             window.destroy()
 
     # 按鈕
+    btn_frame = tk.Frame(scrollable_frame, bg=bg_color)
+    btn_frame.pack(pady=10)
+    tk.Button(btn_frame, text="儲存錯誤並下一題", command=incorrect_answer, fg="black", bg="white").pack(side=tk.LEFT, padx=10)
+    tk.Button(btn_frame, text="正確", command=correct_answer, fg="black", bg="white").pack(side=tk.LEFT, padx=10)
+    tk.Button(btn_frame, text="上一題", command=previous_question, fg="black", bg="white").pack(side=tk.LEFT, padx=10)
 
-    tk.Button(button_frame, text="儲存錯誤並下一題", command=incorrect_answer, fg="black", bg="white").pack(side=tk.LEFT, padx=10)
-    tk.Button(button_frame, text="正確", command=correct_answer, fg="black", bg="white").pack(side=tk.LEFT, padx=10)
-    tk.Button(button_frame, text="上一題", command=previous_question, fg="black", bg="white").pack(side=tk.LEFT, padx=10)
 
 # 主程式入口
 if __name__ == "__main__":
@@ -180,7 +200,7 @@ if __name__ == "__main__":
 
     window = tk.Tk()
     window.title("題目顯示")
-    window.geometry("")
+    window.geometry("600x600")
     window.attributes("-topmost", True)
 
     current_mode = "light"
