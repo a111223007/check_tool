@@ -8035,5 +8035,565 @@
                 "105-計算機概論（3）-國立雲林科技大學-電機工程研究所_page_2_9.png"
             ]
         }
+    },
+    {
+        "total_question_number": 460,
+        "status": [
+            "圖片錯誤",
+            "路徑錯誤"
+        ],
+        "question_data": {
+            "school": "國立雲林科技大學",
+            "department": "電機工程研究所",
+            "year": "105",
+            "question_number": "10",
+            "question_text": "考慮圖三之程式碼，該程式是否可編譯(compliable)且被執行？若可被執行，程式之輸出為何？若無法編譯或執行，請說明理由。(10分)\n```c\n#include <stdio.h>\n#include <math.h>\nstruct point {\n int x, y;\n};\ndouble dist (point vi, point *vj)\n{\n static double length = 0;\n length += sqrt(pow(vi.x - vj->x, 2) + pow(vi.y - vj->y, 2));\n return length;\n}\nint main(int argc, char *argv[])\n{\n double length;\n point vertex[4] = {{0, 0}, {0, 2}, {2, 2}, {2, 0}};\n for (int i = 0, j = sizeof(vertex) / sizeof(point); i < j; i++)\n  length = dist(vertex[i], &vertex[(i + 1) % j]);\n printf(\"length = %g\\n\", length);\n return 0;\n}\n```",
+            "options": [],
+            "type": "short-answer",
+            "image_file": [
+                "105-計算機概論（3）-國立雲林科技大學-電機工程研究所_page_3_10.png"
+            ]
+        }
+    },
+    {
+        "total_question_number": 461,
+        "status": [
+            "題目錯誤"
+        ],
+        "question_data": {
+            "school": "國立臺灣大學",
+            "department": "工程科學及海洋工程學系碩士班丁組",
+            "year": "105",
+            "question_number": "1-a",
+            "question_text": "Do you think the following code is an efficient way to calculate the cross product of data and weight? Explain your reason.",
+            "options": [],
+            "type": "short-answer",
+            "image_file": [
+                "105-計算機概論（A）-國立臺灣大學-工程科學及海洋工程學系碩士班丁組_page_1_1.png"
+            ]
+        }
+    },
+    {
+        "total_question_number": 462,
+        "status": [
+            "題目錯誤"
+        ],
+        "question_data": {
+            "school": "國立臺灣大學",
+            "department": "工程科學及海洋工程學系碩士班丁組",
+            "year": "105",
+            "question_number": "1-b",
+            "question_text": "What will you do if you want to improve the performance of the program?",
+            "options": [],
+            "type": "short-answer",
+            "image_file": [
+                "105-計算機概論（A）-國立臺灣大學-工程科學及海洋工程學系碩士班丁組_page_1_1.png"
+            ]
+        }
+    },
+    {
+        "total_question_number": 463,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立臺灣大學",
+            "department": "工程科學及海洋工程學系碩士班丁組",
+            "year": "105",
+            "question_number": "2",
+            "question_text": "Wright a program/function div(a, b, n) which can output the division of any two integers at n-digit precision? (This div function should be workable for 0 < n < 1000) For example, div(2, 3, 5) should output 6.66660-1, div(100, 7, 10) should output 1.428571428e1",
+            "options": [],
+            "type": "coding-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 464,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立臺灣大學",
+            "department": "工程科學及海洋工程學系碩士班丁組",
+            "year": "105",
+            "question_number": "3",
+            "question_text": "A palindrome is a word, phrase, number or other sequence of units that can be read the same way in either direction. For example, \"5812185\" and \"lifeefil\" are both palindromes. Given a file of all ASCII texts. Find the positions and corresponding length of all palindromes (length > 2) occurred in this text file, output (offset, length) as the result. For example, in \"mississippi\", we can output the palindroms occurrences as the following:\n(1, 7) ississi\n(1, 4) issi\n(2, 5) ssiss\n(3, 3) sis\n(4, 4) insi\n(7, 4) ippi",
+            "options": [],
+            "type": "coding-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 465,
+        "status": [
+            "圖片錯誤",
+            "路徑錯誤"
+        ],
+        "question_data": {
+            "school": "國立臺灣大學",
+            "department": "工程科學及海洋工程學系碩士班丁組",
+            "year": "105",
+            "question_number": "4",
+            "question_text": "Sudoku (數獨, digit-single) is a logic-based, combinatorial number-placement puzzle. The objective is to fill a 9x9 grid with digits so that each column, each row, and each of the nine 3x3 sub-grids that compose the grid (also called \"boxes\", \"blocks\", \"regions\", or \"sub-squares\") contains all of the digits from 1 to 9. The puzzle setter provides a partially completed grid, which for a well-posed puzzle has a unique solution. Please write a program to solve a sudoku and output the result. Your sudoku program read data from a file.",
+            "options": [],
+            "type": "coding-answer",
+            "image_file": [
+                "105-計算機概論（A）-國立臺灣大學-工程科學及海洋工程學系碩士班丁組_page_1_4.png"
+            ]
+        }
+    },
+    {
+        "total_question_number": 466,
+        "status": [
+            "題目錯誤"
+        ],
+        "question_data": {
+            "school": "國立臺灣大學",
+            "department": "生醫電子與資訊學研究所丙組",
+            "year": "105",
+            "question_number": "1-1",
+            "question_text": "OCR: Optical Character Recognition",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 467,
+        "status": [
+            "題目錯誤"
+        ],
+        "question_data": {
+            "school": "國立臺灣大學",
+            "department": "生醫電子與資訊學研究所丙組",
+            "year": "105",
+            "question_number": "1-2",
+            "question_text": "IrDA: Infra-red Data Association",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 468,
+        "status": [
+            "題目錯誤"
+        ],
+        "question_data": {
+            "school": "國立臺灣大學",
+            "department": "生醫電子與資訊學研究所丙組",
+            "year": "105",
+            "question_number": "1-3",
+            "question_text": "register",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 469,
+        "status": [
+            "題目錯誤"
+        ],
+        "question_data": {
+            "school": "國立臺灣大學",
+            "department": "生醫電子與資訊學研究所丙組",
+            "year": "105",
+            "question_number": "1-4",
+            "question_text": "SRAM",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 470,
+        "status": [
+            "題目錯誤"
+        ],
+        "question_data": {
+            "school": "國立臺灣大學",
+            "department": "生醫電子與資訊學研究所丙組",
+            "year": "105",
+            "question_number": "1-5",
+            "question_text": "software engineering",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 471,
+        "status": [
+            "題目錯誤"
+        ],
+        "question_data": {
+            "school": "國立臺灣大學",
+            "department": "生醫電子與資訊學研究所丙組",
+            "year": "105",
+            "question_number": "1-6",
+            "question_text": "CMM: Capability Maturity Model",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 472,
+        "status": [
+            "題目錯誤"
+        ],
+        "question_data": {
+            "school": "國立臺灣大學",
+            "department": "生醫電子與資訊學研究所丙組",
+            "year": "105",
+            "question_number": "1-7",
+            "question_text": "RAID",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 473,
+        "status": [
+            "題目錯誤"
+        ],
+        "question_data": {
+            "school": "國立臺灣大學",
+            "department": "生醫電子與資訊學研究所丙組",
+            "year": "105",
+            "question_number": "1-8",
+            "question_text": "TCP",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 474,
+        "status": [
+            "題目錯誤"
+        ],
+        "question_data": {
+            "school": "國立臺灣大學",
+            "department": "生醫電子與資訊學研究所丙組",
+            "year": "105",
+            "question_number": "1-9",
+            "question_text": "IP",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 475,
+        "status": [
+            "題目錯誤"
+        ],
+        "question_data": {
+            "school": "國立臺灣大學",
+            "department": "生醫電子與資訊學研究所丙組",
+            "year": "105",
+            "question_number": "1-10",
+            "question_text": "RFID",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 476,
+        "status": [
+            "題目錯誤"
+        ],
+        "question_data": {
+            "school": "國立臺灣大學",
+            "department": "生醫電子與資訊學研究所丙組",
+            "year": "105",
+            "question_number": "1-11",
+            "question_text": "Wi-Fi",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 477,
+        "status": [
+            "題目錯誤"
+        ],
+        "question_data": {
+            "school": "國立臺灣大學",
+            "department": "生醫電子與資訊學研究所丙組",
+            "year": "105",
+            "question_number": "1-12",
+            "question_text": "EPROM",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 478,
+        "status": [
+            "題目錯誤"
+        ],
+        "question_data": {
+            "school": "國立臺灣大學",
+            "department": "生醫電子與資訊學研究所丙組",
+            "year": "105",
+            "question_number": "1-13",
+            "question_text": "LAN",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 479,
+        "status": [
+            "題目錯誤"
+        ],
+        "question_data": {
+            "school": "國立臺灣大學",
+            "department": "生醫電子與資訊學研究所丙組",
+            "year": "105",
+            "question_number": "1-14",
+            "question_text": "MPEG",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 480,
+        "status": [
+            "題目錯誤"
+        ],
+        "question_data": {
+            "school": "國立臺灣大學",
+            "department": "生醫電子與資訊學研究所丙組",
+            "year": "105",
+            "question_number": "1-15",
+            "question_text": "bin packing problem",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 481,
+        "status": [
+            "題目錯誤"
+        ],
+        "question_data": {
+            "school": "國立臺灣大學",
+            "department": "生醫電子與資訊學研究所丙組",
+            "year": "105",
+            "question_number": "1-16",
+            "question_text": "traveling salesman problem",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 482,
+        "status": [
+            "題目錯誤"
+        ],
+        "question_data": {
+            "school": "國立臺灣大學",
+            "department": "生醫電子與資訊學研究所丙組",
+            "year": "105",
+            "question_number": "1-17",
+            "question_text": "two's complement",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 483,
+        "status": [
+            "題目錯誤"
+        ],
+        "question_data": {
+            "school": "國立臺灣大學",
+            "department": "生醫電子與資訊學研究所丙組",
+            "year": "105",
+            "question_number": "1-18",
+            "question_text": "carry",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 484,
+        "status": [
+            "題目錯誤"
+        ],
+        "question_data": {
+            "school": "國立臺灣大學",
+            "department": "生醫電子與資訊學研究所丙組",
+            "year": "105",
+            "question_number": "1-19",
+            "question_text": "full adder",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 485,
+        "status": [
+            "題目錯誤"
+        ],
+        "question_data": {
+            "school": "國立臺灣大學",
+            "department": "生醫電子與資訊學研究所丙組",
+            "year": "105",
+            "question_number": "1-20",
+            "question_text": "check sum",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 486,
+        "status": [
+            "題目錯誤"
+        ],
+        "question_data": {
+            "school": "國立臺灣大學",
+            "department": "生醫電子與資訊學研究所丙組",
+            "year": "105",
+            "question_number": "1-21",
+            "question_text": "NAND gate",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 487,
+        "status": [
+            "題目錯誤"
+        ],
+        "question_data": {
+            "school": "國立臺灣大學",
+            "department": "生醫電子與資訊學研究所丙組",
+            "year": "105",
+            "question_number": "1-22",
+            "question_text": "XOR gate",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 488,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立臺灣大學",
+            "department": "生醫電子與資訊學研究所丙組",
+            "year": "105",
+            "question_number": "2",
+            "question_text": "Please explain bubble sort and quicksort in detail. What are their average-case time complexities?",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 489,
+        "status": [
+            "題目錯誤"
+        ],
+        "question_data": {
+            "school": "國立臺灣大學",
+            "department": "生醫電子與資訊學研究所丙組",
+            "year": "105",
+            "question_number": "3",
+            "question_text": "Assume that the variables x and y are both pointes to characters, what does the following C/C++ statement do? Explain in detail how the processing proceeds.\nWhile (*x+y++);",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 490,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立臺灣大學",
+            "department": "生醫電子與資訊學研究所丙組",
+            "year": "105",
+            "question_number": "4",
+            "question_text": "iPhone 6 Plus camera captures 8 Mega Pixel images. Each pixel has three primary colors, and each color has 256 intensities. This camera can take 30 images within one second. What is the data rate of this camera?",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 491,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立臺灣大學",
+            "department": "生醫電子與資訊學研究所丙組",
+            "year": "105",
+            "question_number": "5",
+            "question_text": "Please write the seven layers of Open Systems Interconnection (OSI) model and explain their functions in detail.",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 492,
+        "status": [
+            "題目錯誤",
+            "圖片錯誤",
+            "路徑錯誤"
+        ],
+        "question_data": {
+            "school": "國立臺灣大學",
+            "department": "生醫電子與資訊學研究所丙組",
+            "year": "105",
+            "question_number": "6",
+            "question_text": "Let G=[V, E] be a directed graph where V represents vertices, and E represents edges. E= {(2, 1), (3, 2), (2, 3), (1, 4), (2, 4), (3, 1), (3, 4)}. Each pair (i, j) in E means that there is an arc from node i to node j. Please draw the directed graph and write in-degree and out-degree of each vertex.",
+            "options": [],
+            "type": "draw-answer",
+            "image_file": [
+                "105-計算機概論（B）-國立臺灣大學-生醫電子與資訊學研究所丙組_page_1_6.png"
+            ]
+        }
+    },
+    {
+        "total_question_number": 493,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立臺灣大學",
+            "department": "生醫電子與資訊學研究所丙組",
+            "year": "105",
+            "question_number": "7",
+            "question_text": "Please insert 54, 32, 91, 23, 14, 94, 12, 56, 67, 77 sequentially and construct a binary search tree. Please draw the binary search tree before and after deleting 54 and replacing with in-order successor.",
+            "options": [],
+            "type": "draw-answer",
+            "image_file": [
+                "105-計算機概論（B）-國立臺灣大學-生醫電子與資訊學研究所丙組_page_1_7.png"
+            ]
+        }
     }
 ]
