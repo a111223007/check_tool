@@ -2863,5 +2863,1638 @@
             "type": "short-answer",
             "image_file": []
         }
+    },
+    {
+        "total_question_number": 168,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立政治大學",
+            "department": "數位內容碩士學位學程資訊技術組",
+            "year": "105",
+            "question_number": "6-2",
+            "question_text": "Calculate the file size of a greyscale digital image in pixel 1024x768. (1KB = 1024 bytes)",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 169,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立政治大學",
+            "department": "資訊管理學系碩士班科技組",
+            "year": "105",
+            "question_number": "1",
+            "question_text": "請指出下列程式之錯誤(15%)\nclass Test {\npublic static void main(String[] args) {\nA a = new A(50);\na.print();\n}\n}\nclass A {\nString s;\nA(String s) {\n}\nthis.s = s;\npublic void print() {\nSystem.out.print(s);\n}\n}",
+            "options": [],
+            "type": "short-answer",
+            "image_file": [
+                "105-計算機概論-國立政治大學-資訊管理學系碩士班科技組_page_1_1.png"
+            ]
+        }
+    },
+    {
+        "total_question_number": 170,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立政治大學",
+            "department": "資訊管理學系碩士班科技組",
+            "year": "105",
+            "question_number": "2",
+            "question_text": "舉例說明 Java 的繼承 inheritance 以及 override 的機制。(10%)",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 171,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立政治大學",
+            "department": "資訊管理學系碩士班科技組",
+            "year": "105",
+            "question_number": "3",
+            "question_text": "說明 class variable, instance variable, local variable 等三種變數,其生命期 lifetime 分別為何?(15%)",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 172,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立政治大學",
+            "department": "資訊管理學系碩士班科技組",
+            "year": "105",
+            "question_number": "4",
+            "question_text": "說明 Singleton pattern 的意義,結構,並撰寫實作程式。(20%)",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 173,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立政治大學",
+            "department": "資訊管理學系碩士班科技組",
+            "year": "105",
+            "question_number": "5",
+            "question_text": "在關聯式資料庫中,何謂aggregate function?舉出五個標準 aggregate function,並分別說明其功能。(20%)",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 174,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立政治大學",
+            "department": "資訊管理學系碩士班科技組",
+            "year": "105",
+            "question_number": "6",
+            "question_text": "說明 VPN (virtual private network)的結構與功能。(20%)",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 175,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立政治大學",
+            "department": "資訊管理學系碩士班資管組",
+            "year": "105",
+            "question_number": "1",
+            "question_text": "What is Big Data?",
+            "options": [
+                "a. It describes the oversized packets produced by intermediary devices in the loT.",
+                "b. It describes the increased number of end devices, servers, and routers required to accommodate the data.",
+                "c. It describes the data that only comes from Cloud computing applications.",
+                "d. It describes the collection and analysis of vast stores of data for insights that can help empower decision makers."
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 176,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立政治大學",
+            "department": "資訊管理學系碩士班資管組",
+            "year": "105",
+            "question_number": "2",
+            "question_text": "What is meant by the term \"Fog computing\"?",
+            "options": [
+                "a. It is a type of computing where services are hosted where they are used, such as at the network edge or with end devices.",
+                "b. It is a type of computing that sends controller data to a sensor.",
+                "c. It is a type of computing that disperses servers and services globally in distributed data centers.",
+                "d. It is a type of computing that enhances P2P applications."
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 177,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立政治大學",
+            "department": "資訊管理學系碩士班資管組",
+            "year": "105",
+            "question_number": "3",
+            "question_text": "Which characteristic describe Ethernet technology?",
+            "options": [
+                "a. It is supported by IEEE 802.5 standards.",
+                "b. It typically uses an average of 16 Mb/s for data transfer rates.",
+                "c. It uses the CSMA/CD access control method.",
+                "d. It uses a ring topology."
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 178,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立政治大學",
+            "department": "資訊管理學系碩士班資管組",
+            "year": "105",
+            "question_number": "4",
+            "question_text": "A user can access to a file server that is on the same network, but the traffic of the user cannot reach the Internet. What is a possible cause of the problem?",
+            "options": [
+                "a. The PC default gateway address is missing or incorrect.",
+                "b. The PC has an incorrect IP address.",
+                "c. The network cable connected to the user PC is faulty.",
+                "d. The NIC on the PC is faulty."
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 179,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立政治大學",
+            "department": "資訊管理學系碩士班資管組",
+            "year": "105",
+            "question_number": "5",
+            "question_text": "What is a definition for CPU throttling?",
+            "options": [
+                "a. the ability to modify CPU clock speed as needed",
+                "b. overclocking",
+                "c. the sharing of processing between two or more cores",
+                "d. upgrading the CPU without changing the motherboard"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 180,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立政治大學",
+            "department": "資訊管理學系碩士班資管組",
+            "year": "105",
+            "question_number": "6",
+            "question_text": "A constructor cannot:",
+            "options": [
+                "a. be overloaded.",
+                "b. specify return types or return values.",
+                "c. initialize variables to their defaults.",
+                "d. have the same name as the class."
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 181,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立政治大學",
+            "department": "資訊管理學系碩士班資管組",
+            "year": "105",
+            "question_number": "7",
+            "question_text": "A user receives a phone call from a person who claims to represent IT services and then asks that user for confirmation of username and password for auditing purposes. Which security threat does this phone call represent?",
+            "options": [
+                "a. DDoS",
+                "b. spam",
+                "c. social engineering",
+                "d. anonymous keylogging"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 182,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立政治大學",
+            "department": "資訊管理學系碩士班資管組",
+            "year": "105",
+            "question_number": "8",
+            "question_text": "Which protocol operates at the application layer of the TCP/IP model?",
+            "options": [
+                "a. PPP",
+                "b. UDP",
+                "c. FTP",
+                "d. ICMP"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 183,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立政治大學",
+            "department": "資訊管理學系碩士班資管組",
+            "year": "105",
+            "question_number": "9",
+            "question_text": "A student is helping a friend with a home computer that can no longer access the Internet. Upon investigation, the student discovers that the computer has been assigned the IP address 169.254.100.88. What could cause a computer to get such an IP address?",
+            "options": [
+                "a. static IP addressing with incomplete information",
+                "b. unreachable DHCP server",
+                "c. reduced computer power supply output",
+                "d. interference from surrounding devices"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 184,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立政治大學",
+            "department": "資訊管理學系碩士班資管組",
+            "year": "105",
+            "question_number": "10",
+            "question_text": "In Java, pass-by-value is used with:",
+            "options": [
+                "a. objects",
+                "b. primitive types",
+                "c. arrays",
+                "d. all of the above"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 185,
+        "status": [
+            "題目錯誤"
+        ],
+        "question_data": {
+            "school": "國立政治大學",
+            "department": "資訊管理學系碩士班資管組",
+            "year": "105",
+            "question_number": "2-1",
+            "question_text": "請圖示說明PKI交易運作流程。",
+            "options": [],
+            "type": "draw-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 186,
+        "status": [
+            "題目錯誤"
+        ],
+        "question_data": {
+            "school": "國立政治大學",
+            "department": "資訊管理學系碩士班資管組",
+            "year": "105",
+            "question_number": "2-2",
+            "question_text": "說明如何達到身分驗證、交易不可否認性、資料完整性與隱密性。",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 187,
+        "status": [
+            "題目錯誤",
+            "圖片錯誤",
+            "路徑錯誤"
+        ],
+        "question_data": {
+            "school": "國立政治大學",
+            "department": "資訊管理學系碩士班資管組",
+            "year": "105",
+            "question_number": "3-1",
+            "question_text": "該程式具何種漏洞?",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 188,
+        "status": [
+            "題目錯誤",
+            "圖片錯誤",
+            "路徑錯誤"
+        ],
+        "question_data": {
+            "school": "國立政治大學",
+            "department": "資訊管理學系碩士班資管組",
+            "year": "105",
+            "question_number": "3-2",
+            "question_text": "此漏洞如何造成危害其運作原理是什麼?",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 189,
+        "status": [
+            "題目錯誤",
+            "圖片錯誤",
+            "路徑錯誤"
+        ],
+        "question_data": {
+            "school": "國立政治大學",
+            "department": "資訊管理學系碩士班資管組",
+            "year": "105",
+            "question_number": "3-3",
+            "question_text": "如何修補?",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 190,
+        "status": [
+            "題目錯誤"
+        ],
+        "question_data": {
+            "school": "國立政治大學",
+            "department": "資訊管理學系碩士班資管組",
+            "year": "105",
+            "question_number": "4-1",
+            "question_text": "請繪出該二元樹T結構並於各節點上註明平衡因子(Balance Factor, BF)之值。",
+            "options": [],
+            "type": "draw-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 191,
+        "status": [
+            "題目錯誤"
+        ],
+        "question_data": {
+            "school": "國立政治大學",
+            "department": "資訊管理學系碩士班資管組",
+            "year": "105",
+            "question_number": "4-2",
+            "question_text": "若加入一數 32於此二元樹T之樹葉節點下得到T',T'之中序仍為已排序之數列,請繪出二元樹T'並於各節點上註明BF值。",
+            "options": [],
+            "type": "draw-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 192,
+        "status": [
+            "題目錯誤"
+        ],
+        "question_data": {
+            "school": "國立政治大學",
+            "department": "資訊管理學系碩士班資管組",
+            "year": "105",
+            "question_number": "4-3",
+            "question_text": "請說明 T'是否符合高度平衡樹(AVL Tree)定義?如否請繪出調整後之高度平衡二元樹並於各節點上註明BF值。",
+            "options": [],
+            "type": "draw-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 193,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立政治大學",
+            "department": "資訊管理學系碩士班資管組",
+            "year": "105",
+            "question_number": "1",
+            "question_text": "某校園樓層請您進行IPv4 網路規劃,分配使用192.168.120.0/24 網段,因內有不同部門與使用目的,要求切成6個子網路且路由器允許每個子網路可用不同子網路遮罩,經訪談並考慮日後擴充,已將每個子網路欲連結網路之設備數量列於下表,從192.168.120.0開始依 A,B,C,D,E,F順序分配,依據設備數量進行最小可涵蓋之子網路規劃,請完成下表將各子網路位址、廣播位址、子網路遮罩與預設閘道器(此位址為該子網路最後一個可用位址)標註括弧內編號填寫於答案紙上:",
+            "options": [],
+            "type": "short-answer",
+            "image_file": [
+                "105-計算機概論-國立政治大學-資訊管理學系碩士班資管組_page_4_1.png"
+            ]
+        }
+    },
+    {
+        "total_question_number": 194,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立臺北科技大學",
+            "department": "土木工程系土木與防災研究所己組",
+            "year": "105",
+            "question_number": "1",
+            "question_text": "請問十進位數字88的二進位表示法為:",
+            "options": [
+                "a. 111010",
+                "b. 1011000",
+                "c. 1001100"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 195,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立臺北科技大學",
+            "department": "土木工程系土木與防災研究所己組",
+            "year": "105",
+            "question_number": "2",
+            "question_text": "請問八進位數字506相當於十進位的:",
+            "options": [
+                "a. 300",
+                "b. 593",
+                "c. 326"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 196,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立臺北科技大學",
+            "department": "土木工程系土木與防災研究所己組",
+            "year": "105",
+            "question_number": "3",
+            "question_text": "請問十進位數字-7的二進位補數表示法為:",
+            "options": [
+                "a. 1001",
+                "b. 0111",
+                "c. 1010"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 197,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立臺北科技大學",
+            "department": "土木工程系土木與防災研究所己組",
+            "year": "105",
+            "question_number": "4",
+            "question_text": "使用整數運算法(Integer Arithmetic)得13/2+6等於多少:",
+            "options": [
+                "a. 11",
+                "b. 12",
+                "c. 13"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 198,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立臺北科技大學",
+            "department": "土木工程系土木與防災研究所己組",
+            "year": "105",
+            "question_number": "5",
+            "question_text": "請問C++運算式 cout << sin(30);會在螢幕上印出以下哪一個數字:",
+            "options": [
+                "a. 0.5000",
+                "b. -0.988032",
+                "c. -0.5000"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 199,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立臺北科技大學",
+            "department": "土木工程系土木與防災研究所己組",
+            "year": "105",
+            "question_number": "6",
+            "question_text": "請問C++運算式 cout << pow(4,1/2);會在螢幕上印出以下哪一個數字:",
+            "options": [
+                "a. 2",
+                "b. 0",
+                "c. 1"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 200,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立臺北科技大學",
+            "department": "土木工程系土木與防災研究所己組",
+            "year": "105",
+            "question_number": "7",
+            "question_text": "請問 Fortran運算式write(*,*)3**2**3會在螢幕上印出以下哪一個數字:",
+            "options": [
+                "a. 6561",
+                "b. 729",
+                "c. 18"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 201,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立臺北科技大學",
+            "department": "土木工程系土木與防災研究所己組",
+            "year": "105",
+            "question_number": "8",
+            "question_text": "請問 Fortran 運算式write(*,*) NINT(5.5)會在螢幕上印出以下哪一個數字:",
+            "options": [
+                "a. 6",
+                "b. 5",
+                "c. 5.5"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 202,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立臺北科技大學",
+            "department": "土木工程系土木與防災研究所己組",
+            "year": "105",
+            "question_number": "9",
+            "question_text": "請問在執行C++運算式if (x = 2*3) y = 0;之後整數x會等於多少:",
+            "options": [
+                "a. 不確定,資訊不足",
+                "b. 6",
+                "c. 0"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 203,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立臺北科技大學",
+            "department": "土木工程系土木與防災研究所己組",
+            "year": "105",
+            "question_number": "10",
+            "question_text": "請問在執行C++運算式x = 1; y = x++*3/2;之後實數y會等於多少:",
+            "options": [
+                "a. 2.0",
+                "b. 3.0",
+                "c. 1.5"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 204,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立臺北科技大學",
+            "department": "土木工程系土木與防災研究所己組",
+            "year": "105",
+            "question_number": "11",
+            "question_text": "請問在執行C++運算式int temp, count = 10; temp = &count; *temp = 20;之後 count 會等於多少:",
+            "options": [
+                "a. 10",
+                "b. 20",
+                "c. 15"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 205,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立臺北科技大學",
+            "department": "土木工程系土木與防災研究所己組",
+            "year": "105",
+            "question_number": "12",
+            "question_text": "請問在執行C++運算式 int a = 5; int *ptr = &a; *ptr += 5; cout << a;之後螢幕上會顯示多少:",
+            "options": [
+                "a. 10",
+                "b. 5",
+                "c. 15"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 206,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立臺北科技大學",
+            "department": "土木工程系土木與防災研究所己組",
+            "year": "105",
+            "question_number": "13",
+            "question_text": "請問在執行C++運算式int a = 5; int *ptr = &a; *ptr += 5; cout << ptr;之後螢幕上最有可能會顯示多少:",
+            "options": [
+                "a. 10",
+                "b. 5",
+                "c. 0x28fef8"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 207,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立臺北科技大學",
+            "department": "土木工程系土木與防災研究所己組",
+            "year": "105",
+            "question_number": "14",
+            "question_text": "下列哪一項時間複雜度最低(所需時間最短):",
+            "options": [
+                "a. O(n)",
+                "b. O(logn)",
+                "c. O(2<sup>n</sup>)"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 208,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立臺北科技大學",
+            "department": "土木工程系土木與防災研究所己組",
+            "year": "105",
+            "question_number": "15",
+            "question_text": "若一個程式執行所需的時間為6n<sup>3</sup>+3n<sup>2</sup>+4n+1次,則其時間複雜度為:",
+            "options": [
+                "a. O(6n<sup>3</sup>+3n<sup>2</sup>+4n+1)",
+                "b. O(6n<sup>3</sup>)",
+                "c. O(n<sup>3</sup>)"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 209,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立臺北科技大學",
+            "department": "土木工程系土木與防災研究所己組",
+            "year": "105",
+            "question_number": "16",
+            "question_text": "請問插入排序法(Insertion sort)的時間複雜度為何:",
+            "options": [
+                "a. O(n<sup>2</sup>)",
+                "b. O(n)",
+                "c. O(log<sub>2</sub>n)"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 210,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立臺北科技大學",
+            "department": "土木工程系土木與防災研究所己組",
+            "year": "105",
+            "question_number": "17",
+            "question_text": "請問以下何者不是演算法的必要特性之一:",
+            "options": [
+                "a. 正確性",
+                "b. 有限性",
+                "c. 遞迴性"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 211,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立臺北科技大學",
+            "department": "土木工程系土木與防災研究所己組",
+            "year": "105",
+            "question_number": "18",
+            "question_text": "請問哪一種資料結構具有後進先出(LIFO)的特性:",
+            "options": [
+                "a. 堆疊(stack)",
+                "b. 佇列(queue)",
+                "c. 陣列(array)"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 212,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立臺北科技大學",
+            "department": "土木工程系土木與防災研究所己組",
+            "year": "105",
+            "question_number": "19",
+            "question_text": "請問樹狀資料結構中必有的節點為何:",
+            "options": [
+                "a. 葉節點(leaf)",
+                "b. 根節點(root)",
+                "c. 原點(origin)"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 213,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立臺北科技大學",
+            "department": "土木工程系土木與防災研究所己組",
+            "year": "105",
+            "question_number": "20",
+            "question_text": "請問3個節點最多可組成多少種不同的二元樹:",
+            "options": [
+                "a. 5",
+                "b. 6",
+                "c. 10"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 214,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立臺北科技大學",
+            "department": "土木工程系土木與防災研究所己組",
+            "year": "105",
+            "question_number": "21",
+            "question_text": "在圖形理論中,存在尤拉循環(Eulerian Cycle)的圖形可以從某一點開始,經過所有邊,然後:",
+            "options": [
+                "a. 回到同一點",
+                "b. 回到另一點",
+                "c. 以上皆是"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 215,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立臺北科技大學",
+            "department": "土木工程系土木與防災研究所己組",
+            "year": "105",
+            "question_number": "22",
+            "question_text": "請問C++類別的資料成員預設的存取控制為:",
+            "options": [
+                "a. public",
+                "b. private",
+                "c. protected"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 216,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立臺北科技大學",
+            "department": "土木工程系土木與防災研究所己組",
+            "year": "105",
+            "question_number": "23",
+            "question_text": "在C++中 destructor 必須要傳回:",
+            "options": [
+                "a. 指向物件的指標(pointer)",
+                "b. 物件本身",
+                "c. 以上皆非"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 217,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立臺北科技大學",
+            "department": "土木工程系土木與防災研究所己組",
+            "year": "105",
+            "question_number": "24",
+            "question_text": "從C++的抽象基礎類別(abstract base class)中可以產生多少物件:",
+            "options": [
+                "a. 1個",
+                "b. 0個",
+                "c. 多少個都可以"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 218,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立臺北科技大學",
+            "department": "土木工程系土木與防災研究所己組",
+            "year": "105",
+            "question_number": "25",
+            "question_text": "請問C++的預設建造者(default constructor)需要接收多少參數:",
+            "options": [
+                "a. 2個",
+                "b. 1個",
+                "c. 0個"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 219,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立臺北科技大學",
+            "department": "經營管理系研究所不分組",
+            "year": "105",
+            "question_number": "1-a",
+            "question_text": "請指出下列檔案的屬性: a. *.avi",
+            "options": [
+                "a. 圖像格式",
+                "b. 數位聲音格式",
+                "c. 視訊格式"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 220,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立臺北科技大學",
+            "department": "經營管理系研究所不分組",
+            "year": "105",
+            "question_number": "1-b",
+            "question_text": "請指出下列檔案的屬性: b. *.cda",
+            "options": [
+                "a. 圖像格式",
+                "b. 數位聲音格式",
+                "c. 視訊格式"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 221,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立臺北科技大學",
+            "department": "經營管理系研究所不分組",
+            "year": "105",
+            "question_number": "1-c",
+            "question_text": "請指出下列檔案的屬性: c. *.eps",
+            "options": [
+                "a. 圖像格式",
+                "b. 數位聲音格式",
+                "c. 視訊格式"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 222,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立臺北科技大學",
+            "department": "經營管理系研究所不分組",
+            "year": "105",
+            "question_number": "1-d",
+            "question_text": "請指出下列檔案的屬性: d. *.mov",
+            "options": [
+                "a. 圖像格式",
+                "b. 數位聲音格式",
+                "c. 視訊格式"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 223,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立臺北科技大學",
+            "department": "經營管理系研究所不分組",
+            "year": "105",
+            "question_number": "1-e",
+            "question_text": "請指出下列檔案的屬性: e. *.mp3",
+            "options": [
+                "a. 圖像格式",
+                "b. 數位聲音格式",
+                "c. 視訊格式"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 224,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立臺北科技大學",
+            "department": "經營管理系研究所不分組",
+            "year": "105",
+            "question_number": "1-f",
+            "question_text": "請指出下列檔案的屬性: f. *.png",
+            "options": [
+                "a. 圖像格式",
+                "b. 數位聲音格式",
+                "c. 視訊格式"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 225,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立臺北科技大學",
+            "department": "經營管理系研究所不分組",
+            "year": "105",
+            "question_number": "1-g",
+            "question_text": "請指出下列檔案的屬性: g. *.qt",
+            "options": [
+                "a. 圖像格式",
+                "b. 數位聲音格式",
+                "c. 視訊格式"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 226,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立臺北科技大學",
+            "department": "經營管理系研究所不分組",
+            "year": "105",
+            "question_number": "1-h",
+            "question_text": "請指出下列檔案的屬性: h. *.raw",
+            "options": [
+                "a. 圖像格式",
+                "b. 數位聲音格式",
+                "c. 視訊格式"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 227,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立臺北科技大學",
+            "department": "經營管理系研究所不分組",
+            "year": "105",
+            "question_number": "1-i",
+            "question_text": "請指出下列檔案的屬性: i. *.tiff",
+            "options": [
+                "a. 圖像格式",
+                "b. 數位聲音格式",
+                "c. 視訊格式"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 228,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立臺北科技大學",
+            "department": "經營管理系研究所不分組",
+            "year": "105",
+            "question_number": "1-k",
+            "question_text": "請指出下列檔案的屬性: k. *.wma",
+            "options": [
+                "a. 圖像格式",
+                "b. 數位聲音格式",
+                "c. 視訊格式"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 229,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立臺北科技大學",
+            "department": "經營管理系研究所不分組",
+            "year": "105",
+            "question_number": "2",
+            "question_text": "請說明何謂資料庫系統與檔案系統?並比較其差異與優劣?(15分)請列出三種以上的資料庫名稱。(5分)",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 230,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立臺北科技大學",
+            "department": "經營管理系研究所不分組",
+            "year": "105",
+            "question_number": "3",
+            "question_text": "資訊安全是建置資訊系統時的首要任務,請分別說明安全圖章、安全憑證、電子簽章法、APTCHA 的防護模式。(20分)",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 231,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立臺北科技大學",
+            "department": "經營管理系研究所不分組",
+            "year": "105",
+            "question_number": "4",
+            "question_text": "Web 伺服器是提供網頁服務的電腦主機,請列出公司建置一台Web伺服器所需要的配備為何?(10分)並列出二個以上市面上常用的Web伺服軟體,以及常用的瀏覽器。(10分)",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 232,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立臺北科技大學",
+            "department": "經營管理系研究所不分組",
+            "year": "105",
+            "question_number": "5",
+            "question_text": "請說明電子商務的B2B、B2C、C2C、O2O的經營模式。(20分)",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 233,
+        "status": [
+            "題目錯誤"
+        ],
+        "question_data": {
+            "school": "國立臺北科技大學",
+            "department": "自動化科技研究所乙組",
+            "year": "105",
+            "question_number": "1-a",
+            "question_text": "Turing test",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 234,
+        "status": [
+            "題目錯誤"
+        ],
+        "question_data": {
+            "school": "國立臺北科技大學",
+            "department": "自動化科技研究所乙組",
+            "year": "105",
+            "question_number": "1-b",
+            "question_text": "Router",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 235,
+        "status": [
+            "題目錯誤"
+        ],
+        "question_data": {
+            "school": "國立臺北科技大學",
+            "department": "自動化科技研究所乙組",
+            "year": "105",
+            "question_number": "1-c",
+            "question_text": "Bus contention",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 236,
+        "status": [
+            "題目錯誤"
+        ],
+        "question_data": {
+            "school": "國立臺北科技大學",
+            "department": "自動化科技研究所乙組",
+            "year": "105",
+            "question_number": "1-d",
+            "question_text": "Deadlock",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 237,
+        "status": [
+            "題目錯誤"
+        ],
+        "question_data": {
+            "school": "國立臺北科技大學",
+            "department": "自動化科技研究所乙組",
+            "year": "105",
+            "question_number": "1-e",
+            "question_text": "Interrupt",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 238,
+        "status": [
+            "題目錯誤"
+        ],
+        "question_data": {
+            "school": "國立臺北科技大學",
+            "department": "自動化科技研究所乙組",
+            "year": "105",
+            "question_number": "1-f",
+            "question_text": "Cloud computing",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 239,
+        "status": [
+            "題目錯誤"
+        ],
+        "question_data": {
+            "school": "國立臺北科技大學",
+            "department": "自動化科技研究所乙組",
+            "year": "105",
+            "question_number": "1-g",
+            "question_text": "Memory-mapped IO",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 240,
+        "status": [
+            "題目錯誤"
+        ],
+        "question_data": {
+            "school": "國立臺北科技大學",
+            "department": "自動化科技研究所乙組",
+            "year": "105",
+            "question_number": "1-h",
+            "question_text": "Public-key encryption",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 241,
+        "status": [
+            "題目錯誤"
+        ],
+        "question_data": {
+            "school": "國立臺北科技大學",
+            "department": "自動化科技研究所乙組",
+            "year": "105",
+            "question_number": "1-i",
+            "question_text": "Phishing",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 242,
+        "status": [
+            "題目錯誤"
+        ],
+        "question_data": {
+            "school": "國立臺北科技大學",
+            "department": "自動化科技研究所乙組",
+            "year": "105",
+            "question_number": "1-j",
+            "question_text": "Big-theta notation",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 243,
+        "status": [
+            "題目錯誤",
+            "圖片錯誤"
+        ],
+        "question_data": {
+            "school": "國立臺北科技大學",
+            "department": "自動化科技研究所乙組",
+            "year": "105",
+            "question_number": "2-a",
+            "question_text": "Describe what would happen if the upper input were temporarily changed to 0.",
+            "options": [],
+            "type": "short-answer",
+            "image_file": [
+                "105-計算機概論-國立臺北科技大學-自動化科技研究所乙組_page_1_2-a.png"
+            ]
+        }
+    },
+    {
+        "total_question_number": 244,
+        "status": [
+            "題目錯誤",
+            "圖片錯誤"
+        ],
+        "question_data": {
+            "school": "國立臺北科技大學",
+            "department": "自動化科技研究所乙組",
+            "year": "105",
+            "question_number": "2-b",
+            "question_text": "Describe what would happen if the lower input were temporarily changed to 0.",
+            "options": [],
+            "type": "short-answer",
+            "image_file": [
+                "105-計算機概論-國立臺北科技大學-自動化科技研究所乙組_page_1_2-b.png"
+            ]
+        }
+    },
+    {
+        "total_question_number": 245,
+        "status": [
+            "題目錯誤",
+            "圖片錯誤"
+        ],
+        "question_data": {
+            "school": "國立臺北科技大學",
+            "department": "自動化科技研究所乙組",
+            "year": "105",
+            "question_number": "2-c",
+            "question_text": "Redraw the circuit using NAND gates.",
+            "options": [],
+            "type": "draw-answer",
+            "image_file": [
+                "105-計算機概論-國立臺北科技大學-自動化科技研究所乙組_page_1_2-c.png"
+            ]
+        }
+    },
+    {
+        "total_question_number": 246,
+        "status": [
+            "題目錯誤",
+            "圖片錯誤",
+            "路徑錯誤"
+        ],
+        "question_data": {
+            "school": "國立臺北科技大學",
+            "department": "自動化科技研究所乙組",
+            "year": "105",
+            "question_number": "3-a",
+            "question_text": "Translate the instructions that are executed into English.",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 247,
+        "status": [
+            "題目錯誤",
+            "圖片錯誤",
+            "路徑錯誤"
+        ],
+        "question_data": {
+            "school": "國立臺北科技大學",
+            "department": "自動化科技研究所乙組",
+            "year": "105",
+            "question_number": "3-b",
+            "question_text": "What bit pattern is in the memory cell at address 42 when the machine halts?",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 248,
+        "status": [
+            "題目錯誤"
+        ],
+        "question_data": {
+            "school": "國立臺北科技大學",
+            "department": "自動化科技研究所乙組",
+            "year": "105",
+            "question_number": "3-c",
+            "question_text": "What bit pattern is in the program counter when the machine halts?",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 249,
+        "status": [
+            "題目錯誤",
+            "圖片錯誤",
+            "路徑錯誤"
+        ],
+        "question_data": {
+            "school": "國立臺北科技大學",
+            "department": "自動化科技研究所乙組",
+            "year": "105",
+            "question_number": "4-a",
+            "question_text": "Identify the body of the loop.",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 250,
+        "status": [
+            "題目錯誤",
+            "圖片錯誤",
+            "路徑錯誤"
+        ],
+        "question_data": {
+            "school": "國立臺北科技大學",
+            "department": "自動化科技研究所乙組",
+            "year": "105",
+            "question_number": "4-b",
+            "question_text": "Where is the initialization step for the loop control?",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 251,
+        "status": [
+            "題目錯誤",
+            "圖片錯誤",
+            "路徑錯誤"
+        ],
+        "question_data": {
+            "school": "國立臺北科技大學",
+            "department": "自動化科技研究所乙組",
+            "year": "105",
+            "question_number": "4-c",
+            "question_text": "The modification step?",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 252,
+        "status": [
+            "題目錯誤",
+            "圖片錯誤",
+            "路徑錯誤"
+        ],
+        "question_data": {
+            "school": "國立臺北科技大學",
+            "department": "自動化科技研究所乙組",
+            "year": "105",
+            "question_number": "4-d",
+            "question_text": "The test step?",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 253,
+        "status": [
+            "題目錯誤",
+            "圖片錯誤",
+            "路徑錯誤"
+        ],
+        "question_data": {
+            "school": "國立臺北科技大學",
+            "department": "自動化科技研究所乙組",
+            "year": "105",
+            "question_number": "4-e",
+            "question_text": "What list of numbers is produced?",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 254,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立臺北科技大學",
+            "department": "自動化科技研究所乙組",
+            "year": "105",
+            "question_number": "5",
+            "question_text": "In the traditional implementation of a tree, each node is constructed with a separate pointer for each possible child. The number of such pointers is a design decision and represents the maximum number of children any node can have. If a node has fewer children than pointers, some of its pointers are simply set to NIL. But such a node can never have more children than pointers. Describe how a tree could be implemented without limiting the number of children a node could have.",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 255,
+        "status": [
+            "路徑錯誤"
+        ],
+        "question_data": {
+            "school": "國立臺北科技大學",
+            "department": "自動化科技研究所乙組",
+            "year": "105",
+            "question_number": "6",
+            "question_text": "Draw the search tree that is generated by a breadth-first search in an attempt to solve the eight-puzzle from the following start state without using the assistance of any heuristic information.",
+            "options": [],
+            "type": "draw-answer",
+            "image_file": [
+                "105-計算機概論-國立臺北科技大學-自動化科技研究所乙組_page_3_6.png"
+            ]
+        }
     }
 ]
