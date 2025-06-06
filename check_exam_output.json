@@ -2815,5 +2815,53 @@
             "type": "short-answer",
             "image_file": []
         }
+    },
+    {
+        "total_question_number": 165,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立政治大學",
+            "department": "數位內容碩士學位學程資訊技術組",
+            "year": "105",
+            "question_number": "4",
+            "question_text": "What are the three characteristics of object-oriented programming? Please also describe each of the characteristics in detail.",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 166,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立政治大學",
+            "department": "數位內容碩士學位學程資訊技術組",
+            "year": "105",
+            "question_number": "5",
+            "question_text": "Model-View-Controller (MVC) is a popular software architectural pattern for implementing web applications. Please describe the concepts of the design pattern in detail.",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 167,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立政治大學",
+            "department": "數位內容碩士學位學程資訊技術組",
+            "year": "105",
+            "question_number": "6-1",
+            "question_text": "What is the difference between the following two digital image files: Bitmap and Vector Images?",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
     }
 ]
