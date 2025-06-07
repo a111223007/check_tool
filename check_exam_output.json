@@ -25260,5 +25260,5589 @@
             "type": "short-answer",
             "image_file": []
         }
+    },
+    {
+        "total_question_number": 1299,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立雲林科技大學",
+            "department": "工業管理研究所",
+            "year": "106",
+            "question_number": "6",
+            "question_text": "何謂「電腦變數」?何謂區域變數?何謂屬性變數?",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1409,
+        "status": [
+            "路徑錯誤"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "企業管理學系碩士班辛組",
+            "year": "107",
+            "question_number": "7-a",
+            "question_text": "根據此二元樹,請寫出 preorder traversal、inorder traversal、postorder traversal 所產生的序列。",
+            "options": [],
+            "type": "short-answer",
+            "image_file": [
+                "107-計算機概論-國立中央大學-企業管理學系碩士班辛組_page_2_7.png"
+            ]
+        }
+    },
+    {
+        "total_question_number": 1410,
+        "status": [
+            "路徑錯誤"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "企業管理學系碩士班辛組",
+            "year": "107",
+            "question_number": "7-b",
+            "question_text": "請畫出依序插入5和6兩個數字後的二元樹。",
+            "options": [],
+            "type": "draw-answer",
+            "image_file": [
+                "107-計算機概論-國立中央大學-企業管理學系碩士班辛組_page_2_7.png"
+            ]
+        }
+    },
+    {
+        "total_question_number": 1411,
+        "status": [
+            "路徑錯誤"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "企業管理學系碩士班辛組",
+            "year": "107",
+            "question_number": "8-a",
+            "question_text": "執行完y值為何?",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1412,
+        "status": [
+            "路徑錯誤"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "企業管理學系碩士班辛組",
+            "year": "107",
+            "question_number": "8-b",
+            "question_text": "請問y=y+x這段程式執行幾次?",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1413,
+        "status": [
+            "路徑錯誤"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "企業管理學系碩士班辛組",
+            "year": "107",
+            "question_number": "8-c",
+            "question_text": "請用 for 改寫此程式碼使結果與(a)相同",
+            "options": [],
+            "type": "coding-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1414,
+        "status": [
+            "路徑錯誤"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "企業管理學系碩士班辛組",
+            "year": "107",
+            "question_number": "9-a",
+            "question_text": "給定一10進位數字為66.125，其二進位表示法為何？",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1415,
+        "status": [
+            "路徑錯誤"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "企業管理學系碩士班辛組",
+            "year": "107",
+            "question_number": "9-b",
+            "question_text": "給定一10進位數字為66.125，其 IEEE 754 單精準度(single percision)表示法為何？",
+            "options": [],
+            "type": "short-answer",
+            "image_file": [
+                "107-計算機概論-國立中央大學-企業管理學系碩士班辛組_page_3_9.png"
+            ]
+        }
+    },
+    {
+        "total_question_number": 1416,
+        "status": [
+            "路徑錯誤"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "企業管理學系碩士班辛組",
+            "year": "107",
+            "question_number": "10-a",
+            "question_text": "給定一個圖如下，邊上的數字表示此邊的權重：請寫出此圖的相鄰矩陣(adjacent matrix)表示法。",
+            "options": [],
+            "type": "short-answer",
+            "image_file": [
+                "107-計算機概論-國立中央大學-企業管理學系碩士班辛組_page_3_10.png"
+            ]
+        }
+    },
+    {
+        "total_question_number": 1417,
+        "status": [
+            "路徑錯誤"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "企業管理學系碩士班辛組",
+            "year": "107",
+            "question_number": "10-b",
+            "question_text": "給定一個圖如下，邊上的數字表示此邊的權重：請推導出此圖的最小生成樹(minimum spanning tree)。",
+            "options": [],
+            "type": "short-answer",
+            "image_file": [
+                "107-計算機概論-國立中央大學-企業管理學系碩士班辛組_page_3_10.png"
+            ]
+        }
+    },
+    {
+        "total_question_number": 1418,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "企業管理學系碩士班辛組",
+            "year": "107",
+            "question_number": "11-a",
+            "question_text": "請設計出一個 swap in place 的方法，即能夠將兩個變數的內容互換，且不需要額外的儲存空間的演算法(that is, without temporary variables)。",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1419,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "企業管理學系碩士班辛組",
+            "year": "107",
+            "question_number": "11-b",
+            "question_text": "請證明所提出的方法是正確的。",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1420,
+        "status": [
+            "題目錯誤"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "土木工程學系碩士班辛：資訊應用組",
+            "year": "107",
+            "question_number": "1",
+            "question_text": "Weak AI",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1421,
+        "status": [
+            "題目錯誤"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "土木工程學系碩士班辛：資訊應用組",
+            "year": "107",
+            "question_number": "2",
+            "question_text": "Strong AI",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1422,
+        "status": [
+            "題目錯誤"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "土木工程學系碩士班辛：資訊應用組",
+            "year": "107",
+            "question_number": "3",
+            "question_text": "Syntactic analysis",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1423,
+        "status": [
+            "題目錯誤"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "土木工程學系碩士班辛：資訊應用組",
+            "year": "107",
+            "question_number": "4",
+            "question_text": "Semantic analysis",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1424,
+        "status": [
+            "題目錯誤"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "土木工程學系碩士班辛：資訊應用組",
+            "year": "107",
+            "question_number": "5",
+            "question_text": "Most significant bit",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1425,
+        "status": [
+            "題目錯誤"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "土木工程學系碩士班辛：資訊應用組",
+            "year": "107",
+            "question_number": "6",
+            "question_text": "Least significant bit",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1426,
+        "status": [
+            "題目錯誤"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "土木工程學系碩士班辛：資訊應用組",
+            "year": "107",
+            "question_number": "7",
+            "question_text": "The two's complement",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1427,
+        "status": [
+            "題目錯誤"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "土木工程學系碩士班辛：資訊應用組",
+            "year": "107",
+            "question_number": "8",
+            "question_text": "IEEE 754 Floating Point Representation",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1428,
+        "status": [
+            "題目錯誤"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "土木工程學系碩士班辛：資訊應用組",
+            "year": "107",
+            "question_number": "9",
+            "question_text": "Parity bit",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1429,
+        "status": [
+            "題目錯誤"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "土木工程學系碩士班辛：資訊應用組",
+            "year": "107",
+            "question_number": "10",
+            "question_text": "Artificial Neural Networks",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1430,
+        "status": [
+            "題目錯誤"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "土木工程學系碩士班辛：資訊應用組",
+            "year": "107",
+            "question_number": "11",
+            "question_text": "Starvation and deadlock",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1431,
+        "status": [
+            "題目錯誤"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "土木工程學系碩士班辛：資訊應用組",
+            "year": "107",
+            "question_number": "12",
+            "question_text": "Network sniffing",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1432,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "土木工程學系碩士班辛：資訊應用組",
+            "year": "107",
+            "question_number": "13",
+            "question_text": "請計算二進位 0.1010101 的十進位對應值",
+            "options": [],
+            "type": "fill-in-the-blank",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1433,
+        "status": [
+            "路徑錯誤"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "土木工程學系碩士班辛：資訊應用組",
+            "year": "107",
+            "question_number": "14",
+            "question_text": "請以IPv6規劃以下的網路架構，位址值可自行假設",
+            "options": [],
+            "type": "draw-answer",
+            "image_file": [
+                "107-計算機概論-國立中央大學-土木工程學系碩士班辛：資訊應用組_page_1_14.png"
+            ]
+        }
+    },
+    {
+        "total_question_number": 1434,
+        "status": [
+            "題目錯誤"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "網路學習科技研究所",
+            "year": "107",
+            "question_number": "1",
+            "question_text": "下列記憶體之中,那一種記憶體的存取資料速度最快?(A)唯讀記憶體(B)虛擬記憶體(C)快取記憶體(D)隨機記憶體",
+            "options": [
+                "a. 唯讀記憶體",
+                "b. 虛擬記憶體",
+                "c. 快取記憶體",
+                "d. 隨機記憶體"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1435,
+        "status": [
+            "題目錯誤"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "網路學習科技研究所",
+            "year": "107",
+            "question_number": "2",
+            "question_text": "下列何者屬於揮發性記憶體?(A)RAM (B)ROM (C)PROM (D)flash memory",
+            "options": [
+                "a. RAM",
+                "b. ROM",
+                "c. PROM",
+                "d. flash memory"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1436,
+        "status": [
+            "題目錯誤"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "網路學習科技研究所",
+            "year": "107",
+            "question_number": "3",
+            "question_text": "MIPS是用來衡量下列何者之單位?(A)印表機速度(B)顯示器速度(C)CPU執行速度(D)記憶體速度",
+            "options": [
+                "a. 印表機速度",
+                "b. 顯示器速度",
+                "c. CPU執行速度",
+                "d. 記憶體速度"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1437,
+        "status": [
+            "題目錯誤"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "網路學習科技研究所",
+            "year": "107",
+            "question_number": "4",
+            "question_text": "基本輸入輸出系統(BIOS)通常存放在那裡?(A)OS (B)ROM (C)RAM (D)PROM",
+            "options": [
+                "a. OS",
+                "b. ROM",
+                "c. RAM",
+                "d. PROM"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1438,
+        "status": [
+            "題目錯誤"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "網路學習科技研究所",
+            "year": "107",
+            "question_number": "5",
+            "question_text": "下列何者不是文字的編碼方式? (A) ASCII (B)Big5 (C)TTF (D)Unicode",
+            "options": [
+                "a. ASCII",
+                "b. Big5",
+                "c. TTF",
+                "d. Unicode"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1439,
+        "status": [
+            "題目錯誤"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "網路學習科技研究所",
+            "year": "107",
+            "question_number": "6",
+            "question_text": "將八進位數值(76543.2)轉換成十進位數值,其結果為? (A)32099.25 (B)32099.16 (C)612344.25 (D) 612344.16",
+            "options": [
+                "a. 32099.25",
+                "b. 32099.16",
+                "c. 612344.25",
+                "d. 612344.16"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1440,
+        "status": [
+            "題目錯誤"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "網路學習科技研究所",
+            "year": "107",
+            "question_number": "7",
+            "question_text": "將十六進位數值(C0.3)$_{16}$轉換成十進位數,其結果為?(A)208.25(B)192.25 (C)208.1875 (D)192.1875",
+            "options": [
+                "a. 208.25",
+                "b. 192.25",
+                "c. 208.1875",
+                "d. 192.1875"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1441,
+        "status": [
+            "題目錯誤"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "網路學習科技研究所",
+            "year": "107",
+            "question_number": "8",
+            "question_text": "將二進位數(1010.11)$_{2}$與十進位數(3)$_{10}$相乘後,等於二進位數的值為何?(A)10010.01 (B)10010.11 (C)11011.10 (D)100000.01",
+            "options": [
+                "a. 10010.01",
+                "b. 10010.11",
+                "c. 11011.10",
+                "d. 100000.01"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1442,
+        "status": [
+            "題目錯誤"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "網路學習科技研究所",
+            "year": "107",
+            "question_number": "9",
+            "question_text": "一電腦用4位元的2補數法儲存整數,下列那一個運算會導致溢位?(A)1001+0101 (B)0101+0011 (C)1010-1100 (D)1111-1001",
+            "options": [
+                "a. 1001+0101",
+                "b. 0101+0011",
+                "c. 1010-1100",
+                "d. 1111-1001"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1443,
+        "status": [
+            "題目錯誤"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "網路學習科技研究所",
+            "year": "107",
+            "question_number": "10",
+            "question_text": "下列邏輯運算式何者不正確?(A)X+XY=X (B)(X+Y)'=X'+Y' (C)X(X+Y) = X (D)X+YZ= (X + Y)(X+Z)",
+            "options": [
+                "a. X+XY=X",
+                "b. (X+Y)'=X'+Y'",
+                "c. X(X+Y) = X",
+                "d. X+YZ= (X + Y)(X+Z)"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1444,
+        "status": [
+            "題目錯誤"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "網路學習科技研究所",
+            "year": "107",
+            "question_number": "11",
+            "question_text": "一邏輯運算式為F(X, Y, Z)=X'Y'Z+X'Y+XYZ',若X=0,Y=1,則F=? (A)1 (B)0 (C)C (D)C'",
+            "options": [
+                "a. 1",
+                "b. 0",
+                "c. C",
+                "d. C'"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1445,
+        "status": [
+            "題目錯誤"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "網路學習科技研究所",
+            "year": "107",
+            "question_number": "12",
+            "question_text": "下列何者是運算式 A*B+C*D的前置式(prefix)表示法? (A)*AB+*CD (B)+*AB*CD (C)ABCD*+* (D)*+*ABCD",
+            "options": [
+                "a. *AB+*CD",
+                "b. +*AB*CD",
+                "c. ABCD*+*",
+                "d. *+*ABCD"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1446,
+        "status": [
+            "題目錯誤"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "網路學習科技研究所",
+            "year": "107",
+            "question_number": "13",
+            "question_text": "下列何者是後置式(postfix)表示法 2 3 4 + 5 * + 的執行結果?(A)25(B)31 (C)37 (D)45",
+            "options": [
+                "a. 25",
+                "b. 31",
+                "c. 37",
+                "d. 45"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1447,
+        "status": [
+            "題目錯誤"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "網路學習科技研究所",
+            "year": "107",
+            "question_number": "14",
+            "question_text": "使用二元搜尋法搜尋20000筆資料,最多需要執行幾次比較才能完成?(A)8次(B)15次(C)32次 (D)128次",
+            "options": [
+                "a. 8次",
+                "b. 15次",
+                "c. 32次",
+                "d. 128次"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1448,
+        "status": [
+            "題目錯誤"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "網路學習科技研究所",
+            "year": "107",
+            "question_number": "15",
+            "question_text": "使用泡沫排序法(Bubble Sort)排序N筆資料,在最差的情況下的時間複雜度為何?(A)O(N) (B)O(N²) (C)O(N³) (D)O(N log₂N)",
+            "options": [
+                "a. O(N)",
+                "b. O(N²)",
+                "c. O(N³)",
+                "d. O(N log₂N)"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1449,
+        "status": [
+            "題目錯誤"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "網路學習科技研究所",
+            "year": "107",
+            "question_number": "16",
+            "question_text": "若二元樹用一維陣列來表示,在最差的情況下,一個高度為h的二元樹僅會使用幾個陣列元素?(A)1 (B)h (C)h+1 (D)log₂h",
+            "options": [
+                "a. 1",
+                "b. h",
+                "c. h+1",
+                "d. log₂h"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1450,
+        "status": [
+            "題目錯誤"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "網路學習科技研究所",
+            "year": "107",
+            "question_number": "17",
+            "question_text": "下列何者是用來尋找最低成本展開樹的演算法?(A)Prim演算法(B)Bellman-ford 演算法 (C)Dijkstra 演算法(D)Kruskal 演算法",
+            "options": [
+                "a. Prim演算法",
+                "b. Bellman-ford 演算法",
+                "c. Dijkstra 演算法",
+                "d. Kruskal 演算法"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1451,
+        "status": [
+            "題目錯誤"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "網路學習科技研究所",
+            "year": "107",
+            "question_number": "18",
+            "question_text": "在河內塔(Tower of Hanoi)的問題中,從甲柱移動8個大小不同套環到乙柱,至少需要移動幾次才能順利完成?(A)127次(B)255次(C)511次(D)1023次",
+            "options": [
+                "a. 127次",
+                "b. 255次",
+                "c. 511次",
+                "d. 1023次"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1452,
+        "status": [
+            "題目錯誤"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "網路學習科技研究所",
+            "year": "107",
+            "question_number": "19",
+            "question_text": "下列何者不是數據通訊之傳輸媒體?(A)數據機(B)光纖(C)微波(D)同軸電纜",
+            "options": [
+                "a. 數據機",
+                "b. 光纖",
+                "c. 微波",
+                "d. 同軸電纜"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1453,
+        "status": [
+            "題目錯誤"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "網路學習科技研究所",
+            "year": "107",
+            "question_number": "20",
+            "question_text": "在發送電子郵件時,不需要下列那一項資訊也能發送郵件?(A)收件人姓名(B)收件人帳號 (C)收件人郵件地址(D)郵件編碼方式",
+            "options": [
+                "a. 收件人姓名",
+                "b. 收件人帳號",
+                "c. 收件人郵件地址",
+                "d. 郵件編碼方式"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1454,
+        "status": [
+            "題目錯誤"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "網路學習科技研究所",
+            "year": "107",
+            "question_number": "21",
+            "question_text": "下列有關 TCP/IP通訊協定的敘述,何者不正確?(A)TCP/IP是網際網路的通訊協定(B)TCP是非連接導向的協定(C)HTTP是用TCP來傳送資料(D)IP是 Internet Protocol 的簡稱",
+            "options": [
+                "a. TCP/IP是網際網路的通訊協定",
+                "b. TCP是非連接導向的協定",
+                "c. HTTP是用TCP來傳送資料",
+                "d. IP是 Internet Protocol 的簡稱"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1455,
+        "status": [
+            "題目錯誤"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "網路學習科技研究所",
+            "year": "107",
+            "question_number": "22",
+            "question_text": "下列關於UDP (User Datagram Protocol)通訊協定的敘述,何者不正確?(A)UDP的發送端不做流量控制(B)UDP的發送端不重送遺失的封包資料(C)UDP的標頭不包括埠號(D)UDP的標頭不包括序號",
+            "options": [
+                "a. UDP的發送端不做流量控制",
+                "b. UDP的發送端不重送遺失的封包資料",
+                "c. UDP的標頭不包括埠號",
+                "d. UDP的標頭不包括序號"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1456,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "網路學習科技研究所",
+            "year": "107",
+            "question_number": "23",
+            "question_text": "下列那些是屬於Class C的IP?甲:190.1.21.2, 乙:191.1.3.254,丙:192.124.38.26, T: 222.1.7.8",
+            "options": [
+                "a. 甲, 乙",
+                "b. 乙、丙",
+                "c. 丙,丁",
+                "d. 乙,丙,丁"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1457,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "網路學習科技研究所",
+            "year": "107",
+            "question_number": "24",
+            "question_text": "若要把一個 Class C的IP網路分割成4個子網路,則子網路遮罩值應設定為下列何者?",
+            "options": [
+                "a. 255.255.255.0",
+                "b. 255.255.255.4",
+                "c. 255.255.255.192",
+                "d. 255.255.255.255"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1458,
+        "status": [
+            "題目錯誤"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "網路學習科技研究所",
+            "year": "107",
+            "question_number": "25",
+            "question_text": "下列何者不屬於電子商務中SET安全機制的應用實務?(A)會員登入(B)電子現金(C)電子錢包(D)電子簽帳",
+            "options": [
+                "a. 會員登入",
+                "b. 電子現金",
+                "c. 電子錢包",
+                "d. 電子簽帳"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1459,
+        "status": [
+            "題目錯誤"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "網路學習科技研究所",
+            "year": "107",
+            "question_number": "26",
+            "question_text": "下列何者不屬於專家系統的主要構成元件?(A)computer vision subsystem (B)interpretation subsystem (C)inference engine (D)natural language interface",
+            "options": [
+                "a. computer vision subsystem",
+                "b. interpretation subsystem",
+                "c. inference engine",
+                "d. natural language interface"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1460,
+        "status": [
+            "題目錯誤"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "網路學習科技研究所",
+            "year": "107",
+            "question_number": "27",
+            "question_text": "以下有關物件導向程式語言的描述,何者不正確?(A)具有繼承的特性,可以重複使用某些資源(B)具有多型的特性,軟體發展較具彈性(C)具有封裝的特性,可以隱藏某些資訊(D)所開發的執行檔較小,執行速度較快",
+            "options": [
+                "a. 具有繼承的特性,可以重複使用某些資源",
+                "b. 具有多型的特性,軟體發展較具彈性",
+                "c. 具有封裝的特性,可以隱藏某些資訊",
+                "d. 所開發的執行檔較小,執行速度較快"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1461,
+        "status": [
+            "題目錯誤"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "網路學習科技研究所",
+            "year": "107",
+            "question_number": "28",
+            "question_text": "下列針對專利權的期間屆滿後之敘述何者正確?(A)專利權人向智慧財產局申請展延年限後即可繼續保護該專利(B)付費給智慧財產局後任何人均可自由使用該專利(C)徵詢專利權人同意後任何人均可自由使用該專利(D)無需徵詢專利權人同意任何人均可自由使用該專利",
+            "options": [
+                "a. 專利權人向智慧財產局申請展延年限後即可繼續保護該專利",
+                "b. 付費給智慧財產局後任何人均可自由使用該專利",
+                "c. 徵詢專利權人同意後任何人均可自由使用該專利",
+                "d. 無需徵詢專利權人同意任何人均可自由使用該專利"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1462,
+        "status": [
+            "題目錯誤"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "網路學習科技研究所",
+            "year": "107",
+            "question_number": "29",
+            "question_text": "下列有關多工(Multitasking)作業系統的敘述,何者不正確?(A)一定要有多個CPU(B)需具備中斷處理能力(C)需具備排程能力(D)可用分時處理技術達成",
+            "options": [
+                "a. 一定要有兩個CPU",
+                "b. 需具備中斷處理能力",
+                "c. 需具備排程能力",
+                "d. 可用分時處理技術達成"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1463,
+        "status": [
+            "題目錯誤"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "網路學習科技研究所",
+            "year": "107",
+            "question_number": "30",
+            "question_text": "要降低一電腦系統的消耗功率,下列何種方法最為有效?(A)使用快取記憶體(B)提高CPU之頻率(C)加大主記憶體容量(D)降低各元件之供給電壓",
+            "options": [
+                "a. 使用快取記憶體",
+                "b. 提高CPU之頻率",
+                "c. 加大主記憶體容量",
+                "d. 降低各元件之供給電壓"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1464,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "網路學習科技研究所",
+            "year": "107",
+            "question_number": "31",
+            "question_text": "一張800*600的全彩影像,如果在存檔時完全沒有經過壓縮,則其檔案大小為?",
+            "options": [
+                "a. 1.4KB",
+                "b. 1.4MB",
+                "c. 480KB",
+                "d. 480MB"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1465,
+        "status": [
+            "題目錯誤"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "網路學習科技研究所",
+            "year": "107",
+            "question_number": "32",
+            "question_text": "若有週期性及需要大量處理資料時,最好使用以下那種處理方式?(A)即時處理方式(B)批次處理方式(C)分時處理方式(D)連線處理方式",
+            "options": [
+                "a. 即時處理方式",
+                "b. 批次處理方式",
+                "c. 分時處理方式",
+                "d. 連線處理方式"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1466,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "網路學習科技研究所",
+            "year": "107",
+            "question_number": "33",
+            "question_text": "有關電腦的作業系統,下列何者必須要有一個以上的CPU?",
+            "options": [
+                "a. Multiprocessing",
+                "b. Multiprogramming",
+                "c. Time Sharing",
+                "d. 以上皆是"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1467,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "網路學習科技研究所",
+            "year": "107",
+            "question_number": "34",
+            "question_text": "下列何者為編寫程式的流程?",
+            "options": [
+                "a. 連接/載入、編譯、執行",
+                "b. 連結/載入、執行、編譯",
+                "c. 編譯、執行、連接/載入",
+                "d. 編譯、連結/載入、執行"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1468,
+        "status": [
+            "題目錯誤",
+            "路徑錯誤"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "網路學習科技研究所",
+            "year": "107",
+            "question_number": "35",
+            "question_text": "下列C語言程式執行後,a變數的值為何?(A)3 (B)8 (C)13 (D)18\nint sub1 (int x, int y) {\nx+=5;\n*y*=2;\nreturn *y+x;\n}\nint sub2 (int *x, int y) {\n*x+=5;\ny*=2;\nreturn *x+y;\n}\nvoid main() {\nint a=3, b=5, c, d;\nc=sub1(a, &b)+sub2(&a, b);\nd=sub2(&a, b)+subl(a, &b);\n}",
+            "options": [
+                "a. 3",
+                "b. 8",
+                "c. 13",
+                "d. 18"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1469,
+        "status": [
+            "題目錯誤"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "網路學習科技研究所",
+            "year": "107",
+            "question_number": "36",
+            "question_text": "接續上題,b變數的值為何?(A)5 (B)10 (C)20 (D)40",
+            "options": [
+                "a. 5",
+                "b. 10",
+                "c. 20",
+                "d. 40"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1470,
+        "status": [
+            "題目錯誤"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "網路學習科技研究所",
+            "year": "107",
+            "question_number": "37",
+            "question_text": "接續上題,c變數的值為何?(A)33 (B)46 (C)58 (D)71",
+            "options": [
+                "a. 33",
+                "b. 46",
+                "c. 58",
+                "d. 71"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1471,
+        "status": [
+            "題目錯誤"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "網路學習科技研究所",
+            "year": "107",
+            "question_number": "38",
+            "question_text": "接續上題,d變數的值為何?(A)33 (B)46 (C)58 (D)71",
+            "options": [
+                "a. 33",
+                "b. 46",
+                "c. 58",
+                "d. 71"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1472,
+        "status": [
+            "題目錯誤",
+            "路徑錯誤"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "網路學習科技研究所",
+            "year": "107",
+            "question_number": "39",
+            "question_text": "下列java程式執行後,x變數的值為何?(A)7(B)8(C)9 (D)10\npublic class Test {\npublic static void main(String[] args) {\nint x=7, y=7, z=7;\nx=++y;\ny = ++x;\nz=-y;\nx--; y++; --z;\n}\n}",
+            "options": [
+                "a. 7",
+                "b. 8",
+                "c. 9",
+                "d. 10"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1473,
+        "status": [
+            "題目錯誤"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "網路學習科技研究所",
+            "year": "107",
+            "question_number": "40",
+            "question_text": "接續上題,y 變數的值為何?(A)7 (B)8 (C)9 (D)10",
+            "options": [
+                "a. 7",
+                "b. 8",
+                "c. 9",
+                "d. 10"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1474,
+        "status": [
+            "題目錯誤"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "網路學習科技研究所",
+            "year": "107",
+            "question_number": "41",
+            "question_text": "接續上題,z變數的值為何?(A)7 (B)8 (C)9 (D)10",
+            "options": [
+                "a. 7",
+                "b. 8",
+                "c. 9",
+                "d. 10"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1475,
+        "status": [
+            "題目錯誤",
+            "路徑錯誤"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "網路學習科技研究所",
+            "year": "107",
+            "question_number": "42",
+            "question_text": "下列java程式執行後,x變數的值為何?(A)5 (B)7 (C)9(D)編譯錯誤\npublic class Test {\npublic static void main (String[] args) {\nint x=((2/3)^4) & 5;\nint y = (2/3)^ (4 & 5);\nint z=2/3^4 & 5;\n}\n}",
+            "options": [
+                "a. 5",
+                "b. 7",
+                "c. 9",
+                "d. 編譯錯誤"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1476,
+        "status": [
+            "題目錯誤"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "網路學習科技研究所",
+            "year": "107",
+            "question_number": "43",
+            "question_text": "接續上題, y 變數的值為何?(A)5 (B)7 (C)9(D)編譯錯誤",
+            "options": [
+                "a. 5",
+                "b. 7",
+                "c. 9",
+                "d. 編譯錯誤"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1477,
+        "status": [
+            "題目錯誤"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "網路學習科技研究所",
+            "year": "107",
+            "question_number": "44",
+            "question_text": "接續上題,z變數的值為何?(A)5 (B)7 (C)9(D)編譯錯誤",
+            "options": [
+                "a. 5",
+                "b. 7",
+                "c. 9",
+                "d. 編譯錯誤"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1478,
+        "status": [
+            "題目錯誤",
+            "路徑錯誤"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "網路學習科技研究所",
+            "year": "107",
+            "question_number": "45",
+            "question_text": "下列java 程式執行後,x變數與y變數的值分別為何?(A)1,1(B)0,1 (C)2,2(D)編譯錯誤\npublic class Test {\npublic static void main(String[] args) {\nint x, y;\nx = y; y = 1;\n}\n}",
+            "options": [
+                "a. 1,1",
+                "b. 0,1",
+                "c. 2,2",
+                "d. 編譯錯誤"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1479,
+        "status": [
+            "題目錯誤",
+            "路徑錯誤"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "網路學習科技研究所",
+            "year": "107",
+            "question_number": "46",
+            "question_text": "下列java 程式執行後,x變數與y變數的值分別為何?(A)1,1(B)0,1(C)2,2(D)編譯錯誤\npublic class Test {\npublic static void main(String[] args) {\nint x, y;\ny = 1; x = y;\n}\n}",
+            "options": [
+                "a. 1,1",
+                "b. 0,1",
+                "c. 2,2",
+                "d. 編譯錯誤"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1480,
+        "status": [
+            "題目錯誤",
+            "路徑錯誤"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "網路學習科技研究所",
+            "year": "107",
+            "question_number": "47",
+            "question_text": "下列java 程式執行後,x變數與y變數的值分別為何?(A)1,1(B)0,1(C)2,2(D)編譯錯誤\npublic class Test {\npublic static void main(String[] args) {\nint x, y;\nx=y=1;\n}\n}",
+            "options": [
+                "a. 1,1",
+                "b. 0,1",
+                "c. 2,2",
+                "d. 編譯錯誤"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1481,
+        "status": [
+            "題目錯誤",
+            "路徑錯誤"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "網路學習科技研究所",
+            "year": "107",
+            "question_number": "48",
+            "question_text": "下列二個 Java程式是否正確?(A)Test1 正確, Test2 正確(B)Test1 正確,Test2 錯誤(C)Test1 錯誤,\nTest2 正確(D)Test1 錯誤,Test2 錯誤\npublic class Test1 {\npublic static void main(String... a){\nSystem.out.println(\"Hello\");\n}\n}\npublic class Test2{\npublic static void main(String...a) {\nSystem.out.println(\"Hello\");\n}\n}",
+            "options": [
+                "a. Test1 正確, Test2 正確",
+                "b. Test1 正確, Test2 錯誤",
+                "c. Test1 錯誤, Test2 正確",
+                "d. Test1 錯誤, Test2 錯誤"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1482,
+        "status": [
+            "題目錯誤",
+            "路徑錯誤"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "網路學習科技研究所",
+            "year": "107",
+            "question_number": "49",
+            "question_text": "下列二個 Java程式是否正確?(A)Test1 正確, Test2 正確(B)Test1 正確,Test2錯誤(C)Test1 錯誤,\nTest2 正確(D)Test1 錯誤,Test2 錯誤\npublic class Test1 {\npublic static void main(String[]... a) {\nSystem.out.println(\"Hello\");\n}\n}\npublic class Test2{\npublic static void main(String...[] a){\nSystem.out.println(\"Hello\");\n}\n}",
+            "options": [
+                "a. Test1 正確, Test2 正確",
+                "b. Test1 正確, Test2 錯誤",
+                "c. Test1 錯誤, Test2 正確",
+                "d. Test1 錯誤, Test2 錯誤"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1483,
+        "status": [
+            "題目錯誤",
+            "路徑錯誤"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "網路學習科技研究所",
+            "year": "107",
+            "question_number": "50",
+            "question_text": "下列Java程式的目的為何?(A)將陣列資料由小到大排序(B)將陣列資料由大到小排序(C)將陣列資料全部加總(D)將陣列資料反轉\npublic class Test {\npublic static void main(String[] args) {\nchar[] data = { '7', '2', '5', '8', '9', '3' };\ndothis(data);\nfor (int i = 0; i < data.length; i++) {\nSystem.out.print(data[i]+\" \");\n}\n}\npublic static void dothis(char[] data) {\nchar tmp;\nfor (int i=0,j data.length - 1; i<j; i++, j--) {\ntmp = data[i];\ndata[i] data[j];\ndata[j] = tmp;\n}\n}\n}",
+            "options": [
+                "a. 將陣列資料由小到大排序",
+                "b. 將陣列資料由大到小排序",
+                "c. 將陣列資料全部加總",
+                "d. 將陣列資料反轉"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1484,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "資訊管理學系碩士班乙組",
+            "year": "107",
+            "question_number": "1.1",
+            "question_text": "藍芽的 Radio Layer 傳輸通道,會在既定的79個頻道間以每秒1600次快速跳動,因此減低被竊聽的可能,請問這種協定叫什麼?",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1485,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "資訊管理學系碩士班乙組",
+            "year": "107",
+            "question_number": "1.2",
+            "question_text": "CSMA/CA中,一旦確定目前頻道內沒有傳輸後,送、收兩方還會利用兩個封包來鎖定傳輸頻道,讓其他設備不能送出封包,請問這兩個封包為何?",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1486,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "資訊管理學系碩士班乙組",
+            "year": "107",
+            "question_number": "1.3",
+            "question_text": "CSMA/CD 協定使用什麼方法來降低再次碰撞的可能性?",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1487,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "資訊管理學系碩士班乙組",
+            "year": "107",
+            "question_number": "1.4",
+            "question_text": "資料連結層(Data-link layer)為了檢查封包(Frame)的正確性,會增加一個FCS 欄位,請問它們通常使用什麼方法計算這個欄位的值?",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1488,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "資訊管理學系碩士班乙組",
+            "year": "107",
+            "question_number": "1.5",
+            "question_text": "TCP/IP 中,決定封包如何送達目標電腦是那一層的工作?",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1489,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "資訊管理學系碩士班乙組",
+            "year": "107",
+            "question_number": "1.6",
+            "question_text": "NB 無線上網必須先利用什麼協定來取得IP地址?",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1490,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "資訊管理學系碩士班乙組",
+            "year": "107",
+            "question_number": "1.7",
+            "question_text": "類比信號傳輸中,常結合振幅(Amplitude)與位相(Phase)兩種特性來傳輸資料,請問這是什麼方法?",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1491,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "資訊管理學系碩士班乙組",
+            "year": "107",
+            "question_number": "1.8",
+            "question_text": "T-1 使用什麼方法將24條DS-0線路併成一條頻寬更大的線路?",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1492,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "資訊管理學系碩士班乙組",
+            "year": "107",
+            "question_number": "1.9",
+            "question_text": "訊息傳送時先用MD5處理訊息,再用RSA的私鑰加密處理後的訊息,然後才送出,這樣處理的目的主要為了滿足那些安全要素?",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1493,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "資訊管理學系碩士班乙組",
+            "year": "107",
+            "question_number": "1.10",
+            "question_text": "網路攻擊者向知名網站送出非常多的請求封包,試圖癱瘓網站對外服務,這種攻擊叫什麼?",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1494,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "資訊管理學系碩士班乙組",
+            "year": "107",
+            "question_number": "1.11",
+            "question_text": "Address Resolution Protocol 是 TCP/IP 中那一層的工作?",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1495,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "資訊管理學系碩士班乙組",
+            "year": "107",
+            "question_number": "1.12",
+            "question_text": "ADSL 使用什麼技術讓下載速度高於上傳速度?",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1496,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "資訊管理學系碩士班乙組",
+            "year": "107",
+            "question_number": "2",
+            "question_text": "存取控制(Access Control)是很重要的作業系統保護(Operating System Protection)機制,請詳細說明 Access Control List (ACL)和 Capability-based 這兩種存取控制技術的原理。(10分)",
+            "options": [],
+            "type": "long-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1497,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "資訊管理學系碩士班乙組",
+            "year": "107",
+            "question_number": "3",
+            "question_text": "雲端運算有賴虛擬化技術(Virtualization Technology)的發展,請詳細說明 Hypervisor 與 Container 這兩種虛擬化技術的原理,然後比較其優缺點。(15 分)",
+            "options": [],
+            "type": "long-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1498,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "資訊管理學系碩士班乙組",
+            "year": "107",
+            "question_number": "4",
+            "question_text": "有一關聯式資料庫(relational database),其內有許多relations:軟體(編號,廠商,安裝日期,類型,價格),硬體(編號,購買日期,價格,廠商,類別),硬體使用(編號,名稱,位置,置放日期,類別),使用者(編號,姓名,起始日期),………\n請以最簡方式完成下列SQL,以查出類別相同之硬體的最低價格。(6分)\nSELECT\nFROM XXX (假設此部分已配合最簡方式完成)",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1499,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "資訊管理學系碩士班乙組",
+            "year": "107",
+            "question_number": "5",
+            "question_text": "物件導向資料模式(Object-oriented data model)是基於哪些要素(component)?請列出這些要素,並對每一要素加以說明。(10分)",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1500,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "資訊管理學系碩士班乙組",
+            "year": "107",
+            "question_number": "6",
+            "question_text": "在資訊系統發展生命週期(System development life cycle) design phase,如果不需要獲取軟硬體設備,主要的工作包括那些?主要的工作產出為何?(10分)",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1501,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "資訊管理學系碩士班乙組",
+            "year": "107",
+            "question_number": "7",
+            "question_text": "用Java 或C++這兩種物件導向語言其中一種來設計並撰寫下面程式:讀入一個數字加減運算題目檔(test.txt),算出答案後連同題目印出來。題目數字包含整數與分數,若題目中有分數,答案以約分後的分數表示:",
+            "options": [],
+            "type": "coding-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1502,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "資訊管理學系碩士班乙組",
+            "year": "107",
+            "question_number": "7-1",
+            "question_text": "題目檔(test.txt)\n4 + 2 - 2/3 =\n3 - 5 + 2 + 3/2 + 1/2 + 2 =\n1/2 - 1/3 + 1/4 + 1 =\n6 =\n3 - 4/5 =",
+            "options": [],
+            "type": "other",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1503,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "資訊管理學系碩士班乙組",
+            "year": "107",
+            "question_number": "7-2",
+            "question_text": "需要印出的答案示範\n4 + 2 - 2/3 = 16/3\n3 - 5 + 2 + 3/2 + 1/2 + 2 = 4\n1/2 - 1/3 + 1/4 + 1 = 17/12\n6 = 6\n3 - 4/5 = 11/5",
+            "options": [],
+            "type": "other",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1504,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "資訊管理學系碩士班乙組",
+            "year": "107",
+            "question_number": "7-a",
+            "question_text": "(5分) 畫出你的程式的類別圖(Class diagram),需包含屬性與重要方法",
+            "options": [],
+            "type": "draw-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1505,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "資訊管理學系碩士班乙組",
+            "year": "107",
+            "question_number": "7-b",
+            "question_text": "(15分)程式的正確性,包含正確回答範例及其他類似的數字運算,程式是否符合物件導向原則,是否包含讀入題目檔與輸出正確,是否包含需要的錯誤處理(例如輸入格式不合,分母為0等等)",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1506,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "資訊管理學系碩士班乙組",
+            "year": "107",
+            "question_number": "7-c",
+            "question_text": "(5分) 你的程式的可讀性,包含程式各部分的命名,使用comments 解說你程式該解說的部分。Comments 請盡量用中文(除非你認為英文夠好,否則破英文會被扣分)",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1507,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "資訊管理學系碩士班甲組",
+            "year": "107",
+            "question_number": "1.1",
+            "question_text": "藍芽的 Radio Layer 傳輸通道,會在既定的79個頻道間以每秒1600次快速跳動,因此減低被竊聽的可能,請問這種協定叫什麼?",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1508,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "資訊管理學系碩士班甲組",
+            "year": "107",
+            "question_number": "1.2",
+            "question_text": "CSMA/CA中,一旦確定目前頻道內沒有傳輸後,送、收兩方還會利用兩個封包來鎖定傳輸頻道,讓其他設備不能送出封包,請問這兩個封包為何?",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1509,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "資訊管理學系碩士班甲組",
+            "year": "107",
+            "question_number": "1.3",
+            "question_text": "CSMA/CD 協定使用什麼方法來降低再次碰撞的可能性?",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1510,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "資訊管理學系碩士班甲組",
+            "year": "107",
+            "question_number": "1.4",
+            "question_text": "資料連結層(Data-link layer)為了檢查封包(Frame)的正確性,會增加一個FCS 欄位,請問它們通常使用什麼方法計算這個欄位的值?",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1511,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "資訊管理學系碩士班甲組",
+            "year": "107",
+            "question_number": "1.5",
+            "question_text": "TCP/IP 中,決定封包如何送達目標電腦是那一層的工作?",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1512,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "資訊管理學系碩士班甲組",
+            "year": "107",
+            "question_number": "1.6",
+            "question_text": "NB 無線上網必須先利用什麼協定來取得IP地址?",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1513,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "資訊管理學系碩士班甲組",
+            "year": "107",
+            "question_number": "1.7",
+            "question_text": "類比信號傳輸中,常結合振幅(Amplitude)與位相(Phase)兩種特性來傳輸資料,請問這是什麼方法?",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1514,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "資訊管理學系碩士班甲組",
+            "year": "107",
+            "question_number": "1.8",
+            "question_text": "T-1 使用什麼方法將24條DS-0線路併成一條頻寬更大的線路?",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1515,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "資訊管理學系碩士班甲組",
+            "year": "107",
+            "question_number": "1.9",
+            "question_text": "訊息傳送時先用MD5處理訊息,再用RSA的私鑰加密處理後的訊息,然後才送出,這樣處理的目的主要為了滿足那些安全要素?",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1516,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "資訊管理學系碩士班甲組",
+            "year": "107",
+            "question_number": "1.10",
+            "question_text": "網路攻擊者向知名網站送出非常多的請求封包,試圖癱瘓網站對外服務,這種攻擊叫什麼?",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1517,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "資訊管理學系碩士班甲組",
+            "year": "107",
+            "question_number": "1.11",
+            "question_text": "Address Resolution Protocol 是 TCP/IP 中那一層的工作?",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1518,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "資訊管理學系碩士班甲組",
+            "year": "107",
+            "question_number": "1.12",
+            "question_text": "ADSL 使用什麼技術讓下載速度高於上傳速度?",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1519,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "資訊管理學系碩士班甲組",
+            "year": "107",
+            "question_number": "2",
+            "question_text": "存取控制(Access Control)是很重要的作業系統保護(Operating System Protection)機制,請詳細說明 Access Control List (ACL)和 Capability-based 這兩種存取控制技術的原理。(10分)",
+            "options": [],
+            "type": "long-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1520,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "資訊管理學系碩士班甲組",
+            "year": "107",
+            "question_number": "3",
+            "question_text": "雲端運算有賴虛擬化技術(Virtualization Technology)的發展,請詳細說明 Hypervisor 與 Container 這兩種虛擬化技術的原理,然後比較其優缺點。(15分)",
+            "options": [],
+            "type": "long-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1521,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "資訊管理學系碩士班甲組",
+            "year": "107",
+            "question_number": "4",
+            "question_text": "有一關聯式資料庫(relational database),其內有許多relations:軟體(編號,廠商,安裝日期,類型,價格),硬體(編號,購買日期,價格,廠商,類別),硬體使用(編號,名稱,位置,置放日期,類別),使用者(編號,姓名,起始日期),………\n請以最簡方式完成下列SQL,以查出類別相同之硬體的最低價格。(6分)\nSELECT\nFROM XXX (假設此部分已配合最簡方式完成)",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1522,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "資訊管理學系碩士班甲組",
+            "year": "107",
+            "question_number": "5",
+            "question_text": "物件導向資料模式(Object-oriented data model)是基於哪些要素(component)?請列出這些要素,並對每一要素加以說明。(10分)",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1523,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "資訊管理學系碩士班甲組",
+            "year": "107",
+            "question_number": "6",
+            "question_text": "在資訊系統發展生命週期(System development life cycle) design phase,如果不需要獲取軟硬體設備,主要的工作包括那些?主要的工作產出為何?(10分)",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1524,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "資訊管理學系碩士班甲組",
+            "year": "107",
+            "question_number": "7",
+            "question_text": "用Java 或C++這兩種物件導向語言其中一種來設計並撰寫下面程式:讀入一個數字加減運算題目檔(test.txt),算出答案後連同題目印出來。題目數字包含整數與分數,若題目中有分數,答案以約分後的分數表示:",
+            "options": [],
+            "type": "coding-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1525,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "資訊管理學系碩士班甲組",
+            "year": "107",
+            "question_number": "7-1",
+            "question_text": "題目檔(test.txt)\n4 + 2 - 2/3 =\n3 - 5 + 2 + 3/2 + 1/2 + 2 =\n1/2 - 1/3 + 1/4 + 1 =\n6 =\n3 - 4/5 =",
+            "options": [],
+            "type": "other",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1526,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "資訊管理學系碩士班甲組",
+            "year": "107",
+            "question_number": "7-2",
+            "question_text": "需要印出的答案示範\n4 + 2 - 2/3 = 16/3\n3 - 5 + 2 + 3/2 + 1/2 + 2 = 4\n1/2 - 1/3 + 1/4 + 1 = 17/12\n6 = 6\n3 - 4/5 = 11/5",
+            "options": [],
+            "type": "other",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1527,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "資訊管理學系碩士班甲組",
+            "year": "107",
+            "question_number": "7-a",
+            "question_text": "(5分) 畫出你的程式的類別圖(Class diagram),需包含屬性與重要方法",
+            "options": [],
+            "type": "draw-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1528,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "資訊管理學系碩士班甲組",
+            "year": "107",
+            "question_number": "7-b",
+            "question_text": "(15分)程式的正確性,包含正確回答範例及其他類似的數字運算,程式是否符合物件導向原則,是否包含讀入題目檔與輸出正確,是否包含需要的錯誤處理(例如輸入格式不合,分母為0等等)",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1529,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中央大學",
+            "department": "資訊管理學系碩士班甲組",
+            "year": "107",
+            "question_number": "7-c",
+            "question_text": "(5分) 你的程式的可讀性,包含程式各部分的命名,使用comments 解說你程式該解說的部分。Comments 請盡量用中文(除非你認為英文夠好,否則破英文會被扣分)",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1530,
+        "status": [
+            "題目錯誤"
+        ],
+        "question_data": {
+            "school": "國立中央警察大學",
+            "department": "資訊管理研究所",
+            "year": "107",
+            "question_number": "1-1",
+            "question_text": "行程控制表(Process Control Block)",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1531,
+        "status": [
+            "題目錯誤"
+        ],
+        "question_data": {
+            "school": "國立中央警察大學",
+            "department": "資訊管理研究所",
+            "year": "107",
+            "question_number": "1-2",
+            "question_text": "多執行緒(Multi-thread)",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1532,
+        "status": [
+            "題目錯誤"
+        ],
+        "question_data": {
+            "school": "國立中央警察大學",
+            "department": "資訊管理研究所",
+            "year": "107",
+            "question_number": "1-3",
+            "question_text": "中程排班程式(Medium-term Scheduler)",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1533,
+        "status": [
+            "題目錯誤"
+        ],
+        "question_data": {
+            "school": "國立中央警察大學",
+            "department": "資訊管理研究所",
+            "year": "107",
+            "question_number": "1-4",
+            "question_text": "傳輸層安全性協定(Transport Layer Security)",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1534,
+        "status": [
+            "題目錯誤"
+        ],
+        "question_data": {
+            "school": "國立中央警察大學",
+            "department": "資訊管理研究所",
+            "year": "107",
+            "question_number": "1-5",
+            "question_text": "對稱式密碼系統(Symmetric Cryptosystem)",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1535,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中央警察大學",
+            "department": "資訊管理研究所",
+            "year": "107",
+            "question_number": "2-1",
+            "question_text": "評估演算法的時間複雜度有三種方法:(a) Big-O of n (b) Big-Omega of n (c) Big-Theta of n,請舉例說明此三種評估方法。(15分)",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1536,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中央警察大學",
+            "department": "資訊管理研究所",
+            "year": "107",
+            "question_number": "2-2",
+            "question_text": "請寫出賽程排序(Tournament Sort)演算法,並說明之。(10分)",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1537,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中央警察大學",
+            "department": "資訊管理研究所",
+            "year": "107",
+            "question_number": "3-1",
+            "question_text": "Convert the following two's complement representation to its equivalent base ten (i.e. decimal) representation.",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1538,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中央警察大學",
+            "department": "資訊管理研究所",
+            "year": "107",
+            "question_number": "3-1-i",
+            "question_text": "11101111",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1539,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中央警察大學",
+            "department": "資訊管理研究所",
+            "year": "107",
+            "question_number": "3-1-ii",
+            "question_text": "00001101",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1540,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中央警察大學",
+            "department": "資訊管理研究所",
+            "year": "107",
+            "question_number": "3-2",
+            "question_text": "What is the difference between stack data structure and queue data structure?",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1541,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中央警察大學",
+            "department": "資訊管理研究所",
+            "year": "107",
+            "question_number": "3-3",
+            "question_text": "Convert the decimal number 15 and -9 into 8-bit 2's complement numbers and hexadecimal numbers.",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1542,
+        "status": [
+            "路徑錯誤"
+        ],
+        "question_data": {
+            "school": "國立中央警察大學",
+            "department": "資訊管理研究所",
+            "year": "107",
+            "question_number": "4-1",
+            "question_text": "Draw a tree showing all paths from A and highlighting those that are Hamiltonian circuits.",
+            "options": [],
+            "type": "draw-answer",
+            "image_file": [
+                "107-計算機概論-國立中央警察大學-資訊管理研究所_page_2_4-1.png"
+            ]
+        }
+    },
+    {
+        "total_question_number": 1543,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中央警察大學",
+            "department": "資訊管理研究所",
+            "year": "107",
+            "question_number": "4-2",
+            "question_text": "How many paths have to be examined?",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1544,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中山大學",
+            "department": "資訊管理學系碩士班乙組",
+            "year": "107",
+            "question_number": "1",
+            "question_text": "Which of the following about Functional Programming Languages is FALSE?",
+            "options": [
+                "a. Closure is created by parental functions and is enclosed with the information of parental functions.",
+                "b. Higher-order functions are functions that can either take other functions as arguments or return them as results.",
+                "c. A \"Map\" function is usually used to reduce a set of elements/values to a single element by combining elements via a supplied function.",
+                "d. Iterations are usually implemented by recursions."
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1545,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中山大學",
+            "department": "資訊管理學系碩士班乙組",
+            "year": "107",
+            "question_number": "2",
+            "question_text": "Which of the following software framework/package is NOT commonly used in processing massive datasets larger than main memory?",
+            "options": [
+                "a. Apache Spark",
+                "b. Apache Hadoop",
+                "c. H2O",
+                "d. Pandas"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1546,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中山大學",
+            "department": "資訊管理學系碩士班乙組",
+            "year": "107",
+            "question_number": "3",
+            "question_text": "Which of the following is usually considered semi-structured data?",
+            "options": [
+                "a. JSON",
+                "b. Email body text",
+                "c. Video file",
+                "d. Table data in relational databases"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1547,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中山大學",
+            "department": "資訊管理學系碩士班乙組",
+            "year": "107",
+            "question_number": "4",
+            "question_text": "Suppose that ary is an C array and aryPtr is an C pointer to the array, which expression refers to the address of element 3?",
+            "options": [
+                "a. *(aryPtr + 3)",
+                "b. aryPtr [3]",
+                "c. ary(t + 3)",
+                "d. &ary [3]"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1548,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中山大學",
+            "department": "資訊管理學系碩士班乙組",
+            "year": "107",
+            "question_number": "5",
+            "question_text": "Evaluate the below C statement.\nconst int * const xPtr = &x;\nWhich of the following is TRUE?",
+            "options": [
+                "a. xPtr is a pointer variable that points to an object of type const",
+                "b. The data value of the object that xPtr points to can be modified",
+                "c. The memory address saved in xPtr cannot be modified",
+                "d. Statement xPtr = &y is valid"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1549,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中山大學",
+            "department": "資訊管理學系碩士班乙組",
+            "year": "107",
+            "question_number": "6",
+            "question_text": "Which of the following about MapReduce Programming Model is TRUE?",
+            "options": [
+                "a. MapReduce is often used in iterative data processing",
+                "b. MapReduce is a common programming model implemented in Apache Spark",
+                "c. The concept of MapReduce originated from object-oriented programming",
+                "d. Combiners in MapReduce may help reduce data transmission among multiple data nodes"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1550,
+        "status": [
+            "路徑錯誤"
+        ],
+        "question_data": {
+            "school": "國立中山大學",
+            "department": "資訊管理學系碩士班乙組",
+            "year": "107",
+            "question_number": "7",
+            "question_text": "Consider the following table A and B in a relational database.\nHow many rows and columns in the output after running below SQL query?\nSELECT A.* from A LEFT JOIN B ON A.id = B.id",
+            "options": [
+                "a. 3 rows and 2 columns",
+                "b. 3 rows and 4 columns",
+                "c. 2 rows and 2 columns",
+                "d. 2 rows and 4 columns"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1551,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中山大學",
+            "department": "資訊管理學系碩士班乙組",
+            "year": "107",
+            "question_number": "8",
+            "question_text": "It typically takes up ______ bit(s) when an integer number 5 is stored as a character in computer memory.",
+            "options": [
+                "a. 8",
+                "b. 5",
+                "c. 16",
+                "d. 1"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1552,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中山大學",
+            "department": "資訊管理學系碩士班乙組",
+            "year": "107",
+            "question_number": "9",
+            "question_text": "In IPv6, what is the broadcast address?",
+            "options": [
+                "a. All ones",
+                "b. All zeros",
+                "c. 255.255.255.255",
+                "d. None"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1553,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中山大學",
+            "department": "資訊管理學系碩士班乙組",
+            "year": "107",
+            "question_number": "10",
+            "question_text": "What is the function of Time to Live field in the Internet protocol?",
+            "options": [
+                "a. Limiting the response time of servers",
+                "b. Specifying the time of transmission",
+                "c. Limiting the hop number of a packet",
+                "d. To improve the privacy of message by restricting its lifetime"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1554,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中山大學",
+            "department": "資訊管理學系碩士班乙組",
+            "year": "107",
+            "question_number": "11",
+            "question_text": "Which of the following is trusted for vouching the authenticity of the person or organization using the authentication?",
+            "options": [
+                "a. Civil court",
+                "b. Certificate authority",
+                "c. Fingerprint advisory board",
+                "d. Computing center"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1555,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中山大學",
+            "department": "資訊管理學系碩士班乙組",
+            "year": "107",
+            "question_number": "12",
+            "question_text": "What is reinforcement learning?",
+            "options": [
+                "a. A kind of e-learning reinforced by classmates",
+                "b. An educational technology to improve the learning performance",
+                "c. An unsupervised machine learning algorithm",
+                "d. A kind of machine learning method based on maximizing the reward"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1556,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中山大學",
+            "department": "資訊管理學系碩士班乙組",
+            "year": "107",
+            "question_number": "13",
+            "question_text": "Which of the following algorithms represents an optimal solution in time complexity for sorting a list?",
+            "options": [
+                "a. Insertion sort",
+                "b. Bubble sort",
+                "c. Selection sort",
+                "d. Merge sort"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1557,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中山大學",
+            "department": "資訊管理學系碩士班乙組",
+            "year": "107",
+            "question_number": "14",
+            "question_text": "If the longest path in a binary tree contains four nodes, what is the maximum number of nodes in the entire tree?",
+            "options": [
+                "a. 4",
+                "b. 7",
+                "c. 15",
+                "d. 31"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1558,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中山大學",
+            "department": "資訊管理學系碩士班乙組",
+            "year": "107",
+            "question_number": "15",
+            "question_text": "Which of the following is a technique for controlling access to a critical section?",
+            "options": [
+                "a. Spooling",
+                "b. Time sharing",
+                "c. Semaphore",
+                "d. Booting"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1559,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中山大學",
+            "department": "資訊管理學系碩士班乙組",
+            "year": "107",
+            "question_number": "16",
+            "question_text": "Which of the following equations is correct?",
+            "options": [
+                "a. P(XY) = P(Y|X) P(X)/P(Y)",
+                "b. P(XY) = P(Y|X) P(X)",
+                "c. P(XY) = P(YX)/P(Y)",
+                "d. P(XY) = P(Y|X) P(X) P(Y)"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1560,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中山大學",
+            "department": "資訊管理學系碩士班乙組",
+            "year": "107",
+            "question_number": "1",
+            "question_text": "Please write a recursive C/C++ function reverse(n) that prints reversed positive integer number n.\nFor example,\nreverse (9876);\nwill print\n6789",
+            "options": [],
+            "type": "coding-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1561,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中山大學",
+            "department": "資訊管理學系碩士班乙組",
+            "year": "107",
+            "question_number": "2",
+            "question_text": "Write a recursive binary search function in C/C++.",
+            "options": [],
+            "type": "coding-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1562,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中山大學",
+            "department": "資訊管理學系碩士班甲組",
+            "year": "107",
+            "question_number": "1",
+            "question_text": "Which of the following about Functional Programming Languages is FALSE?",
+            "options": [
+                "a. Closure is created by parental functions and is enclosed with the information of parental functions.",
+                "b. Higher-order functions are functions that can either take other functions as arguments or return them as results.",
+                "c. A \"Map\" function is usually used to reduce a set of elements/values to a single element by combining elements via a supplied function.",
+                "d. Iterations are usually implemented by recursions."
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1563,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中山大學",
+            "department": "資訊管理學系碩士班甲組",
+            "year": "107",
+            "question_number": "2",
+            "question_text": "Which of the following software framework/package is NOT commonly used in processing massive datasets larger than main memory?",
+            "options": [
+                "a. Apache Spark",
+                "b. Apache Hadoop",
+                "c. H2O",
+                "d. Pandas"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1564,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中山大學",
+            "department": "資訊管理學系碩士班甲組",
+            "year": "107",
+            "question_number": "3",
+            "question_text": "Which of the following is usually considered semi-structured data?",
+            "options": [
+                "a. JSON",
+                "b. Email body text",
+                "c. Video file",
+                "d. Table data in relational databases"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1565,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中山大學",
+            "department": "資訊管理學系碩士班甲組",
+            "year": "107",
+            "question_number": "4",
+            "question_text": "Suppose that ary is an C array and aryPtr is an C pointer to the array, which expression refers to the address of element 3?",
+            "options": [
+                "a. *(aryPtr + 3)",
+                "b. aryPtr [3]",
+                "c. ary(t + 3)",
+                "d. &ary [3]"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1566,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中山大學",
+            "department": "資訊管理學系碩士班甲組",
+            "year": "107",
+            "question_number": "5",
+            "question_text": "Evaluate the below C statement.\nconst int * const xPtr = &x;\nWhich of the following is TRUE?",
+            "options": [
+                "a. xPtr is a pointer variable that points to an object of type const",
+                "b. The data value of the object that xPtr points to can be modified",
+                "c. The memory address saved in xPtr cannot be modified",
+                "d. Statement xPtr = &y is valid"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1567,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中山大學",
+            "department": "資訊管理學系碩士班甲組",
+            "year": "107",
+            "question_number": "6",
+            "question_text": "Which of the following about MapReduce Programming Model is TRUE?",
+            "options": [
+                "a. MapReduce is often used in iterative data processing",
+                "b. MapReduce is a common programming model implemented in Apache Spark",
+                "c. The concept of MapReduce originated from object-oriented programming",
+                "d. Combiners in MapReduce may help reduce data transmission among multiple data nodes"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1568,
+        "status": [
+            "路徑錯誤"
+        ],
+        "question_data": {
+            "school": "國立中山大學",
+            "department": "資訊管理學系碩士班甲組",
+            "year": "107",
+            "question_number": "7",
+            "question_text": "Consider the following table A and B in a relational database.\nHow many rows and columns in the output after running below SQL query?\nSELECT A.* from A LEFT JOIN B ON A.id = B.id",
+            "options": [
+                "a. 3 rows and 2 columns",
+                "b. 3 rows and 4 columns",
+                "c. 2 rows and 2 columns",
+                "d. 2 rows and 4 columns"
+            ],
+            "type": "single-choice",
+            "image_file": [
+                "107-計算機概論-國立中山大學-資訊管理學系碩士班甲組_page_2_7.png"
+            ]
+        }
+    },
+    {
+        "total_question_number": 1569,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中山大學",
+            "department": "資訊管理學系碩士班甲組",
+            "year": "107",
+            "question_number": "8",
+            "question_text": "It typically takes up ______ bit(s) when an integer number 5 is stored as a character in computer memory.",
+            "options": [
+                "a. 8",
+                "b. 5",
+                "c. 16",
+                "d. 1"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1570,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中山大學",
+            "department": "資訊管理學系碩士班甲組",
+            "year": "107",
+            "question_number": "9",
+            "question_text": "In IPv6, what is the broadcast address?",
+            "options": [
+                "a. All ones",
+                "b. All zeros",
+                "c. 255.255.255.255",
+                "d. None"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1571,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中山大學",
+            "department": "資訊管理學系碩士班甲組",
+            "year": "107",
+            "question_number": "10",
+            "question_text": "What is the function of Time to Live field in the Internet protocol?",
+            "options": [
+                "a. Limiting the response time of servers",
+                "b. Specifying the time of transmission",
+                "c. Limiting the hop number of a packet",
+                "d. To improve the privacy of message by restricting its lifetime"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1572,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中山大學",
+            "department": "資訊管理學系碩士班甲組",
+            "year": "107",
+            "question_number": "11",
+            "question_text": "Which of the following is trusted for vouching the authenticity of the person or organization using the authentication?",
+            "options": [
+                "a. Civil court",
+                "b. Certificate authority",
+                "c. Fingerprint advisory board",
+                "d. Computing center"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1573,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中山大學",
+            "department": "資訊管理學系碩士班甲組",
+            "year": "107",
+            "question_number": "12",
+            "question_text": "What is reinforcement learning?",
+            "options": [
+                "a. A kind of e-learning reinforced by classmates",
+                "b. An educational technology to improve the learning performance",
+                "c. An unsupervised machine learning algorithm",
+                "d. A kind of machine learning method based on maximizing the reward"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1574,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中山大學",
+            "department": "資訊管理學系碩士班甲組",
+            "year": "107",
+            "question_number": "13",
+            "question_text": "Which of the following algorithms represents an optimal solution in time complexity for sorting a list?",
+            "options": [
+                "a. Insertion sort",
+                "b. Bubble sort",
+                "c. Selection sort",
+                "d. Merge sort"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1575,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中山大學",
+            "department": "資訊管理學系碩士班甲組",
+            "year": "107",
+            "question_number": "14",
+            "question_text": "If the longest path in a binary tree contains four nodes, what is the maximum number of nodes in the entire tree?",
+            "options": [
+                "a. 4",
+                "b. 7",
+                "c. 15",
+                "d. 31"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1576,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中山大學",
+            "department": "資訊管理學系碩士班甲組",
+            "year": "107",
+            "question_number": "15",
+            "question_text": "Which of the following is a technique for controlling access to a critical section?",
+            "options": [
+                "a. Spooling",
+                "b. Time sharing",
+                "c. Semaphore",
+                "d. Booting"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1577,
+        "status": [
+            "選項錯誤"
+        ],
+        "question_data": {
+            "school": "國立中山大學",
+            "department": "資訊管理學系碩士班甲組",
+            "year": "107",
+            "question_number": "16",
+            "question_text": "Which of the following equations is correct?",
+            "options": [
+                "a. P(XY) = P(Y|X) P(X)/P(Y)",
+                "b. P(XY) = P(Y|X) P(X)",
+                "c. P(XY) = P(YX)/P(Y)",
+                "d. P(XY)=P(Y|X) P(X) P(Y)"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1578,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中山大學",
+            "department": "資訊管理學系碩士班甲組",
+            "year": "107",
+            "question_number": "1",
+            "question_text": "Please write a recursive C/C++ function reverse(n) that prints reversed positive integer number n.\nFor example,\nreverse (9876);\nwill print\n6789",
+            "options": [],
+            "type": "coding-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1579,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中山大學",
+            "department": "資訊管理學系碩士班甲組",
+            "year": "107",
+            "question_number": "2",
+            "question_text": "Write a recursive binary search function in C/C++.",
+            "options": [],
+            "type": "coding-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1580,
+        "status": [
+            "題目錯誤"
+        ],
+        "question_data": {
+            "school": "國立中正大學",
+            "department": "會計與資訊科技學系碩士班資訊組",
+            "year": "107",
+            "question_number": "1",
+            "question_text": "A hard disk is classified as volatile memory, because it requires a constant power supply in order to retain its information.",
+            "options": [],
+            "type": "true-false",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1581,
+        "status": [
+            "題目錯誤"
+        ],
+        "question_data": {
+            "school": "國立中正大學",
+            "department": "會計與資訊科技學系碩士班資訊組",
+            "year": "107",
+            "question_number": "2",
+            "question_text": "A directory is a collection of files that are organized together and labeled with a common name.",
+            "options": [],
+            "type": "true-false",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1582,
+        "status": [
+            "題目錯誤"
+        ],
+        "question_data": {
+            "school": "國立中正大學",
+            "department": "會計與資訊科技學系碩士班資訊組",
+            "year": "107",
+            "question_number": "3",
+            "question_text": "Because the ARPANet utilized ordinary phone lines to connect computers over large distances, it was slow compared to existing technologies of the time.",
+            "options": [],
+            "type": "true-false",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1583,
+        "status": [
+            "題目錯誤"
+        ],
+        "question_data": {
+            "school": "國立中正大學",
+            "department": "會計與資訊科技學系碩士班資訊組",
+            "year": "107",
+            "question_number": "4",
+            "question_text": "When a message is broken into packets as transmitted over the Internet, it is guaranteed that all packets will take the same route from source to destination.",
+            "options": [],
+            "type": "true-false",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1584,
+        "status": [
+            "題目錯誤"
+        ],
+        "question_data": {
+            "school": "國立中正大學",
+            "department": "會計與資訊科技學系碩士班資訊組",
+            "year": "107",
+            "question_number": "5",
+            "question_text": "A microprocessor is a special-purpose computer that is used to control scientific machinery.",
+            "options": [],
+            "type": "true-false",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1585,
+        "status": [
+            "題目錯誤"
+        ],
+        "question_data": {
+            "school": "國立中正大學",
+            "department": "會計與資訊科技學系碩士班資訊組",
+            "year": "107",
+            "question_number": "6",
+            "question_text": "An algorithm is a step-by-step sequence of instructions for carrying out some task.",
+            "options": [],
+            "type": "true-false",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1586,
+        "status": [
+            "題目錯誤"
+        ],
+        "question_data": {
+            "school": "國立中正大學",
+            "department": "會計與資訊科技學系碩士班資訊組",
+            "year": "107",
+            "question_number": "7",
+            "question_text": "Suppose you have been given a sorted list of 100 names and need to find a particular name in that list. Using sequential search, it is possible that you might have to look at every location in the list before finding the desired name.",
+            "options": [],
+            "type": "true-false",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1587,
+        "status": [
+            "題目錯誤"
+        ],
+        "question_data": {
+            "school": "國立中正大學",
+            "department": "會計與資訊科技學系碩士班資訊組",
+            "year": "107",
+            "question_number": "8",
+            "question_text": "On an Ethernet network, computer A can send a message directly to computer B, without any other computer on the network receiving that message.",
+            "options": [],
+            "type": "true-false",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1588,
+        "status": [
+            "題目錯誤"
+        ],
+        "question_data": {
+            "school": "國立中正大學",
+            "department": "會計與資訊科技學系碩士班資訊組",
+            "year": "107",
+            "question_number": "9",
+            "question_text": "The Turing Test was proposed by Alan Turing as a means of determining whether an artificially intelligent machine has been constructed.",
+            "options": [],
+            "type": "true-false",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1589,
+        "status": [
+            "題目錯誤"
+        ],
+        "question_data": {
+            "school": "國立中正大學",
+            "department": "會計與資訊科技學系碩士班資訊組",
+            "year": "107",
+            "question_number": "10",
+            "question_text": "When developing large software projects, it generally takes more time to develop the code than it does to test and maintain it.",
+            "options": [],
+            "type": "true-false",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1590,
+        "status": [
+            "題目錯誤"
+        ],
+        "question_data": {
+            "school": "國立中正大學",
+            "department": "會計與資訊科技學系碩士班資訊組",
+            "year": "107",
+            "question_number": "11",
+            "question_text": "The binary value 11012 represents the decimal number 27.",
+            "options": [],
+            "type": "true-false",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1591,
+        "status": [
+            "題目錯誤"
+        ],
+        "question_data": {
+            "school": "國立中正大學",
+            "department": "會計與資訊科技學系碩士班資訊組",
+            "year": "107",
+            "question_number": "12",
+            "question_text": "ASCII code is a program written to convert binary numbers to their decimal equivalents.",
+            "options": [],
+            "type": "true-false",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1592,
+        "status": [
+            "題目錯誤"
+        ],
+        "question_data": {
+            "school": "國立中正大學",
+            "department": "會計與資訊科技學系碩士班資訊組",
+            "year": "107",
+            "question_number": "13",
+            "question_text": "In a bitmap, the number of pixels used to represent an image affects both how sharp the image appears and the amount of memory it requires.",
+            "options": [],
+            "type": "true-false",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1593,
+        "status": [
+            "題目錯誤"
+        ],
+        "question_data": {
+            "school": "國立中正大學",
+            "department": "會計與資訊科技學系碩士班資訊組",
+            "year": "107",
+            "question_number": "14",
+            "question_text": "The path that data follows within the CPU, traveling along buses from registers to the ALU and then back to registers, is known as the CPU datapath.",
+            "options": [],
+            "type": "true-false",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1594,
+        "status": [
+            "題目錯誤"
+        ],
+        "question_data": {
+            "school": "國立中正大學",
+            "department": "會計與資訊科技學系碩士班資訊組",
+            "year": "107",
+            "question_number": "15",
+            "question_text": "Moore's Law dictates that integrated circuitry must be manufactured out of silicon, as opposed to other semiconductors such as germanium.",
+            "options": [],
+            "type": "true-false",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1595,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中正大學",
+            "department": "會計與資訊科技學系碩士班資訊組",
+            "year": "107",
+            "question_number": "16",
+            "question_text": "____ key encryption requires that the receiver obtain the key to decrypt the message.",
+            "options": [
+                "a. Symmetric",
+                "b. Asymmetric",
+                "c. Digital certificate",
+                "d. Digital signature"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1596,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中正大學",
+            "department": "會計與資訊科技學系碩士班資訊組",
+            "year": "107",
+            "question_number": "17",
+            "question_text": "The goal of Secure Electronic Transmissions (SET) is to:",
+            "options": [
+                "a. alert the network administrator to packet sniffing activities.",
+                "b. create safe online transactions using digital certificates.",
+                "c. provide firewall standards for all network servers.",
+                "d. add public key encryption techniques to all Internet traffic."
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1597,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中正大學",
+            "department": "會計與資訊科技學系碩士班資訊組",
+            "year": "107",
+            "question_number": "18",
+            "question_text": "A ______ is a uniform set of encryption standards that could facilitate secure Internet transactions.",
+            "options": [
+                "a. ciphertext",
+                "b. public key infrastructure (PKI)",
+                "c. pretty good privacy (PGP) policy",
+                "d. key escrow plan"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1598,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中正大學",
+            "department": "會計與資訊科技學系碩士班資訊組",
+            "year": "107",
+            "question_number": "19",
+            "question_text": "______ is the obligation for parties to a lawsuit to exchange documents that exist only in electronic form.",
+            "options": [
+                "a. E-evidence",
+                "b. E-discovery",
+                "c. E-law",
+                "d. E-exchange"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1599,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中正大學",
+            "department": "會計與資訊科技學系碩士班資訊組",
+            "year": "107",
+            "question_number": "20",
+            "question_text": "Vacation hackers, one of the newest trends in Internet fraud, involve all of the following EXCEPT:",
+            "options": [
+                "a. travelers being targeted by Cybercriminals.",
+                "b. in addition to the information reaching the intended destination, such as an airport or hotel, the cybercriminal also obtains the user's data.",
+                "c. phony WiFi hot spots, called evil twins, are used to obtain data from unsuspecting individuals.",
+                "d. users believe they are using a valid WiFi access point."
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1600,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中正大學",
+            "department": "會計與資訊科技學系碩士班資訊組",
+            "year": "107",
+            "question_number": "21",
+            "question_text": "Machine language is said to be machine dependent because it is dependent on the:",
+            "options": [
+                "a. version of memory.",
+                "b. hard drive.",
+                "c. processor.",
+                "d. source code."
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1601,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中正大學",
+            "department": "會計與資訊科技學系碩士班資訊組",
+            "year": "107",
+            "question_number": "22",
+            "question_text": "In assembly language, each program statement corresponds to a(n):",
+            "options": [
+                "a. object.",
+                "b. instruction.",
+                "c. program.",
+                "d. control structure."
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1602,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中正大學",
+            "department": "會計與資訊科技學系碩士班資訊組",
+            "year": "107",
+            "question_number": "23",
+            "question_text": "Which of the following is the first step toward a true natural language interface?",
+            "options": [
+                "a. Control classes",
+                "b. Continuous speech recognition",
+                "c. Mnemonics",
+                "d. Fast compilers"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1603,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中正大學",
+            "department": "會計與資訊科技學系碩士班資訊組",
+            "year": "107",
+            "question_number": "24",
+            "question_text": "Which of the following is the process used to create software applications?",
+            "options": [
+                "a. Algorithms",
+                "b. Pseudo coding",
+                "c. Programming",
+                "d. Debugging"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1604,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中正大學",
+            "department": "會計與資訊科技學系碩士班資訊組",
+            "year": "107",
+            "question_number": "25",
+            "question_text": "Software applications are developed by trained experts known as:",
+            "options": [
+                "a. programmers.",
+                "b. coders.",
+                "c. analysts.",
+                "d. debuggers."
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1605,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中正大學",
+            "department": "會計與資訊科技學系碩士班資訊組",
+            "year": "107",
+            "question_number": "26",
+            "question_text": "A(n) ______ is a written plan that specifies steps to be taken in the event of an emergency.",
+            "options": [
+                "a. emergency plan",
+                "b. backup plan",
+                "c. disaster recovery plan",
+                "d. contingency plan"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1606,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中正大學",
+            "department": "會計與資訊科技學系碩士班資訊組",
+            "year": "107",
+            "question_number": "27",
+            "question_text": "Which of the following is another term for duplicating all enterprise data?",
+            "options": [
+                "a. Mirroring",
+                "b. Replicating",
+                "c. Fault tolerant",
+                "d. Contingency"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1607,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中正大學",
+            "department": "會計與資訊科技學系碩士班資訊組",
+            "year": "107",
+            "question_number": "28",
+            "question_text": "A(n) ______ is a person, place, object, event, or idea for which you want to store and process data.",
+            "options": [
+                "a. attribute",
+                "b. DBMS",
+                "c. entity",
+                "d. DBA"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1608,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中正大學",
+            "department": "會計與資訊科技學系碩士班資訊組",
+            "year": "107",
+            "question_number": "29",
+            "question_text": "Which of the following statements is correct?",
+            "options": [
+                "a. In a nondatabase, file-oriented environment, data is often partitioned into several disjointed systems with each system having its own collection of files.",
+                "b. User data cannot be combined and shared among authorized users.",
+                "c. Database users should not have access to the same information.",
+                "d. The elimination of redundancy is always possible."
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1609,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中正大學",
+            "department": "會計與資訊科技學系碩士班資訊組",
+            "year": "107",
+            "question_number": "30",
+            "question_text": "______ is the prevention of unauthorized access to the database.",
+            "options": [
+                "a. Data independence",
+                "b. Integrity constraint",
+                "c. Redundancy",
+                "d. Security"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1610,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中正大學",
+            "department": "會計與資訊科技學系碩士班資訊組",
+            "year": "107",
+            "question_number": "31",
+            "question_text": "Independent entities have ______ in an E-R diagram.",
+            "options": [
+                "a. dashed borders",
+                "b. dark backgrounds",
+                "c. square corners",
+                "d. rounded corners"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1611,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中正大學",
+            "department": "會計與資訊科技學系碩士班資訊組",
+            "year": "107",
+            "question_number": "32",
+            "question_text": "A subtype is also called a(n) ______ in IDEFIX terminology.",
+            "options": [
+                "a. dependent",
+                "b. inner type",
+                "c. specification",
+                "d. category"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1612,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中正大學",
+            "department": "會計與資訊科技學系碩士班資訊組",
+            "year": "107",
+            "question_number": "33",
+            "question_text": "On an E-R diagram, the number closest to the relationship represents ______ cardinality.",
+            "options": [
+                "a. maximum",
+                "b. minimum",
+                "c. midvalue",
+                "d. largest"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1613,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中正大學",
+            "department": "會計與資訊科技學系碩士班資訊組",
+            "year": "107",
+            "question_number": "34",
+            "question_text": "Each phase of the SDLC is intended to address key issues and produce:",
+            "options": [
+                "a. incremental budgets.",
+                "b. test plans.",
+                "c. requirements.",
+                "d. deliverables."
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1614,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中正大學",
+            "department": "會計與資訊科技學系碩士班資訊組",
+            "year": "107",
+            "question_number": "35",
+            "question_text": "A collection of components organized into a functioning whole is known as a(n):",
+            "options": [
+                "a. application program.",
+                "b. artificial intelligence program.",
+                "c. life cycle.",
+                "d. system."
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1615,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中正大學",
+            "department": "會計與資訊科技學系碩士班資訊組",
+            "year": "107",
+            "question_number": "1",
+            "question_text": "Describe three elements common to a Graphical User Interface (GUI)? How do these elements make it easier for a user to interact with the computer.",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1616,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中正大學",
+            "department": "會計與資訊科技學系碩士班資訊組",
+            "year": "107",
+            "question_number": "2",
+            "question_text": "Internet communications are defined by a set of protocols called TCP/IP. What do TCP and IP stand for, and what is the role of each protocol in transmitting and receiving information?",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1617,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中正大學",
+            "department": "會計與資訊科技學系碩士班資訊組",
+            "year": "107",
+            "question_number": "3",
+            "question_text": "What does the acronym VLSI stand for? How did the development of VLSI technology contribute to the personal computer revolution of the late 1970s?",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1618,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中正大學",
+            "department": "會計與資訊科技學系碩士班資訊組",
+            "year": "107",
+            "question_number": "4",
+            "question_text": "What does it mean for an operating system to support multitasking? How is multitasking different from time sharing?",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1619,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中正大學",
+            "department": "會計與資訊科技學系碩士班資訊組",
+            "year": "107",
+            "question_number": "5",
+            "question_text": "What decimal value is represented by the binary number 011010012? Show the steps involved in the conversion, then use the Data Representation Page to verify your answer.",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1620,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中正大學",
+            "department": "資訊管理學系碩士班乙組",
+            "year": "107",
+            "question_number": "1",
+            "question_text": "An aspect of cloud computing that allows developers to create, test, and run their solutions on a cloud platform without having to purchase or configure the underlying hardware and software is known as",
+            "options": [
+                "a. DaaS",
+                "b. IaaS",
+                "c. SaaS",
+                "d. PaaS"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1621,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中正大學",
+            "department": "資訊管理學系碩士班乙組",
+            "year": "107",
+            "question_number": "2",
+            "question_text": "A(n) ______ is written for mobile devices running a particular mobile phone operating system.",
+            "options": [
+                "a. native app",
+                "b. hybrid app",
+                "c. DSS",
+                "d. expert system"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1622,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中正大學",
+            "department": "資訊管理學系碩士班乙組",
+            "year": "107",
+            "question_number": "3",
+            "question_text": "A(n) ______ can connect up to 127 different peripheral devices together with a single connector.",
+            "options": [
+                "a. SLR device",
+                "b. USB port",
+                "c. port replicator",
+                "d. docking station"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1623,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中正大學",
+            "department": "資訊管理學系碩士班乙組",
+            "year": "107",
+            "question_number": "4",
+            "question_text": "______ uses short-range radio signals to enable computers and devices to communicate with each other.",
+            "options": [
+                "a. Cellular radio",
+                "b. Bluetooth",
+                "c. Wi-Fi",
+                "d. A hot spot"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1624,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中正大學",
+            "department": "資訊管理學系碩士班乙組",
+            "year": "107",
+            "question_number": "5",
+            "question_text": "A(n) ______ backup method is the only real-time backup, providing very fast recovery of data.",
+            "options": [
+                "a. selective",
+                "b. full",
+                "c. incremental",
+                "d. continuous data protection"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1625,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中正大學",
+            "department": "資訊管理學系碩士班乙組",
+            "year": "107",
+            "question_number": "6",
+            "question_text": "A ______ defines how users view the organization of data in a database.",
+            "options": [
+                "a. data dictionary",
+                "b. data mart",
+                "c. data model",
+                "d. report writer"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1626,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中正大學",
+            "department": "資訊管理學系碩士班乙組",
+            "year": "107",
+            "question_number": "7",
+            "question_text": "You register a domain name through ______, which is an organization that sells and manages domain names.",
+            "options": [
+                "a. a cybersquatter",
+                "b. a registrar",
+                "c. ICANN",
+                "d. an ISP"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1627,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中正大學",
+            "department": "資訊管理學系碩士班乙組",
+            "year": "107",
+            "question_number": "8",
+            "question_text": "Mobile payment apps use a payment system on phones equipped with a(n) ______ which stores data that is transmitted to a contactless terminal and verified as a legitimate sale.",
+            "options": [
+                "a. QR chip",
+                "b. EULA",
+                "c. NFC chip",
+                "d. trojan horse"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1628,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中正大學",
+            "department": "資訊管理學系碩士班乙組",
+            "year": "107",
+            "question_number": "9",
+            "question_text": "A ______ is a special series of bits that functions like a ticket.",
+            "options": [
+                "a. packet",
+                "b. Bluebug",
+                "c. token",
+                "d. host"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1629,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中正大學",
+            "department": "資訊管理學系碩士班乙組",
+            "year": "107",
+            "question_number": "10",
+            "question_text": "A(n) ______ check tests data in two or more associated fields to ensure that the relationship is logical and their data is in the correct format.",
+            "options": [
+                "a. completeness",
+                "b. consistency",
+                "c. range",
+                "d. alphabetic"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1630,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中正大學",
+            "department": "資訊管理學系碩士班乙組",
+            "year": "107",
+            "question_number": "11",
+            "question_text": "What is the difference between the client-server architecture and the three-tier architecture?",
+            "options": [
+                "a. In the three-tier architecture, each tier is a database server.",
+                "b. In the client-server architecture, each client program has a presentation layer.",
+                "c. The three-tier application must be distributed over all desktops, but client-server does not.",
+                "d. The client-server application must reside on a server, but three-tier does not."
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1631,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中正大學",
+            "department": "資訊管理學系碩士班乙組",
+            "year": "107",
+            "question_number": "12",
+            "question_text": "The Process stands for the activity of executing a program, which one is NOT Process state:",
+            "options": [
+                "a. program counter",
+                "b. general purpose registers",
+                "c. boot loader",
+                "d. associated memory cells"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1632,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中正大學",
+            "department": "資訊管理學系碩士班乙組",
+            "year": "107",
+            "question_number": "13",
+            "question_text": "The Process table is NOT indicating following state:",
+            "options": [
+                "a. waiting time",
+                "b. ready/waiting",
+                "c. priority",
+                "d. memory area assigned to the process"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1633,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中正大學",
+            "department": "資訊管理學系碩士班乙組",
+            "year": "107",
+            "question_number": "14",
+            "question_text": "When converting an XML document to Java classes, how should you think about XML elements?",
+            "options": [
+                "a. Elements are equivalent to classes.",
+                "b. Elements are like instance variables.",
+                "c. Elements are similar to superclasses.",
+                "d. Elements can be instance variables, classes, or methods."
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1634,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中正大學",
+            "department": "資訊管理學系碩士班乙組",
+            "year": "107",
+            "question_number": "15",
+            "question_text": "What is wrong with the following statement?\n`boolean result = statement.execute(\"SELECT * from emp WHERE empNum = ?\");`",
+            "options": [
+                "a. boolean should be ResultSet",
+                "b. execute should be executeQuery",
+                "c. execute should be prepareStatement",
+                "d. ? should be an integer"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1635,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中正大學",
+            "department": "資訊管理學系碩士班乙組",
+            "year": "107",
+            "question_number": "Session II. 1-a",
+            "question_text": "List all elements (in both binary and decimal) of 3 bits of two's complement (e.g. 000(b)0(d)).",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1636,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中正大學",
+            "department": "資訊管理學系碩士班乙組",
+            "year": "107",
+            "question_number": "Session II. 1-b",
+            "question_text": "what is the value (in both binary and decimal) of the summation of the greatest element and the smallest element?",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1637,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中正大學",
+            "department": "資訊管理學系碩士班乙組",
+            "year": "107",
+            "question_number": "Session II. 2",
+            "question_text": "A Machine cycle includes fetch, decode, and execute; how many machine cycles will be conduct per second for a 3GHz CPU?",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1638,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中正大學",
+            "department": "資訊管理學系碩士班乙組",
+            "year": "107",
+            "question_number": "3",
+            "question_text": "What is the corresponding value of 10100000 after performing left shift of (a) logic shift, (b) arithmetic shift, (c) rotation. (15 points, 5 points for each)",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1639,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中正大學",
+            "department": "資訊管理學系碩士班乙組",
+            "year": "107",
+            "question_number": "4",
+            "question_text": "What elements does the data array contain after the following statements? (15 points)\ndouble[] values = new double[10];\nfor (int i = 0; i < values.length; i++)\nvalues[i] = i * i;",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1640,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中正大學",
+            "department": "資訊管理學系碩士班甲組",
+            "year": "107",
+            "question_number": "1",
+            "question_text": "An aspect of cloud computing that allows developers to create, test, and run their solutions on a cloud platform without having to purchase or configure the underlying hardware and software is known as",
+            "options": [
+                "a. DaaS",
+                "b. IaaS",
+                "c. SaaS",
+                "d. PaaS"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1641,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中正大學",
+            "department": "資訊管理學系碩士班甲組",
+            "year": "107",
+            "question_number": "2",
+            "question_text": "A(n) ______ is written for mobile devices running a particular mobile phone operating system.",
+            "options": [
+                "a. native app",
+                "b. hybrid app",
+                "c. DSS",
+                "d. expert system"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1642,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中正大學",
+            "department": "資訊管理學系碩士班甲組",
+            "year": "107",
+            "question_number": "3",
+            "question_text": "A(n) ______ can connect up to 127 different peripheral devices together with a single connector.",
+            "options": [
+                "a. SLR device",
+                "b. USB port",
+                "c. port replicator",
+                "d. docking station"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1643,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中正大學",
+            "department": "資訊管理學系碩士班甲組",
+            "year": "107",
+            "question_number": "4",
+            "question_text": "______ uses short-range radio signals to enable computers and devices to communicate with each other.",
+            "options": [
+                "a. Cellular radio",
+                "b. Bluetooth",
+                "c. Wi-Fi",
+                "d. A hot spot"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1644,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中正大學",
+            "department": "資訊管理學系碩士班甲組",
+            "year": "107",
+            "question_number": "5",
+            "question_text": "A(n) ______ backup method is the only real-time backup, providing very fast recovery of data.",
+            "options": [
+                "a. selective",
+                "b. full",
+                "c. incremental",
+                "d. continuous data protection"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1645,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中正大學",
+            "department": "資訊管理學系碩士班甲組",
+            "year": "107",
+            "question_number": "6",
+            "question_text": "A ______ defines how users view the organization of data in a database.",
+            "options": [
+                "a. data dictionary",
+                "b. data mart",
+                "c. data model",
+                "d. report writer"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1646,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中正大學",
+            "department": "資訊管理學系碩士班甲組",
+            "year": "107",
+            "question_number": "7",
+            "question_text": "You register a domain name through ______, which is an organization that sells and manages domain names.",
+            "options": [
+                "a. a cybersquatter",
+                "b. a registrar",
+                "c. ICANN",
+                "d. an ISP"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1647,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中正大學",
+            "department": "資訊管理學系碩士班甲組",
+            "year": "107",
+            "question_number": "8",
+            "question_text": "Mobile payment apps use a payment system on phones equipped with a(n) ______, which stores data that is transmitted to a contactless terminal and verified as a legitimate sale.",
+            "options": [
+                "a. QR chip",
+                "b. EULA",
+                "c. NFC chip",
+                "d. trojan horse"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1648,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中正大學",
+            "department": "資訊管理學系碩士班甲組",
+            "year": "107",
+            "question_number": "9",
+            "question_text": "A ______ is a special series of bits that functions like a ticket.",
+            "options": [
+                "a. packet",
+                "b. Bluebug",
+                "c. token",
+                "d. host"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1649,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中正大學",
+            "department": "資訊管理學系碩士班甲組",
+            "year": "107",
+            "question_number": "10",
+            "question_text": "A(n) _______ check tests data in two or more associated fields to ensure that the relationship is logical and their data is in the correct format.",
+            "options": [
+                "a. completeness",
+                "b. consistency",
+                "c. range",
+                "d. alphabetic"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1650,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中正大學",
+            "department": "資訊管理學系碩士班甲組",
+            "year": "107",
+            "question_number": "11",
+            "question_text": "What is the difference between the client-server architecture and the three-tier architecture?",
+            "options": [
+                "a. In the three-tier architecture, each tier is a database server.",
+                "b. In the client-server architecture, each client program has a presentation layer.",
+                "c. The three-tier application must be distributed over all desktops, but client-server does not.",
+                "d. The client-server application must reside on a server, but three-tier does not."
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1651,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中正大學",
+            "department": "資訊管理學系碩士班甲組",
+            "year": "107",
+            "question_number": "12",
+            "question_text": "The Process stands for the activity of executing a program, which one is NOT Process state:",
+            "options": [
+                "a. program counter",
+                "b. general purpose registers",
+                "c. boot loader",
+                "d. associated memory cells"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1652,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中正大學",
+            "department": "資訊管理學系碩士班甲組",
+            "year": "107",
+            "question_number": "13",
+            "question_text": "The Process table is NOT indicating following state:",
+            "options": [
+                "a. waiting time",
+                "b. ready/waiting",
+                "c. priority",
+                "d. memory area assigned to the process"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1653,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中正大學",
+            "department": "資訊管理學系碩士班甲組",
+            "year": "107",
+            "question_number": "14",
+            "question_text": "When converting an XML document to Java classes, how should you think about XML elements?",
+            "options": [
+                "a. Elements are equivalent to classes.",
+                "b. Elements are like instance variables.",
+                "c. Elements are similar to superclasses.",
+                "d. Elements can be instance variables, classes, or methods."
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1654,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中正大學",
+            "department": "資訊管理學系碩士班甲組",
+            "year": "107",
+            "question_number": "15",
+            "question_text": "What is wrong with the following statement?\nboolean result = statement.execute(\"SELECT * from emp WHERE empNum = ?\");",
+            "options": [
+                "a. boolean should be ResultSet",
+                "b. execute should be executeQuery",
+                "c. execute should be prepareStatement",
+                "d. ? should be an integer"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1655,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中正大學",
+            "department": "資訊管理學系碩士班甲組",
+            "year": "107",
+            "question_number": "Session II. 1-a",
+            "question_text": "List all elements (in both binary and decimal) of 3 bits of two's complement (e.g. 000(b)0(d)).",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1656,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中正大學",
+            "department": "資訊管理學系碩士班甲組",
+            "year": "107",
+            "question_number": "Session II. 1-b",
+            "question_text": "what is the value (in both binary and decimal) of the summation of the greatest element and the smallest element?",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1657,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中正大學",
+            "department": "資訊管理學系碩士班甲組",
+            "year": "107",
+            "question_number": "Session II. 2",
+            "question_text": "A Machine cycle includes fetch, decode, and execute; how many machine cycles will be conduct per second for a 3GHz CPU?",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1658,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中正大學",
+            "department": "資訊管理學系碩士班甲組",
+            "year": "107",
+            "question_number": "3-a",
+            "question_text": "What is the corresponding value of 10100000 after performing left shift of (a) logic shift?",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1659,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中正大學",
+            "department": "資訊管理學系碩士班甲組",
+            "year": "107",
+            "question_number": "3-b",
+            "question_text": "What is the corresponding value of 10100000 after performing left shift of (b) arithmetic shift?",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1660,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中正大學",
+            "department": "資訊管理學系碩士班甲組",
+            "year": "107",
+            "question_number": "3-c",
+            "question_text": "What is the corresponding value of 10100000 after performing left shift of (c) rotation?",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1661,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中正大學",
+            "department": "資訊管理學系碩士班甲組",
+            "year": "107",
+            "question_number": "4",
+            "question_text": "What elements does the data array contain after the following statements? (15 points)\ndouble[] values = new double[10];\nfor (int i = 0; i < values.length; i++)\nvalues[i] = i * i;",
+            "options": [],
+            "type": "short-answer",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1662,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中正大學",
+            "department": "資訊管理學系醫療資訊管理碩士班",
+            "year": "107",
+            "question_number": "1",
+            "question_text": "Which of the following bit patterns cannot be expressed in hexadecimal notation?",
+            "options": [
+                "a. 11111111",
+                "b. 1001",
+                "c. 110011",
+                "d. 100000000001"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1663,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中正大學",
+            "department": "資訊管理學系醫療資訊管理碩士班",
+            "year": "107",
+            "question_number": "2",
+            "question_text": "What is the result of the following subtraction problem (using two's complement notation)?\n00001111\n- 10101010",
+            "options": [
+                "a. 011000101",
+                "b. 10111001",
+                "c. 01010101",
+                "d. 10110101"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1664,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中正大學",
+            "department": "資訊管理學系醫療資訊管理碩士班",
+            "year": "107",
+            "question_number": "3",
+            "question_text": "Which of the following representations in two's complement notation represents the smallest value?",
+            "options": [
+                "a. 00000010",
+                "b. 11110000",
+                "c. 00000001",
+                "d. 11111111"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1665,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中正大學",
+            "department": "資訊管理學系醫療資訊管理碩士班",
+            "year": "107",
+            "question_number": "4",
+            "question_text": "Which of the following data storage systems provides the most efficient random access to individual data items?",
+            "options": [
+                "a. Main memory",
+                "b. Magnetic disk",
+                "c. CDs/DVDs",
+                "d. Flash drives"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1666,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中正大學",
+            "department": "資訊管理學系醫療資訊管理碩士班",
+            "year": "107",
+            "question_number": "5",
+            "question_text": "Assuming that each of the following bit patterns originally had even parity, which one contains an error?",
+            "options": [
+                "a. 100110100",
+                "b. 110000011",
+                "c. 010011000",
+                "d. 100011001"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1667,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中正大學",
+            "department": "資訊管理學系醫療資訊管理碩士班",
+            "year": "107",
+            "question_number": "6",
+            "question_text": "Which of the following is a means of encoding music?",
+            "options": [
+                "a. ASCII",
+                "b. MIDI",
+                "c. JPEG",
+                "d. GIF"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1668,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中正大學",
+            "department": "資訊管理學系醫療資訊管理碩士班",
+            "year": "107",
+            "question_number": "7",
+            "question_text": "Which of the following is not contained in a CPU?",
+            "options": [
+                "a. Instruction register",
+                "b. Program counter",
+                "c. General-purpose register",
+                "d. Memory cell"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1669,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中正大學",
+            "department": "資訊管理學系醫療資訊管理碩士班",
+            "year": "107",
+            "question_number": "8",
+            "question_text": "In which of the following locations is information most readily available for manipulation by the CPU?",
+            "options": [
+                "a. Cache memory",
+                "b. Main memory",
+                "c. Mass storage",
+                "d. General-purpose registers"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1670,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中正大學",
+            "department": "資訊管理學系醫療資訊管理碩士班",
+            "year": "107",
+            "question_number": "9",
+            "question_text": "Which of the following instructions does not fall in the category of arithmetic/logic instructions?",
+            "options": [
+                "a. ROTATE",
+                "b. ADD",
+                "c. OR",
+                "d. JUMP"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1671,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中正大學",
+            "department": "資訊管理學系醫療資訊管理碩士班",
+            "year": "107",
+            "question_number": "10",
+            "question_text": "Which of the following is not an activity performed entirely within a CPU?",
+            "options": [
+                "a. Fetch instructions",
+                "b. Perform Boolean operations",
+                "c. Perform arithmetic operations",
+                "d. Move data between registers"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1672,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中正大學",
+            "department": "資訊管理學系醫療資訊管理碩士班",
+            "year": "107",
+            "question_number": "11",
+            "question_text": "Which of the following components of an operating system is not part of the kernel?",
+            "options": [
+                "a. User Interface",
+                "b. File manager",
+                "c. Scheduler"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1673,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中正大學",
+            "department": "資訊管理學系醫療資訊管理碩士班",
+            "year": "107",
+            "question_number": "12",
+            "question_text": "Multitasking in a computer with only one CPU is accomplished by a technique called",
+            "options": [
+                "a. Bootstrapping",
+                "b. Batch processing",
+                "c. Multiprogramming"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1674,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中正大學",
+            "department": "資訊管理學系醫療資訊管理碩士班",
+            "year": "107",
+            "question_number": "13",
+            "question_text": "The end of a time slice is indicted by the occurrence of a signal called",
+            "options": [
+                "a. An interrupt",
+                "b. A semaphore",
+                "c. A login"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1675,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中正大學",
+            "department": "資訊管理學系醫療資訊管理碩士班",
+            "year": "107",
+            "question_number": "14",
+            "question_text": "Which of the following items of information would not be contained in an operating system's process table?",
+            "options": [
+                "a. The location of the memory area assigned to the process",
+                "b. The priority of each process",
+                "c. Whether the process is ready or waiting",
+                "d. The machine language instructions being executed by the process"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1676,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中正大學",
+            "department": "資訊管理學系醫療資訊管理碩士班",
+            "year": "107",
+            "question_number": "15",
+            "question_text": "Which of the following is a technique for controlling access to a critical region?",
+            "options": [
+                "a. Spooling",
+                "b. Time sharing",
+                "c. Semaphore",
+                "d. Booting"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1677,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中正大學",
+            "department": "資訊管理學系醫療資訊管理碩士班",
+            "year": "107",
+            "question_number": "16",
+            "question_text": "Which of the following is not involved in a context switch?",
+            "options": [
+                "a. Interrupt",
+                "b. Process table",
+                "c. Dispatcher",
+                "d. User Interface"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1678,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中正大學",
+            "department": "資訊管理學系醫療資訊管理碩士班",
+            "year": "107",
+            "question_number": "17",
+            "question_text": "Ethernet is a means of implementing which of the following network topologies?",
+            "options": [
+                "a. Star",
+                "b. WiFi",
+                "c. Bus"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1679,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中正大學",
+            "department": "資訊管理學系醫療資訊管理碩士班",
+            "year": "107",
+            "question_number": "18",
+            "question_text": "Which of the following connects existing networks to form an internet?",
+            "options": [
+                "a. Bridge",
+                "b. Router",
+                "c. Switch",
+                "d. Repeater"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1680,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中正大學",
+            "department": "資訊管理學系醫療資訊管理碩士班",
+            "year": "107",
+            "question_number": "19",
+            "question_text": "Which layer of the TCP/IP hierarchy decides which application should receive an incoming message?",
+            "options": [
+                "a. Application",
+                "b. Transport",
+                "c. Network",
+                "d. Link"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1681,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中正大學",
+            "department": "資訊管理學系醫療資訊管理碩士班",
+            "year": "107",
+            "question_number": "20",
+            "question_text": "Which layer of the TCP/IP hierarchy reassembles messages as their pieces arrive at the destination?",
+            "options": [
+                "a. Application",
+                "b. Transport",
+                "c. Network",
+                "d. Link"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1682,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中正大學",
+            "department": "資訊管理學系醫療資訊管理碩士班",
+            "year": "107",
+            "question_number": "21",
+            "question_text": "Which of the following identifies the application to which a message arriving from the Internet should be given?",
+            "options": [
+                "a. Protocol",
+                "b. Port number",
+                "c. Domain",
+                "d. Hop count"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1683,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中正大學",
+            "department": "資訊管理學系醫療資訊管理碩士班",
+            "year": "107",
+            "question_number": "22",
+            "question_text": "Which of the following is not an email related protocol?",
+            "options": [
+                "a. HTTP",
+                "b. POP3",
+                "c. IMAP",
+                "d. SMTP"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1684,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中正大學",
+            "department": "資訊管理學系醫療資訊管理碩士班",
+            "year": "107",
+            "question_number": "23",
+            "question_text": "When searching within the list\nLewis, Maurice, Nathan, Oliver, Pat, Quincy, Roger, Stan, Tom\nwhich of the following entries will be found most quickly using the binary search algorithm?",
+            "options": [
+                "a. Lewis",
+                "b. Pat",
+                "c. Tom"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1685,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中正大學",
+            "department": "資訊管理學系醫療資訊管理碩士班",
+            "year": "107",
+            "question_number": "24",
+            "question_text": "The insertion sort algorithm is an example of an algorithm in which of the following classes?",
+            "options": [
+                "a. $\\Theta(\\log n)$",
+                "b. $\\Theta(n)$",
+                "c. $\\Theta(n \\log n)$",
+                "d. $\\Theta(n^2)$"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1686,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中正大學",
+            "department": "資訊管理學系醫療資訊管理碩士班",
+            "year": "107",
+            "question_number": "25",
+            "question_text": "The binary search algorithm is an example of an algorithm in which of the following classes?",
+            "options": [
+                "a. $\\Theta(\\log n)$",
+                "b. $\\Theta(n)$",
+                "c. $\\Theta(n \\log n)$",
+                "d. $\\Theta(n^2)$"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1687,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中正大學",
+            "department": "資訊管理學系醫療資訊管理碩士班",
+            "year": "107",
+            "question_number": "26",
+            "question_text": "Which of the following is an example of a language that is based on the object-oriented paradigm?",
+            "options": [
+                "a. LISP",
+                "b. PROLOG",
+                "c. C",
+                "d. C++"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1688,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中正大學",
+            "department": "資訊管理學系醫療資訊管理碩士班",
+            "year": "107",
+            "question_number": "27",
+            "question_text": "Which of the following does not require a Boolean condition?",
+            "options": [
+                "a. If-else statement",
+                "b. While statement",
+                "c. Assignment statement",
+                "d. For loop statement"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1689,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中正大學",
+            "department": "資訊管理學系醫療資訊管理碩士班",
+            "year": "107",
+            "question_number": "28",
+            "question_text": "Which of the following is not a control statement?",
+            "options": [
+                "a. If-else statement",
+                "b. While statement",
+                "c. Assignment statement",
+                "d. For statement"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1690,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中正大學",
+            "department": "資訊管理學系醫療資訊管理碩士班",
+            "year": "107",
+            "question_number": "29",
+            "question_text": "Which of the following is not associated with object-oriented programming?",
+            "options": [
+                "a. Inheritance",
+                "b. Resolution",
+                "c. Encapsulation",
+                "d. Polymorphism"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1691,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中正大學",
+            "department": "資訊管理學系醫療資訊管理碩士班",
+            "year": "107",
+            "question_number": "30",
+            "question_text": "Which of the following is a means of defining similar yet different classes in an object-oriented program?",
+            "options": [
+                "a. Inheritance",
+                "b. Parsing",
+                "c. Coercion",
+                "d. Code optimization"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1692,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中正大學",
+            "department": "資訊管理學系醫療資訊管理碩士班",
+            "year": "107",
+            "question_number": "31",
+            "question_text": "Which of the following is a notational system for representing object-oriented designs?",
+            "options": [
+                "a. UML",
+                "b. Structure charts",
+                "c. Modular designs",
+                "d. Dataflow diagrams"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1693,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中正大學",
+            "department": "資訊管理學系醫療資訊管理碩士班",
+            "year": "107",
+            "question_number": "32",
+            "question_text": "Which of the following is a LIFO structure?",
+            "options": [
+                "a. Array",
+                "b. Stack",
+                "c. Queue",
+                "d. Tree"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1694,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中正大學",
+            "department": "資訊管理學系醫療資訊管理碩士班",
+            "year": "107",
+            "question_number": "33",
+            "question_text": "Which of the following is static in the sense that it does not change size or shape as information is stored and retrieved?",
+            "options": [
+                "A. Array",
+                "B. Stack",
+                "C. Queue",
+                "D. Tree"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1695,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中正大學",
+            "department": "資訊管理學系醫療資訊管理碩士班",
+            "year": "107",
+            "question_number": "34",
+            "question_text": "Suppose you were going to retrieve items of data that you would later need to process in the opposite order from that in which they were retrieved. Which of the following would be the best structure in which to store the items?",
+            "options": [
+                "A. Tree",
+                "B. Stack",
+                "C. Queue",
+                "D. Traditional linked list"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1696,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中正大學",
+            "department": "資訊管理學系醫療資訊管理碩士班",
+            "year": "107",
+            "question_number": "35",
+            "question_text": "Suppose a binary tree contained the nodes W, X, Y, and Z. If W and X were children of Y, and Z had no children, which node would be the root?",
+            "options": [
+                "A. W",
+                "B. X",
+                "C. Y",
+                "D. Z"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1697,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中正大學",
+            "department": "資訊管理學系醫療資訊管理碩士班",
+            "year": "107",
+            "question_number": "36",
+            "question_text": "If the longest path in a binary tree contained exactly four nodes, what is the maximum number of nodes that could be in the entire tree?",
+            "options": [
+                "A. 4",
+                "B. 7",
+                "C. 15",
+                "D. 31"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1698,
+        "status": [
+            "路徑錯誤"
+        ],
+        "question_data": {
+            "school": "國立中正大學",
+            "department": "資訊管理學系醫療資訊管理碩士班",
+            "year": "107",
+            "question_number": "37",
+            "question_text": "The table below represents a portion of a computer's main memory containing a binary tree stored row by row in a contiguous block as described in the chapter. What is the parent of the node Z?",
+            "options": [
+                "A. T",
+                "B. U",
+                "C. V",
+                "D. Y"
+            ],
+            "type": "single-choice",
+            "image_file": [
+                "107-計算機概論-國立中正大學-資訊管理學系醫療資訊管理碩士班_page_4_37.png"
+            ]
+        }
+    },
+    {
+        "total_question_number": 1699,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中正大學",
+            "department": "資訊管理學系醫療資訊管理碩士班",
+            "year": "107",
+            "question_number": "38",
+            "question_text": "In a machine language, the technique in which an instruction contains the location of a pointer to the data to be manipulated is called",
+            "options": [
+                "A. Immediate addressing",
+                "B. Direct addressing",
+                "C. Indirect addressing"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1700,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中正大學",
+            "department": "資訊管理學系醫療資訊管理碩士班",
+            "year": "107",
+            "question_number": "39",
+            "question_text": "Which of the following relational operations extracts entire rows from a relation?",
+            "options": [
+                "A. SELECT",
+                "B. PROJECT",
+                "C. JOIN"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
+    },
+    {
+        "total_question_number": 1701,
+        "status": [
+            "確認"
+        ],
+        "question_data": {
+            "school": "國立中正大學",
+            "department": "資訊管理學系醫療資訊管理碩士班",
+            "year": "107",
+            "question_number": "40",
+            "question_text": "Given the relation below\nX: A B C\n2 5 7\n3 3 6\n4 4 2\n5 2 2\nwhat values will be retrieved by the following SQL statement?\nSELECT A, B FROM X WHERE X.B = X.C",
+            "options": [
+                "A. 2, 5",
+                "B. 3, 6",
+                "C. 2, 2",
+                "D. 5, 2"
+            ],
+            "type": "single-choice",
+            "image_file": []
+        }
     }
 ]
