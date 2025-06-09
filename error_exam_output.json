@@ -85,11 +85,11 @@
             "department": "電子工程研究所",
             "year": "101",
             "question_number": "5",
-            "question_text": "圖五電路為一共同基極放大器，試求其輸出電壓 $v_o$。",
+            "question_text": "請考慮圖五電路。電晶體參數為 $V_{TN} = 1.5\\text{V}$, $K_n = 4\\text{mA}/\\text{V}^2$, and $\\lambda = 0.01\\text{V}^{-1}$。And $R_1 = 162\\text{k}\\Omega$, $R_2 = 463\\text{k}\\Omega$, $R_S = 0.75\\text{k}\\Omega$。已知直流分析結果為 $I_{DQ} = 7.97\\text{mA}$ and $V_{GSQ} = 2.91\\text{V}$。\n\n\\begin{itemize}\n    \\item 在 3-5 題中，請決定每一題之 (a) 小訊號轉導(small signal transconductance) $g_m$ (b) 小訊號輸出電阻 $r_o$。(c) 劃出此電路之小訊號等效模型(d) 小訊號電壓增益 $A_v$。\n\\end{itemize}",
             "options": [],
             "type": "short-answer",
             "image_file": [
-                "101-計算機概論-私立健行科技大學-電子工程研究所_page_2_5.png"
+                "101-計算機概論-私立健行科技大學-電子工程研究所_page_2_2.png"
             ]
         }
     },
@@ -103,7 +103,7 @@
             "department": "電子工程研究所",
             "year": "101",
             "question_number": "1",
-            "question_text": "圖一電路中，若 $V_D = 0.7V$，求 $I_D$ 之值？",
+            "question_text": "請考慮圖一之電路，今二極體導通(turn-on)電壓 $V_\\\\gamma = 0.7\\\\text{V}$，順向偏二極體電阻 $r_f = 12\\\\Omega$，求 $I_D$? (請使用二極體片段線性模型(piecewise linear model))請考慮圖一之電路，今二極體導通(turn-on)電壓 $V_\\\\gamma = 0.7\\\\text{V}$，順向偏二極體電阻 $r_f = 12\\\\Omega$，求 $I_D$? (請使用二極體片段線性模型(piecewise linear model))",
             "options": [],
             "type": "short-answer",
             "image_file": [
@@ -122,11 +122,11 @@
             "department": "電子工程研究所",
             "year": "101",
             "question_number": "2",
-            "question_text": "圖二電路為一個加法器電路，試說明其運作原理。",
+            "question_text": "請依照圖二設計一加法放大器，能產生輸出電壓 $V_O = V_{I1} + 10V_{I2} - 25V_{I3} - 80V_{I4}$。(請求 $R_1$、$R_2$、$R_A$、$R_B$ 與 $R_f$)",
             "options": [],
             "type": "short-answer",
             "image_file": [
-                "101-計算機概論-私立健行科技大學-電子工程研究所_page_2_2.png"
+                "101-計算機概論-私立健行科技大學-電子工程研究所_page_2_5.png"
             ]
         }
     },
@@ -141,11 +141,11 @@
             "department": "電子工程研究所",
             "year": "101",
             "question_number": "3",
-            "question_text": "圖三電路為一個電壓追隨器電路，試說明其運作原理及特性。",
+            "question_text": "請考慮圖三電路。電晶體參數為 $V_{TN} = 1\\\\text{V}$, $K_n = 1\\\\text{mA}/\\\\text{V}^2$, and $\\\\lambda = 0.015\\\\text{V}^{-1}$，且直流分析結果為 $I_{DQ} = 2\\\\text{mA}$ and $V_{GSQ} = 2.41\\\\text{V}$。",
             "options": [],
             "type": "short-answer",
             "image_file": [
-                "101-計算機概論-私立健行科技大學-電子工程研究所_page_2_3.png"
+                "101-計算機概論-私立健行科技大學-電子工程研究所_page_2_4.png"
             ]
         }
     },
@@ -160,11 +160,11 @@
             "department": "電子工程研究所",
             "year": "101",
             "question_number": "4",
-            "question_text": "圖四電路為一個共射極放大器電路，試說明其運作原理及特性。",
+            "question_text": "請考慮圖四電路。電晶體參數為 $V_{TP} = -2\\\\text{V}$, $K_p = 2\\\\text{mA}/\\\\text{V}^2$, and $\\\\lambda = 0.01\\\\text{V}^{-1}$，且直流分析結果為 $I_{DQ} = 4.56\\\\text{mA}$ and $V_{SDQ} = 7.97\\\\text{V}$。",
             "options": [],
             "type": "short-answer",
             "image_file": [
-                "101-計算機概論-私立健行科技大學-電子工程研究所_page_2_4.png"
+                "101-計算機概論-私立健行科技大學-電子工程研究所_page_2_3.png"
             ]
         }
     },
@@ -179,11 +179,11 @@
             "department": "電子工程研究所",
             "year": "101",
             "question_number": "5",
-            "question_text": "圖五電路為一個共源極放大器電路，試說明其運作原理及特性。",
+            "question_text": "請考慮圖五電路。電晶體參數為 $V_{TN} = 1.5\\\\text{V}$, $K_n = 4\\\\text{mA}/\\\\text{V}^2$, and $\\\\lambda = 0.01\\\\text{V}^{-1}$。And $R_1 = 162\\\\text{k}\\\\Omega$, $R_2 = 463\\\\text{k}\\\\Omega$, $R_S = 0.75\\\\text{k}\\\\Omega$。已知直流分析結果為 $I_{DQ} = 7.97\\\\text{mA}$ and $V_{GSQ} = 2.91\\\\text{V}$。\\n\\n\\\\begin{itemize}\\n    \\\\item 在 3-5 題中，請決定每一題之 (a) 小訊號轉導(small signal transconductance) $g_m$ (b) 小訊號輸出電阻 $r_o$。(c) 劃出此電路之小訊號等效模型(d) 小訊號電壓增益 $A_v$。\\n\\\\end{itemize}",
             "options": [],
             "type": "short-answer",
             "image_file": [
-                "101-計算機概論-私立健行科技大學-電子工程研究所_page_2_5.png"
+                "101-計算機概論-私立健行科技大學-電子工程研究所_page_2_2.png"
             ]
         }
     },
@@ -199,11 +199,11 @@
             "question_number": "3",
             "question_text": "Which of the following is the best description for \"pipelining?\"",
             "options": [
-                "a. A rate of processing more than one instruction at a time.",
-                "b. A means of assigning particular bits to a pattern.",
-                "c. The interface between computer and a peripheral device.",
-                "d. A means of restricting the capabilities within a processor.",
-                "e. A means of encoding instructions for different processes."
+                "(a) A means of processing more than one instruction at a time.",
+                "(b) A means of isolating particular bits within a bit pattern.",
+                "(c) The interface between a computer and a peripheral device.",
+                "(d) A means of restricting the capabilities of different processes.",
+                "(e) A means of encoding instructions."
             ],
             "type": "single-choice",
             "image_file": []
@@ -221,11 +221,7 @@
             "question_number": "4",
             "question_text": "Which of the following is a protocol for controlling the right to transmit a message to a network?",
             "options": [
-                "a. TCP",
-                "b. IP",
-                "c. I CANN",
-                "d. CSMA/CD",
-                "e. UDP"
+                "(a) TCP. (b) FTP. (c) ICANN. (d) CSMA/CD. (e) UDP."
             ],
             "type": "single-choice",
             "image_file": []
@@ -240,13 +236,22 @@
             "school": "私立元智大學",
             "department": "生物與醫學資訊碩士學位學程",
             "year": "102",
-            "question_number": "6-a",
+            "question_number": "6",
             "question_text": "Which of the following programs can self-terminate?",
             "options": [
-                "a. $X = 3$",
-                "b. $X = 3$",
-                "c. repeat (X = X - 3) until (X < 0)",
-                "d. repeat (X = X - 3) until (X < 0)"
+                "(a) $X \\leftarrow 3$ \\\\",
+                "\\hspace*{0.5cm} \\text{while} $(X \\neq 8)$ \\text{do} \\\\",
+                "\\hspace*{1cm} $(X \\leftarrow X+2)$ \\\\",
+                "(b) $X \\leftarrow 3$ \\\\",
+                "\\hspace*{0.5cm} \\text{while} $(X < 8)$ \\text{do} \\\\",
+                "\\hspace*{1cm} $(X \\leftarrow X-1)$ \\\\",
+                "(c) $X \\leftarrow 3$ \\\\",
+                "\\hspace*{0.5cm} \\text{repeat} $(X \\leftarrow X-1)$ \\\\",
+                "\\hspace*{0.5cm} \\text{until} $(X > 8)$ \\\\",
+                "(d) $X \\leftarrow 3$ \\\\",
+                "\\hspace*{0.5cm} \\text{repeat} $(X \\leftarrow X-1)$ \\\\",
+                "\\hspace*{0.5cm} \\text{until} $(X = -3)$ \\\\",
+                "(e) \\text{None of above}."
             ],
             "type": "single-choice",
             "image_file": []
@@ -262,13 +267,22 @@
             "school": "私立元智大學",
             "department": "生物與醫學資訊碩士學位學程",
             "year": "102",
-            "question_number": "6-b",
-            "question_text": "while (X > 0) X = X - 2",
+            "question_number": "6",
+            "question_text": "Which of the following programs can self-terminate?",
             "options": [
-                "a. while (X > 0) X = X -1",
-                "b. while (X > 0) X = X -1",
-                "c. repeat (X = X - 3) until (X < 0)",
-                "d. repeat (X = X - 3) until (X < 0)"
+                "(a) $X \\leftarrow 3$ \\\\",
+                "\\hspace*{0.5cm} \\text{while} $(X \\neq 8)$ \\text{do} \\\\",
+                "\\hspace*{1cm} $(X \\leftarrow X+2)$ \\\\",
+                "(b) $X \\leftarrow 3$ \\\\",
+                "\\hspace*{0.5cm} \\text{while} $(X < 8)$ \\text{do} \\\\",
+                "\\hspace*{1cm} $(X \\leftarrow X-1)$ \\\\",
+                "(c) $X \\leftarrow 3$ \\\\",
+                "\\hspace*{0.5cm} \\text{repeat} $(X \\leftarrow X-1)$ \\\\",
+                "\\hspace*{0.5cm} \\text{until} $(X > 8)$ \\\\",
+                "(d) $X \\leftarrow 3$ \\\\",
+                "\\hspace*{0.5cm} \\text{repeat} $(X \\leftarrow X-1)$ \\\\",
+                "\\hspace*{0.5cm} \\text{until} $(X = -3)$ \\\\",
+                "(e) \\text{None of above}."
             ],
             "type": "single-choice",
             "image_file": []
@@ -286,11 +300,11 @@
             "question_number": "7",
             "question_text": "Which of the following moments is incorrect?",
             "options": [
-                "a. $0.125_{10} = 0.001_2$",
-                "b. $0.625_{10} = 0.101_2$",
-                "c. $2^{-3} = 0.125_{10}$",
-                "d. $0.1_2 = 0.5_{10}$",
-                "e. $0.01_2 > 0.001_2$"
+                "(a) $n \\log n - n^2 = O(n^2)$",
+                "(b) $O(2^n) > O(n!)$",
+                "(c) $2^n - 1000n^{100} = O(2^n)$",
+                "(d) $3n + 2n^2 = O(n^2)$",
+                "(e) $O(n!) > O(n^{100})$"
             ],
             "type": "single-choice",
             "image_file": []
@@ -307,13 +321,13 @@
             "department": "生物與醫學資訊碩士學位學程",
             "year": "102",
             "question_number": "8",
-            "question_text": "Which of the following is the postfix notation of the infix notation 4-(3+4)?",
+            "question_text": "Which of the following is the postfix notation of the infix notation $4/2 - (3+5*6) + 4*3$ ?",
             "options": [
-                "a. 434+-",
-                "b. 43+4-",
-                "c. 43+4-",
-                "d. 434+-",
-                "e. 43+4-"
+                "(a) $42/356*+ -43*+$",
+                "(b) $42/3-5+6*4*3*+$",
+                "(c) $-/+42++3*56*43$",
+                "(d) $4235643/--+**$",
+                "(e) $3*4+6*5-3-2/4$"
             ],
             "type": "single-choice",
             "image_file": []
@@ -328,7 +342,7 @@
             "school": "私立元智大學",
             "department": "生物與醫學資訊碩士學位學程",
             "year": "102",
-            "question_number": "9",
+            "question_number": "10",
             "question_text": "Which of the following combinations about the tree traversal is correct?",
             "options": [
                 "a. Pre-order: ABCDE, In-order: BCAEDF, Post-order: EDCBA",
@@ -350,7 +364,7 @@
             "school": "私立元智大學",
             "department": "生物與醫學資訊碩士學位學程",
             "year": "102",
-            "question_number": "10",
+            "question_number": "11",
             "question_text": "Which of the following logic gate combinations can implement any combinational Boolean function?",
             "options": [
                 "a. (AND, NOT)",
@@ -372,8 +386,8 @@
             "school": "私立輔仁大學",
             "department": "圖書資訊學系碩士班乙組",
             "year": "102",
-            "question_number": "6",
-            "question_text": "請將十進位數字轉成八進位與十六進位$(5168.625)_{10} = (\\quad)_8 = (\\quad)_{16}$",
+            "question_number": "3",
+            "question_text": "請將十進位數字轉成八進位與十六進位 $(5168.625)_{10}=(\\quad)_8=(\\quad)_{16}$",
             "options": [],
             "type": "fill-in-the-blank",
             "image_file": []
@@ -392,9 +406,7 @@
             "question_text": "How can you express the exclusive OR function between events A and B by Boolean expression? (5%) How can you apply the above function to control the light which located between the upper and down stairs of a building? Draw your designed circuit. (10%)",
             "options": [],
             "type": "short-answer",
-            "image_file": [
-                "103-計算機概論-國立成功大學-工程科學系碩士班乙組_page_1_3.png"
-            ]
+            "image_file": []
         }
     },
     {
@@ -410,9 +422,7 @@
             "question_text": "Draw a digraph with at least 10 vertices and 20 edges. Represent the graph by (a) Adjacency list; (5%)",
             "options": [],
             "type": "draw-answer",
-            "image_file": [
-                "103-計算機概論-國立成功大學-工程科學系碩士班乙組_page_1_5-a.png"
-            ]
+            "image_file": []
         }
     },
     {
@@ -428,9 +438,7 @@
             "question_text": "Adjacency matrix; (5%)",
             "options": [],
             "type": "draw-answer",
-            "image_file": [
-                "103-計算機概論-國立成功大學-工程科學系碩士班乙組_page_1_5-b.png"
-            ]
+            "image_file": []
         }
     },
     {
@@ -443,7 +451,7 @@
             "department": "工程科學系碩士班乙組",
             "year": "103",
             "question_number": "6-a",
-            "question_text": "The Fibonacci numbers is defined as $F_0$=0, $F_1$=1, and $F_n = F_{n-1} + F_{n-2}$ for $n \\ge 2$. Write a recursive algorithm to generate the number sequence. (5%)",
+            "question_text": "The Fibonacci numbers is defined as $F_0=0$, $F_1=1$, and $F_n=F_{n-1}+F_{n-2}$, for $n \\ge 2$.\n(a) Write a recursive algorithm to generate the number sequence. (5\\%)",
             "options": [],
             "type": "coding-answer",
             "image_file": []
@@ -463,7 +471,7 @@
             "options": [],
             "type": "short-answer",
             "image_file": [
-                "105-計算機概論-國立中央大學-土木工程學系碩士班辛：資訊應用組_page_1_4.png"
+                "105-計算機概論-國立中央大學-土木工程學系碩士班辛：資訊應用組_page_1_1.png"
             ]
         }
     },
@@ -477,7 +485,7 @@
             "department": "資訊管理學系碩士班丁組",
             "year": "105",
             "question_number": "10-A",
-            "question_text": "\"downcast\" is important for polymorphism. When should it be used? (5%)",
+            "question_text": "\"downcast\" is important for polymorphism. When should it be used? (5%)\n(A) When should it be used? (5%)",
             "options": [],
             "type": "short-answer",
             "image_file": []
@@ -496,7 +504,9 @@
             "question_text": "針對下面這個問題,盡量用物件導向的概念來設計你的程式,(A)請畫出 class diagram (5%)",
             "options": [],
             "type": "draw-answer",
-            "image_file": []
+            "image_file": [
+                "沒有圖片"
+            ]
         }
     },
     {
@@ -512,7 +522,9 @@
             "question_text": "寫出你的程式流程(10%)。(沒畫出 class diagram 則程式流程不予記分,程式與 class diagram 無法配合的會扣分)",
             "options": [],
             "type": "short-answer",
-            "image_file": []
+            "image_file": [
+                "沒有圖片"
+            ]
         }
     },
     {
@@ -525,7 +537,7 @@
             "department": "資訊管理學系碩士班乙組",
             "year": "105",
             "question_number": "10-A",
-            "question_text": "When should it be used? (5%)",
+            "question_text": "\"downcast\" is important for polymorphism. Answer the following three questions with example code to illustrate your answers (you may use Java, C++, or C# for the code)\n(A) When should it be used? (5%)",
             "options": [],
             "type": "short-answer",
             "image_file": []
@@ -560,7 +572,9 @@
             "question_text": "寫出你的程式流程(10%)。(沒畫出 class diagram 則程式流程不予記分,程式與 class diagram 無法配合的會扣分)",
             "options": [],
             "type": "coding-answer",
-            "image_file": []
+            "image_file": [
+                "沒有圖片"
+            ]
         }
     },
     {
@@ -589,7 +603,7 @@
             "department": "資訊管理學系碩士班甲組",
             "year": "105",
             "question_number": "10-A",
-            "question_text": "\"downcast\" is important for polymorphism. When should it be used? (5%)",
+            "question_text": "\"downcast\" is important for polymorphism. Answer the following three questions with example code to illustrate your answers (you may use Java, C++, or C# for the code)\n(A) When should it be used? (5%)",
             "options": [],
             "type": "short-answer",
             "image_file": []
@@ -606,10 +620,12 @@
             "department": "資訊管理學系碩士班甲組",
             "year": "105",
             "question_number": "11-B",
-            "question_text": "寫出你的程式流程(10%)。(沒畫出 class diagram 則程式流程不予記分,程式與 class diagram 無法配合的會扣分)\n輸入是一行分數的運算式,其中分數最多3個,運算子只有+和-,請輸出運算結果。分數格式為X/Y (X,Y為小於100的正整數),內無空格,分數和運算子間均有一空格隔開。",
+            "question_text": "寫出你的程式流程(10%)。(沒畫出 class diagram 則程式流程不予記分,程式與 class diagram 無法配合的會扣分)\n輸入是一行分數的運算式,其中分數最多3個,運算子只有+和-,請輸出運算結果。分數格式為X/Y (X,Y為小於100的正整數),內無空格,分數和運算子間均有一空格隔開。\n\\text{Sample Input:}\n\n$1/2 + 1/3 - 1/6$\n\n\\text{Sample Output:}\n\n$2/3$",
             "options": [],
             "type": "coding-answer",
-            "image_file": []
+            "image_file": [
+                "沒有圖片"
+            ]
         }
     },
     {
@@ -626,7 +642,7 @@
             "options": [],
             "type": "coding-answer",
             "image_file": [
-                "105-計算機概論-國立政治大學-圖書資訊與檔案學研究所圖書資訊學組_page_1_2_3.png"
+                "105-計算機概論-國立政治大學-圖書資訊與檔案學研究所圖書資訊學組_page_1_1.png"
             ]
         }
     },
@@ -644,7 +660,7 @@
             "options": [],
             "type": "short-answer",
             "image_file": [
-                "105-計算機概論-國立政治大學-圖書資訊與檔案學研究所圖書資訊學組_page_1_5.png"
+                "105-計算機概論-國立政治大學-圖書資訊與檔案學研究所圖書資訊學組_page_1_2.png"
             ]
         }
     },
@@ -658,7 +674,7 @@
             "department": "數位內容碩士學位學程資訊技術組",
             "year": "105",
             "question_number": "3-1",
-            "question_text": "CPU (Central Processing Unit)",
+            "question_text": "(25 points; 5 points for each) Term Explanations. Describe the technical terms in detail.\n(1) CPU (Central Processing Unit)",
             "options": [],
             "type": "short-answer",
             "image_file": []
@@ -674,7 +690,7 @@
             "department": "數位內容碩士學位學程資訊技術組",
             "year": "105",
             "question_number": "3-2",
-            "question_text": "VPN (Virtual Private Network)",
+            "question_text": "(25 points; 5 points for each) Term Explanations. Describe the technical terms in detail.\n(2)VPN (Virtual Private Network)",
             "options": [],
             "type": "short-answer",
             "image_file": []
@@ -690,7 +706,7 @@
             "department": "數位內容碩士學位學程資訊技術組",
             "year": "105",
             "question_number": "3-3",
-            "question_text": "DNS (Domain Name System)",
+            "question_text": "(25 points; 5 points for each) Term Explanations. Describe the technical terms in detail.\n(3)DNS (Domain Name System)",
             "options": [],
             "type": "short-answer",
             "image_file": []
@@ -706,7 +722,7 @@
             "department": "數位內容碩士學位學程資訊技術組",
             "year": "105",
             "question_number": "3-4",
-            "question_text": "SaaS (Software as a Service)",
+            "question_text": "(25 points; 5 points for each) Term Explanations. Describe the technical terms in detail.\n(4)SaaS (Software as a Service)",
             "options": [],
             "type": "short-answer",
             "image_file": []
@@ -722,7 +738,7 @@
             "department": "數位內容碩士學位學程資訊技術組",
             "year": "105",
             "question_number": "3-5",
-            "question_text": "PaaS (Platform as a Service)",
+            "question_text": "(25 points; 5 points for each) Term Explanations. Describe the technical terms in detail.\n(5)PaaS (Platform as a Service)",
             "options": [],
             "type": "short-answer",
             "image_file": []
@@ -738,7 +754,7 @@
             "department": "資訊管理學系碩士班資管組",
             "year": "105",
             "question_number": "2-1",
-            "question_text": "請圖示說明PKI交易運作流程。",
+            "question_text": "[共 20%]: 現有電子商務、網路銀行多採用 PKI (public key infrastructure) 確保交易安全，\n(1) 請圖示說明 PKI 交易運作流程。[10%]",
             "options": [],
             "type": "draw-answer",
             "image_file": []
@@ -754,7 +770,7 @@
             "department": "資訊管理學系碩士班資管組",
             "year": "105",
             "question_number": "2-2",
-            "question_text": "說明如何達到身分驗證、交易不可否認性、資料完整性與隱密性。",
+            "question_text": "[共 20%]: 現有電子商務、網路銀行多採用 PKI (public key infrastructure) 確保交易安全，\n(2) 說明如何達到身分驗證、交易不可否認性、資料完整性與隱密性。[10%]",
             "options": [],
             "type": "short-answer",
             "image_file": []
@@ -772,10 +788,12 @@
             "department": "資訊管理學系碩士班資管組",
             "year": "105",
             "question_number": "3-1",
-            "question_text": "該程式具何種漏洞?",
+            "question_text": "[共 20%]: 下列 C 語言程式碼常有嚴重安全性威脅，可讓使用者執行所有不被允許之指令，請問:\n(1) 該程式具何種漏洞?[5%]",
             "options": [],
             "type": "short-answer",
-            "image_file": []
+            "image_file": [
+                "105-計算機概論-國立政治大學-資訊管理學系碩士班資管組_page_3_1.png"
+            ]
         }
     },
     {
@@ -790,10 +808,12 @@
             "department": "資訊管理學系碩士班資管組",
             "year": "105",
             "question_number": "3-2",
-            "question_text": "此漏洞如何造成危害其運作原理是什麼?",
+            "question_text": "[共 20%]: 下列 C 語言程式碼常有嚴重安全性威脅，可讓使用者執行所有不被允許之指令，請問:\n(2) 此漏洞如何造成危害其運作原理是什麼?[10%]",
             "options": [],
             "type": "short-answer",
-            "image_file": []
+            "image_file": [
+                "105-計算機概論-國立政治大學-資訊管理學系碩士班資管組_page_3_1.png"
+            ]
         }
     },
     {
@@ -808,10 +828,12 @@
             "department": "資訊管理學系碩士班資管組",
             "year": "105",
             "question_number": "3-3",
-            "question_text": "如何修補?",
+            "question_text": "[共 20%]: 下列 C 語言程式碼常有嚴重安全性威脅，可讓使用者執行所有不被允許之指令，請問:\n(3) 如何修補?[5%]",
             "options": [],
             "type": "short-answer",
-            "image_file": []
+            "image_file": [
+                "105-計算機概論-國立政治大學-資訊管理學系碩士班資管組_page_3_1.png"
+            ]
         }
     },
     {
@@ -824,7 +846,7 @@
             "department": "資訊管理學系碩士班資管組",
             "year": "105",
             "question_number": "4-1",
-            "question_text": "請繪出該二元樹T結構並於各節點上註明平衡因子(Balance Factor, BF)之值。",
+            "question_text": "數列 1：17, 22, 29, 35, 41, 52, 63\n數列 2：17, 29, 35, 22, 63, 52, 41\n數列 1 為某二元樹 T 產生之中序(inorder)已排序之數列，數列 2 為同一二元樹 T 之後序(postorder)數列：\n(1) 請繪出該二元樹 T 結構並於各節點上註明平衡因子(Balance Factor, BF)之值。[7%]",
             "options": [],
             "type": "draw-answer",
             "image_file": []
@@ -840,7 +862,7 @@
             "department": "資訊管理學系碩士班資管組",
             "year": "105",
             "question_number": "4-2",
-            "question_text": "若加入一數 32於此二元樹T之樹葉節點下得到T',T'之中序仍為已排序之數列,請繪出二元樹T'並於各節點上註明BF值。",
+            "question_text": "數列 1：17, 22, 29, 35, 41, 52, 63\n數列 2：17, 29, 35, 22, 63, 52, 41\n數列 1 為某二元樹 T 產生之中序(inorder)已排序之數列，數列 2 為同一二元樹 T 之後序(postorder)數列：\n(2) 若加入一數 32 於此二元樹 T 之樹葉節點下得到 T'，T' 之中序仍為已排序之數列，請繪出二元樹 T' 並於各節點上註明 BF 值。[5%]",
             "options": [],
             "type": "draw-answer",
             "image_file": []
@@ -856,7 +878,7 @@
             "department": "資訊管理學系碩士班資管組",
             "year": "105",
             "question_number": "4-3",
-            "question_text": "請說明 T'是否符合高度平衡樹(AVL Tree)定義?如否請繪出調整後之高度平衡二元樹並於各節點上註明BF值。",
+            "question_text": "數列 1：17, 22, 29, 35, 41, 52, 63\n數列 2：17, 29, 35, 22, 63, 52, 41\n數列 1 為某二元樹 T 產生之中序(inorder)已排序之數列，數列 2 為同一二元樹 T 之後序(postorder)數列：\n(3) 請說明 T' 是否符合高度平衡樹(AVL Tree)定義？如否請繪出調整後之高度平衡二元樹並於各節點上註明 BF 值。[8%]",
             "options": [],
             "type": "draw-answer",
             "image_file": []
@@ -872,7 +894,7 @@
             "department": "自動化科技研究所乙組",
             "year": "105",
             "question_number": "1-a",
-            "question_text": "Turing test",
+            "question_text": "Please briefly illustrate the following terms. (30pts, 3pts for each)\n(a) Turing test",
             "options": [],
             "type": "short-answer",
             "image_file": []
@@ -888,7 +910,7 @@
             "department": "自動化科技研究所乙組",
             "year": "105",
             "question_number": "1-b",
-            "question_text": "Router",
+            "question_text": "Please briefly illustrate the following terms. (30pts, 3pts for each)\n(b) Router",
             "options": [],
             "type": "short-answer",
             "image_file": []
@@ -904,7 +926,7 @@
             "department": "自動化科技研究所乙組",
             "year": "105",
             "question_number": "1-c",
-            "question_text": "Bus contention",
+            "question_text": "Please briefly illustrate the following terms. (30pts, 3pts for each)\n(c) Bus contention",
             "options": [],
             "type": "short-answer",
             "image_file": []
@@ -920,7 +942,7 @@
             "department": "自動化科技研究所乙組",
             "year": "105",
             "question_number": "1-d",
-            "question_text": "Deadlock",
+            "question_text": "Please briefly illustrate the following terms. (30pts, 3pts for each)\n(d) Deadlock",
             "options": [],
             "type": "short-answer",
             "image_file": []
@@ -936,7 +958,7 @@
             "department": "自動化科技研究所乙組",
             "year": "105",
             "question_number": "1-e",
-            "question_text": "Interrupt",
+            "question_text": "Please briefly illustrate the following terms. (30pts, 3pts for each)\n(e) Interrupt",
             "options": [],
             "type": "short-answer",
             "image_file": []
@@ -952,7 +974,7 @@
             "department": "自動化科技研究所乙組",
             "year": "105",
             "question_number": "1-f",
-            "question_text": "Cloud computing",
+            "question_text": "Please briefly illustrate the following terms. (30pts, 3pts for each)\n(f) Cloud computing",
             "options": [],
             "type": "short-answer",
             "image_file": []
@@ -968,7 +990,7 @@
             "department": "自動化科技研究所乙組",
             "year": "105",
             "question_number": "1-g",
-            "question_text": "Memory-mapped IO",
+            "question_text": "Please briefly illustrate the following terms. (30pts, 3pts for each)\n(g) Memory-mapped IO",
             "options": [],
             "type": "short-answer",
             "image_file": []
@@ -984,7 +1006,7 @@
             "department": "自動化科技研究所乙組",
             "year": "105",
             "question_number": "1-h",
-            "question_text": "Public-key encryption",
+            "question_text": "Please briefly illustrate the following terms. (30pts, 3pts for each)\n(h) Public-key encryption",
             "options": [],
             "type": "short-answer",
             "image_file": []
@@ -1000,7 +1022,7 @@
             "department": "自動化科技研究所乙組",
             "year": "105",
             "question_number": "1-i",
-            "question_text": "Phishing",
+            "question_text": "Please briefly illustrate the following terms. (30pts, 3pts for each)\n(i) Phishing",
             "options": [],
             "type": "short-answer",
             "image_file": []
@@ -1016,7 +1038,7 @@
             "department": "自動化科技研究所乙組",
             "year": "105",
             "question_number": "1-j",
-            "question_text": "Big-theta notation",
+            "question_text": "Please briefly illustrate the following terms. (30pts, 3pts for each)\n(j) Big-theta notation",
             "options": [],
             "type": "short-answer",
             "image_file": []
@@ -1033,11 +1055,11 @@
             "department": "自動化科技研究所乙組",
             "year": "105",
             "question_number": "2-a",
-            "question_text": "Describe what would happen if the upper input were temporarily changed to 0.",
+            "question_text": "According to Fig. 1, assume that both of the inputs in the following circuit are 1.\n(a) Describe what would happen if the upper input were temporarily changed to 0. (5pts)",
             "options": [],
             "type": "short-answer",
             "image_file": [
-                "105-計算機概論-國立臺北科技大學-自動化科技研究所乙組_page_1_2-a.png"
+                "105-計算機概論-國立臺北科技大學-自動化科技研究所乙組_page_1_1.png"
             ]
         }
     },
@@ -1052,11 +1074,11 @@
             "department": "自動化科技研究所乙組",
             "year": "105",
             "question_number": "2-b",
-            "question_text": "Describe what would happen if the lower input were temporarily changed to 0.",
+            "question_text": "According to Fig. 1, assume that both of the inputs in the following circuit are 1.\n(b) Describe what would happen if the lower input were temporarily changed to 0. (5pts)",
             "options": [],
             "type": "short-answer",
             "image_file": [
-                "105-計算機概論-國立臺北科技大學-自動化科技研究所乙組_page_1_2-b.png"
+                "105-計算機概論-國立臺北科技大學-自動化科技研究所乙組_page_1_1.png"
             ]
         }
     },
@@ -1071,11 +1093,11 @@
             "department": "自動化科技研究所乙組",
             "year": "105",
             "question_number": "2-c",
-            "question_text": "Redraw the circuit using NAND gates.",
+            "question_text": "According to Fig. 1, assume that both of the inputs in the following circuit are 1.\n(c) Redraw the circuit using NAND gates. (5pts)",
             "options": [],
             "type": "draw-answer",
             "image_file": [
-                "105-計算機概論-國立臺北科技大學-自動化科技研究所乙組_page_1_2-c.png"
+                "105-計算機概論-國立臺北科技大學-自動化科技研究所乙組_page_1_1.png"
             ]
         }
     },
@@ -1091,10 +1113,12 @@
             "department": "自動化科技研究所乙組",
             "year": "105",
             "question_number": "3-a",
-            "question_text": "Translate the instructions that are executed into English.",
+            "question_text": "Suppose the memory cells at addresses 00 through 05 in the machine described in Table 1 contain the following bit patterns: \\\\\nAddress Contents \\\\\n00 12 \\\\\n01 02 \\\\\n02 32 \\\\\n03 42 \\\\\n04 C0 \\\\\n05 00 \\\\\n\nWhen answering the following questions, assume that the machine starts with its program counter equal to 00. \\\\\n(a) Translate the instructions that are executed into English. (5pts)",
             "options": [],
             "type": "short-answer",
-            "image_file": []
+            "image_file": [
+                "105-計算機概論-國立臺北科技大學-自動化科技研究所乙組_page_2_1.png"
+            ]
         }
     },
     {
@@ -1109,10 +1133,12 @@
             "department": "自動化科技研究所乙組",
             "year": "105",
             "question_number": "3-b",
-            "question_text": "What bit pattern is in the memory cell at address 42 when the machine halts?",
+            "question_text": "Suppose the memory cells at addresses 00 through 05 in the machine described in Table 1 contain the following bit patterns: \\\\\nAddress Contents \\\\\n00 12 \\\\\n01 02 \\\\\n02 32 \\\\\n03 42 \\\\\n04 C0 \\\\\n05 00 \\\\\n\nWhen answering the following questions, assume that the machine starts with its program counter equal to 00. \\\\\n(b) What bit pattern is in the memory cell at address 42 when the machine halts? (5pts)",
             "options": [],
             "type": "short-answer",
-            "image_file": []
+            "image_file": [
+                "105-計算機概論-國立臺北科技大學-自動化科技研究所乙組_page_2_1.png"
+            ]
         }
     },
     {
@@ -1125,10 +1151,12 @@
             "department": "自動化科技研究所乙組",
             "year": "105",
             "question_number": "3-c",
-            "question_text": "What bit pattern is in the program counter when the machine halts?",
+            "question_text": "Suppose the memory cells at addresses 00 through 05 in the machine described in Table 1 contain the following bit patterns: \\\\\nAddress Contents \\\\\n00 12 \\\\\n01 02 \\\\\n02 32 \\\\\n03 42 \\\\\n04 C0 \\\\\n05 00 \\\\\n\nWhen answering the following questions, assume that the machine starts with its program counter equal to 00. \\\\\n(c) What bit pattern is in the program counter when the machine halts? (5pts)",
             "options": [],
             "type": "short-answer",
-            "image_file": []
+            "image_file": [
+                "105-計算機概論-國立臺北科技大學-自動化科技研究所乙組_page_2_1.png"
+            ]
         }
     },
     {
@@ -1143,10 +1171,12 @@
             "department": "自動化科技研究所乙組",
             "year": "105",
             "question_number": "4-a",
-            "question_text": "Identify the body of the loop.",
+            "question_text": "The following algorithm is designed to print the beginning of what is known as the Fibonacci sequence.\n(a) Identify the body of the loop. (4pts)",
             "options": [],
             "type": "short-answer",
-            "image_file": []
+            "image_file": [
+                "105-計算機概論-國立臺北科技大學-自動化科技研究所乙組_page_3_1"
+            ]
         }
     },
     {
@@ -1161,10 +1191,12 @@
             "department": "自動化科技研究所乙組",
             "year": "105",
             "question_number": "4-b",
-            "question_text": "Where is the initialization step for the loop control?",
+            "question_text": "The following algorithm is designed to print the beginning of what is known as the Fibonacci sequence.\n(b) Where is the initialization step for the loop control? (4pts)",
             "options": [],
             "type": "short-answer",
-            "image_file": []
+            "image_file": [
+                "105-計算機概論-國立臺北科技大學-自動化科技研究所乙組_page_3_1"
+            ]
         }
     },
     {
@@ -1179,10 +1211,12 @@
             "department": "自動化科技研究所乙組",
             "year": "105",
             "question_number": "4-c",
-            "question_text": "The modification step?",
+            "question_text": "The following algorithm is designed to print the beginning of what is known as the Fibonacci sequence.\n(c) The modification step? (4pts)",
             "options": [],
             "type": "short-answer",
-            "image_file": []
+            "image_file": [
+                "105-計算機概論-國立臺北科技大學-自動化科技研究所乙組_page_3_1"
+            ]
         }
     },
     {
@@ -1197,10 +1231,12 @@
             "department": "自動化科技研究所乙組",
             "year": "105",
             "question_number": "4-d",
-            "question_text": "The test step?",
+            "question_text": "The following algorithm is designed to print the beginning of what is known as the Fibonacci sequence.\n(d) The test step? (4pts)",
             "options": [],
             "type": "short-answer",
-            "image_file": []
+            "image_file": [
+                "105-計算機概論-國立臺北科技大學-自動化科技研究所乙組_page_3_1"
+            ]
         }
     },
     {
@@ -1215,10 +1251,12 @@
             "department": "自動化科技研究所乙組",
             "year": "105",
             "question_number": "4-e",
-            "question_text": "What list of numbers is produced?",
+            "question_text": "The following algorithm is designed to print the beginning of what is known as the Fibonacci sequence.\n(e) What list of numbers is produced? (4pts)",
             "options": [],
             "type": "short-answer",
-            "image_file": []
+            "image_file": [
+                "105-計算機概論-國立臺北科技大學-自動化科技研究所乙組_page_3_1"
+            ]
         }
     },
     {
@@ -1235,7 +1273,7 @@
             "options": [],
             "type": "draw-answer",
             "image_file": [
-                "105-計算機概論-國立臺北科技大學-自動化科技研究所乙組_page_3_6.png"
+                "105-計算機概論-國立臺北科技大學-自動化科技研究所乙組_page_3_2.png"
             ]
         }
     },
@@ -1249,8 +1287,8 @@
             "school": "國立臺北科技大學",
             "department": "資訊工程研究所",
             "year": "105",
-            "question_number": "1",
-            "question_text": "Compare the relative advantages and shortcomings of dynamic RAM (DRAM) and static RAM (SRAM) in terms of access time and per cell (bit) cost.",
+            "question_number": "1-1",
+            "question_text": "This problem is related to random access memory (RAM). (15%)\n\nCompare the relative advantages and shortcomings of dynamic RAM (DRAM) and static RAM (SRAM) in terms of access time and per cell (bit) cost. (5%)",
             "options": [],
             "type": "short-answer",
             "image_file": []
@@ -1266,8 +1304,8 @@
             "school": "國立臺北科技大學",
             "department": "資訊工程研究所",
             "year": "105",
-            "question_number": "2",
-            "question_text": "Why is refresh necessary for DRAM?",
+            "question_number": "1-2",
+            "question_text": "This problem is related to random access memory (RAM). (15%)\n\nWhy is refresh necessary for DRAM? (5%)",
             "options": [],
             "type": "short-answer",
             "image_file": []
@@ -1283,8 +1321,8 @@
             "school": "國立臺北科技大學",
             "department": "資訊工程研究所",
             "year": "105",
-            "question_number": "3",
-            "question_text": "Why is cache memory usually used in conjunction with DDR memory (a type of DRAM) in a contemporary personal computer? Your answer should contain a brief description of the operations of cache and DDR memory to support your answer.",
+            "question_number": "1-3",
+            "question_text": "This problem is related to random access memory (RAM). (15%)\n\nWhy is cache memory usually used in conjunction with DDR memory (a type of DRAM) in a contemporary personal computer? Your answer should contain a brief description of the operations of cache and DDR memory to support your answer. (5%)",
             "options": [],
             "type": "short-answer",
             "image_file": []
@@ -1300,8 +1338,8 @@
             "school": "國立臺北科技大學",
             "department": "資訊工程研究所",
             "year": "105",
-            "question_number": "1-1",
-            "question_text": "Suppose the CPU has the following instructions to load accumulator:\n(Immediate addressing)\tLDA FFF0,i\n(Direct addressing)\tLDA FFF0,d\nExplain how these two instructions works.",
+            "question_number": "2-1",
+            "question_text": "This problem is related to a typical big-endian 8-bit CPU with a 16-bit accumulator (abbreviated as A). (15%)\n\nSuppose the CPU has the following instructions to load accumulator: (Immediate addressing) LDA FFF0,i (Direct addressing) LDA FFF0,d Explain how these two instructions works. (5%)",
             "options": [],
             "type": "short-answer",
             "image_file": []
@@ -1317,8 +1355,8 @@
             "school": "國立臺北科技大學",
             "department": "資訊工程研究所",
             "year": "105",
-            "question_number": "1-2",
-            "question_text": "Why are instructions with stack-relative addressing modes widely used in a piece of assembly code generated from a C compiler?",
+            "question_number": "2-2",
+            "question_text": "This problem is related to a typical big-endian 8-bit CPU with a 16-bit accumulator (abbreviated as A). (15%)\n\nWhy are instructions with stack-relative addressing modes widely used in a piece of assembly code generated from a C compiler? (5%)",
             "options": [],
             "type": "short-answer",
             "image_file": []
@@ -1334,8 +1372,8 @@
             "school": "國立臺北科技大學",
             "department": "資訊工程研究所",
             "year": "105",
-            "question_number": "1-3",
-            "question_text": "Give a general algorithm to show how the CPU sets overflow and carry flags during performing addition.",
+            "question_number": "2-3",
+            "question_text": "This problem is related to a typical big-endian 8-bit CPU with a 16-bit accumulator (abbreviated as A). (15%)\n\nGive a general algorithm to show how the CPU sets overflow and carry flags during performing addition. (5%)",
             "options": [],
             "type": "short-answer",
             "image_file": []
@@ -1351,8 +1389,8 @@
             "school": "國立臺北科技大學",
             "department": "資訊工程研究所",
             "year": "105",
-            "question_number": "1-1",
-            "question_text": "Multithreaded programs can always provide better performance than a single-threaded solution.",
+            "question_number": "4-1-1",
+            "question_text": "Answer the following questions regarding process management. (16%)\n\n1.Please indicate whether each of the following statements is true or false. If a statement is incorrect, please explain the reasons. \n\n(1) Multithreaded programs can always provide better performance than a single-threaded solution. (2%)",
             "options": [],
             "type": "true-false",
             "image_file": []
@@ -1368,8 +1406,8 @@
             "school": "國立臺北科技大學",
             "department": "資訊工程研究所",
             "year": "105",
-            "question_number": "1-2",
-            "question_text": "A program can always run faster in a multicore system than in a single-core system.",
+            "question_number": "4-1-2",
+            "question_text": "Answer the following questions regarding process management. (16%)\n\n1.Please indicate whether each of the following statements is true or false. If a statement is incorrect, please explain the reasons. \n \n(2) A program can always run faster in a multicore system than in a single-core system. (2%)",
             "options": [],
             "type": "true-false",
             "image_file": []
@@ -1385,8 +1423,8 @@
             "school": "國立臺北科技大學",
             "department": "資訊工程研究所",
             "year": "105",
-            "question_number": "1-3",
-            "question_text": "A multithreaded program using multiple user-level threads achieves better performance on a multiprocessor system than on a single-processor system.",
+            "question_number": "4-1-3",
+            "question_text": "Answer the following questions regarding process management. (16%)\n\n1.Please indicate whether each of the following statements is true or false. If a statement is incorrect, please explain the reasons. \n\n(3) A multithreaded program using multiple user-level threads achieves better performance on a multiprocessor system than on a single-processor system. (2%)",
             "options": [],
             "type": "true-false",
             "image_file": []
@@ -1403,11 +1441,13 @@
             "school": "國立臺北科技大學",
             "department": "資訊工程研究所",
             "year": "105",
-            "question_number": "2-1",
-            "question_text": "What is the waiting time of each process for each of the scheduling algorithms?",
+            "question_number": "4-2-1",
+            "question_text": "Consider the following set of processes, with the length of the CPU burst given in milliseconds:\n\n2.The processes are assumed to have arrived at the ready queue in the order P1, P2, P3, P4, P5, all at time 0. Answer the questions using the following scheduling algorithms: shortest-job-first (SJF), and round-robin (RR, with quantum=2).\n\n(1) What is the waiting time of each process for each of the scheduling algorithms? (5%)",
             "options": [],
             "type": "short-answer",
-            "image_file": []
+            "image_file": [
+                "105-計算機概論-國立臺北科技大學-資訊工程研究所_page_2_1.png"
+            ]
         }
     },
     {
@@ -1419,11 +1459,13 @@
             "school": "國立臺北科技大學",
             "department": "資訊工程研究所",
             "year": "105",
-            "question_number": "2-2",
-            "question_text": "What is the turnaround time of each process for each of the scheduling algorithms?",
+            "question_number": "4-2-2",
+            "question_text": "Consider the following set of processes, with the length of the CPU burst given in milliseconds:\n\n2.The processes are assumed to have arrived at the ready queue in the order P1, P2, P3, P4, P5, all at time 0. Answer the questions using the following scheduling algorithms: shortest-job-first (SJF), and round-robin (RR, with quantum=2).\n\n(2) What is the turnaround time of each process for each of the scheduling algorithms? (5%)",
             "options": [],
             "type": "short-answer",
-            "image_file": []
+            "image_file": [
+                "105-計算機概論-國立臺北科技大學-資訊工程研究所_page_2_1.png"
+            ]
         }
     },
     {
@@ -1436,8 +1478,8 @@
             "school": "國立臺北科技大學",
             "department": "資訊工程研究所",
             "year": "105",
-            "question_number": "3-1",
-            "question_text": "Please describe the mechanism of the following two memory management schemes: pure paging and pure segmentation.",
+            "question_number": "5-1",
+            "question_text": "Answer the following questions regarding memory management. (11%)\n\n1.Please describe the mechanism of the following two memory management schemes: pure paging and pure segmentation. (6%)",
             "options": [],
             "type": "short-answer",
             "image_file": []
@@ -1453,8 +1495,8 @@
             "school": "國立臺北科技大學",
             "department": "資訊工程研究所",
             "year": "105",
-            "question_number": "3-2",
-            "question_text": "In demand-paging systems, what is page fault? What are the steps in handling a page fault?",
+            "question_number": "5-2",
+            "question_text": "Answer the following questions regarding memory management. (11%)\n\n2.In demand-paging systems, what is page fault? What are the steps in handling a page fault? (5%)",
             "options": [],
             "type": "short-answer",
             "image_file": []
@@ -1470,8 +1512,8 @@
             "school": "國立臺北科技大學",
             "department": "資訊工程研究所",
             "year": "105",
-            "question_number": "4-1",
-            "question_text": "The contiguous allocation algorithm suffers from the problems of internal fragmentation and size declaration.",
+            "question_number": "6-1",
+            "question_text": "Regarding the following descriptions about file management, please indicate whether each statement is true or false. If a statement is incorrect, please explain the reasons. (8%)\n\n1.The contiguous allocation algorithm suffers from the problems of internal fragmentation and size declaration. (2%)",
             "options": [],
             "type": "true-false",
             "image_file": []
@@ -1487,8 +1529,8 @@
             "school": "國立臺北科技大學",
             "department": "資訊工程研究所",
             "year": "105",
-            "question_number": "4-2",
-            "question_text": "The major problem of linked allocation is that it can be used effectively only for",
+            "question_number": "6-2",
+            "question_text": "Regarding the following descriptions about file management, please indicate whether each statement is true or false. If a statement is incorrect, please explain the reasons. (8%)\n\n2.The major problem of linked allocation is that it can be used effectively only for sequential-access files. (2%)",
             "options": [],
             "type": "short-answer",
             "image_file": []
@@ -1504,8 +1546,8 @@
             "school": "國立臺北科技大學",
             "department": "資訊工程研究所",
             "year": "105",
-            "question_number": "1",
-            "question_text": "What is the meaning of \"flow control\" in data link layer?",
+            "question_number": "7-1",
+            "question_text": "Answer the following questions: (11%)\n\n1.What is the meaning of “flow control” in data link layer? (4%)",
             "options": [],
             "type": "short-answer",
             "image_file": []
@@ -1521,8 +1563,8 @@
             "school": "國立臺北科技大學",
             "department": "資訊工程研究所",
             "year": "105",
-            "question_number": "2",
-            "question_text": "What is the MAC protocol used for wireless local area network (Wi-Fi) such as IEEE 802.11g?",
+            "question_number": "7-2",
+            "question_text": "Answer the following questions: (11%)\n\n2.What is the MAC protocol used for wireless local area network (Wi-Fi) such as IEEE 802.11g? (3%)",
             "options": [],
             "type": "short-answer",
             "image_file": []
@@ -1538,8 +1580,8 @@
             "school": "國立臺北科技大學",
             "department": "資訊工程研究所",
             "year": "105",
-            "question_number": "3",
-            "question_text": "What is the meaning of Maximum Transfer Unit (MTU)? What is the MTU for Ethernet network?",
+            "question_number": "7-3",
+            "question_text": "Answer the following questions: (11%)\n\n3.What is the meaning of Maximum Transfer Unit (MTU)? What is the MTU for Ethernet network? (4%)",
             "options": [],
             "type": "short-answer",
             "image_file": []
@@ -1555,8 +1597,8 @@
             "school": "國立臺北科技大學",
             "department": "資訊工程研究所",
             "year": "105",
-            "question_number": "4",
-            "question_text": "Give four network topologies: name it and plot the topology of each you named.",
+            "question_number": "8-1",
+            "question_text": "Answer the following questions: (13%)\n\n1.Give four network topologies: name it and plot the topology of each you named. (5%)",
             "options": [],
             "type": "short-answer",
             "image_file": []
@@ -1572,8 +1614,8 @@
             "school": "國立臺北科技大學",
             "department": "資訊工程研究所",
             "year": "105",
-            "question_number": "5",
-            "question_text": "For TCP and UDP in Internet protocol, which one can provide a reliable transport? How does it?",
+            "question_number": "8-2",
+            "question_text": "Answer the following questions: (13%)\n\n2.For TCP and UDP in Internet protocol, which one can provide a reliable transport? How does it? (5%)",
             "options": [],
             "type": "short-answer",
             "image_file": []
@@ -1589,8 +1631,8 @@
             "school": "國立臺北科技大學",
             "department": "資訊工程研究所",
             "year": "105",
-            "question_number": "6",
-            "question_text": "Compare the differences between TDMA and FDMA.",
+            "question_number": "8-3",
+            "question_text": "Answer the following questions: (13%)\n\n3.Compare the differences between TDMA and FDMA. (3%)",
             "options": [],
             "type": "short-answer",
             "image_file": []
@@ -1606,8 +1648,8 @@
             "school": "國立臺北科技大學",
             "department": "資訊工程研究所",
             "year": "105",
-            "question_number": "7",
-            "question_text": "Find the 2's complement of the number: 110110.1011.",
+            "question_number": "9-1",
+            "question_text": "Answer the following questions: (6%)\n\n1.Find the 2's complement of the number: 110110.1011. (3%)",
             "options": [],
             "type": "short-answer",
             "image_file": []
@@ -1623,8 +1665,8 @@
             "school": "國立臺北科技大學",
             "department": "資訊工程研究所",
             "year": "105",
-            "question_number": "8",
-            "question_text": "Explain the meaning of \"static-1 hazard\" in a combinational logic circuit?",
+            "question_number": "9-2",
+            "question_text": "Answer the following questions: (6%)\n\n2.Explain the meaning of \"static-1 hazard\" in a combinational logic circuit?",
             "options": [],
             "type": "short-answer",
             "image_file": []
@@ -1640,7 +1682,7 @@
             "department": "電機工程系碩士班戊組",
             "year": "105",
             "question_number": "1-a",
-            "question_text": "(3%) 1110 + 1010",
+            "question_text": "(6%) The following 4-bit binary numbers have a sign in the leftmost position and, if negative, are in two's complement form. Perform the indicated arithmetic operations and verify the answers. Indicate if there is overflow.\n\n(a) (3%) 1110 + 1010",
             "options": [],
             "type": "short-answer",
             "image_file": []
@@ -1656,7 +1698,7 @@
             "department": "電機工程系碩士班戊組",
             "year": "105",
             "question_number": "1-b",
-            "question_text": "(3%) 0010 - 1011",
+            "question_text": "(6%) The following 4-bit binary numbers have a sign in the leftmost position and, if negative, are in two's complement form. Perform the indicated arithmetic operations and verify the answers. Indicate if there is overflow.\n\n(b) (3%) 0010 - 1011",
             "options": [],
             "type": "short-answer",
             "image_file": []
@@ -1672,7 +1714,7 @@
             "department": "電機工程系碩士班戊組",
             "year": "105",
             "question_number": "2-a",
-            "question_text": "(3%) register",
+            "question_text": "(9%) Give a brief definition of each of the following: \n\n(a) (3%) register",
             "options": [],
             "type": "short-answer",
             "image_file": []
@@ -1688,7 +1730,7 @@
             "department": "電機工程系碩士班戊組",
             "year": "105",
             "question_number": "2-b",
-            "question_text": "(3%) cache memory",
+            "question_text": "(9%) Give a brief definition of each of the following:\n  \n(b) (3%) cache memory",
             "options": [],
             "type": "short-answer",
             "image_file": []
@@ -1704,7 +1746,7 @@
             "department": "電機工程系碩士班戊組",
             "year": "105",
             "question_number": "2-c",
-            "question_text": "(3%) virtual memory",
+            "question_text": "(9%) Give a brief definition of each of the following: \n\n(c) (3%) virtual memory",
             "options": [],
             "type": "short-answer",
             "image_file": []
@@ -1720,7 +1762,7 @@
             "department": "電機工程系碩士班戊組",
             "year": "105",
             "question_number": "6-a",
-            "question_text": "(3%) Write the contents of the array after the third iteration of bubble sort.",
+            "question_text": "(10%) Consider sorting the following array of integers in ascending order.\n\n[5, 3, 1, 9, 8, 2, 4, 7]\n\n(a) (3%) Write the contents of the array after the third iteration of bubble sort.",
             "options": [],
             "type": "short-answer",
             "image_file": []
@@ -1736,7 +1778,7 @@
             "department": "電機工程系碩士班戊組",
             "year": "105",
             "question_number": "6-b",
-            "question_text": "(3%) Write the contents of the array after the third iteration of insertion sort.",
+            "question_text": "(10%) Consider sorting the following array of integers in ascending order.\n\n[5, 3, 1, 9, 8, 2, 4, 7]\n\n(b) (3%) Write the contents of the array after the third iteration of insertion sort.",
             "options": [],
             "type": "short-answer",
             "image_file": []
@@ -1752,7 +1794,7 @@
             "department": "電機工程系碩士班戊組",
             "year": "105",
             "question_number": "6-c",
-            "question_text": "(4%) Write the contents of the array after the first partitioning of quick sort has finished\n(before recursive calls). Assume that the first element is chosen as the pivot.",
+            "question_text": "(10%) Consider sorting the following array of integers in ascending order.\n\n[5, 3, 1, 9, 8, 2, 4, 7]\n\n(c) (4%) Write the contents of the array after the first partitioning of quick sort has finished (before recursive calls). Assume that the first element is chosen as the pivot.",
             "options": [],
             "type": "short-answer",
             "image_file": []

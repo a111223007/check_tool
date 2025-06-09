@@ -36,6 +36,12 @@ class ErrorEditorApp:
         self.current_index = 0
         self.total_errors = len(self.error_data)
 
+        # 建立一個 total_question_number 到列表索引的映射，用於快速查找
+        self.total_q_num_map = {
+            item.get("total_question_number"): i
+            for i, item in enumerate(self.error_data)
+        }
+
         if not self.error_data:
             messagebox.showinfo("無錯誤資料", "目前沒有錯誤題目需要編輯。")
             master.destroy()
@@ -68,6 +74,17 @@ class ErrorEditorApp:
         def _on_mousewheel(event):
             self.canvas.yview_scroll(int(-1 * (event.delta / 120)), "units")
         self.canvas.bind_all("<MouseWheel>", _on_mousewheel)
+
+        # --- 搜尋功能區 ---
+        self.search_frame = tk.LabelFrame(self.scrollable_frame, text="搜尋題目", padx=10, pady=5, bg="white")
+        self.search_frame.pack(pady=10, padx=10, fill="x")
+
+        tk.Label(self.search_frame, text="輸入總問題編號:", bg="white").pack(side=tk.LEFT, padx=5)
+        self.search_entry = tk.Entry(self.search_frame, width=20)
+        self.search_entry.pack(side=tk.LEFT, padx=5)
+        self.search_button = tk.Button(self.search_frame, text="搜尋", command=self.search_question, bg="lightyellow")
+        self.search_button.pack(side=tk.LEFT, padx=5)
+
 
         # --- 編輯區域 ---
         self.editor_frame = tk.LabelFrame(self.scrollable_frame, text="編輯題目資訊", padx=10, pady=10, bg="white")
@@ -123,7 +140,7 @@ class ErrorEditorApp:
 
         tk.Button(button_frame, text="上一題", command=self.prev_error, bg="lightgray", fg="black").pack(side=tk.LEFT, padx=5)
         tk.Button(button_frame, text="保存並下一題", command=self.save_and_next, bg="lightblue", fg="black").pack(side=tk.LEFT, padx=5)
-        tk.Button(button_frame, text="保存並存入", command=self.save_all, bg="lightgreen", fg="black").pack(side=tk.LEFT, padx=5)
+        tk.Button(button_frame, text="保存所有修改", command=self.save_all, bg="lightgreen", fg="black").pack(side=tk.LEFT, padx=5)
         tk.Button(button_frame, text="刪除此錯誤", command=self.delete_current_error, fg="red", bg="salmon").pack(side=tk.LEFT, padx=5)
 
 
@@ -159,10 +176,14 @@ class ErrorEditorApp:
         self.options_text.delete(1.0, tk.END)
         if q_data.get("options"):
             self.options_text.insert(1.0, "\n".join(q_data["options"]))
+        else:
+            self.options_text.delete(1.0, tk.END) # 清空，如果沒有選項
 
         self.image_file_text.delete(1.0, tk.END)
         if q_data.get("image_file"):
             self.image_file_text.insert(1.0, "\n".join(q_data["image_file"]))
+        else:
+            self.image_file_text.delete(1.0, tk.END) # 清空，如果沒有圖片
 
         self.status_label.config(text="、".join(status))
 
@@ -186,6 +207,30 @@ class ErrorEditorApp:
 
         current_item["question_data"] = q_data # 確保更新回原字典
         return True
+
+    def search_question(self):
+        """根據輸入的 total_question_number 搜尋並跳轉到對應題目"""
+        search_value = self.search_entry.get().strip()
+        if not search_value:
+            messagebox.showwarning("警告", "請輸入總問題編號。")
+            return
+
+        try:
+            target_q_num = int(search_value)
+        except ValueError:
+            messagebox.showerror("錯誤", "總問題編號必須是數字。")
+            return
+
+        # 檢查當前題目是否有未保存的修改
+        self.update_current_error_data() # 保存當前題目的修改
+
+        # 使用之前建立的 total_q_num_map 進行快速查找
+        if target_q_num in self.total_q_num_map:
+            target_index = self.total_q_num_map[target_q_num]
+            self.current_index = target_index
+            self.display_current_error()
+        else:
+            messagebox.showinfo("未找到", f"找不到總問題編號為 '{target_q_num}' 的錯誤題目。")
 
     def save_and_next(self):
         if self.update_current_error_data():
@@ -216,9 +261,13 @@ class ErrorEditorApp:
         
         if save_error_data(self.error_data):
             messagebox.showinfo("保存成功", "所有修改已保存到 error_exam_output.json。")
-            # 重新載入以更新 total_errors，因為可能刪除了
+            # 重新載入以更新 total_errors 和 total_q_num_map，因為可能刪除了
             self.error_data = load_error_data()
             self.total_errors = len(self.error_data)
+            self.total_q_num_map = {
+                item.get("total_question_number"): i
+                for i, item in enumerate(self.error_data)
+            }
             if self.total_errors == 0:
                 messagebox.showinfo("無錯誤資料", "目前沒有錯誤題目需要編輯。")
                 self.master.destroy()
@@ -232,8 +281,18 @@ class ErrorEditorApp:
     def delete_current_error(self):
         if messagebox.askyesno("確認刪除", "你確定要刪除當前這個錯誤題目嗎？此操作不可逆！"):
             if self.error_data:
+                deleted_q_num = self.error_data[self.current_index].get("total_question_number")
                 del self.error_data[self.current_index]
                 self.total_errors = len(self.error_data)
+
+                # 更新 map
+                del self.total_q_num_map[deleted_q_num] # 從 map 中移除被刪除的
+                # 因為刪除導致索引變化，需要重建 map
+                self.total_q_num_map = {
+                    item.get("total_question_number"): i
+                    for i, item in enumerate(self.error_data)
+                }
+
                 if self.total_errors == 0:
                     messagebox.showinfo("完成", "所有錯誤題目已刪除。")
                     save_error_data(self.error_data) # 保存空列表
