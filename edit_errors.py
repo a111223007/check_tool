@@ -99,15 +99,15 @@ class ErrorEditorApp:
         self.school_label_val = tk.Label(self.editor_frame, text="", bg="white", anchor="w")
         self.school_label_val.grid(row=1, column=1, sticky="ew", pady=2)
 
-        # 科系 (標籤)
+        # 科系 (可修改)
         tk.Label(self.editor_frame, text="科系:", bg="white").grid(row=2, column=0, sticky="w", pady=2)
-        self.department_label_val = tk.Label(self.editor_frame, text="", bg="white", anchor="w")
-        self.department_label_val.grid(row=2, column=1, sticky="ew", pady=2)
+        self.department_entry = tk.Entry(self.editor_frame, width=50) # 改回 Entry
+        self.department_entry.grid(row=2, column=1, sticky="ew", pady=2)
 
-        # 年份 (標籤)
+        # 年份 (可修改)
         tk.Label(self.editor_frame, text="年份:", bg="white").grid(row=3, column=0, sticky="w", pady=2)
-        self.year_label_val = tk.Label(self.editor_frame, text="", bg="white", anchor="w")
-        self.year_label_val.grid(row=3, column=1, sticky="ew", pady=2)
+        self.year_entry = tk.Entry(self.editor_frame, width=50) # 改回 Entry
+        self.year_entry.grid(row=3, column=1, sticky="ew", pady=2)
 
         # 題號 (可修改)
         tk.Label(self.editor_frame, text="題號:", bg="white").grid(row=4, column=0, sticky="w", pady=2)
@@ -162,10 +162,14 @@ class ErrorEditorApp:
 
         self.index_label.config(text=f"第 {self.current_index + 1} / {self.total_errors} 題 (總問題編號: {question.get('total_question_number', 'N/A')})")
 
-        # 更新學校、科系、年份標籤
+        # 更新學校標籤
         self.school_label_val.config(text=q_data.get("school", ""))
-        self.department_label_val.config(text=q_data.get("department", ""))
-        self.year_label_val.config(text=q_data.get("year", ""))
+
+        # 更新科系和年份 Entry
+        self.department_entry.delete(0, tk.END)
+        self.department_entry.insert(0, q_data.get("department", ""))
+        self.year_entry.delete(0, tk.END)
+        self.year_entry.insert(0, q_data.get("year", ""))
 
         self.question_number_entry.delete(0, tk.END)
         self.question_number_entry.insert(0, q_data.get("question_number", ""))
@@ -195,10 +199,12 @@ class ErrorEditorApp:
         current_item = self.error_data[self.current_index]
         q_data = current_item.get("question_data", {})
 
-        # 學校、科系、年份不再從 Entry 獲取，保持原值
-        # q_data["school"] = self.school_label_val.cget("text") # 這樣做會將其從 Entry 的值替換為 Label 的值
-        # q_data["department"] = self.department_label_val.cget("text")
-        # q_data["year"] = self.year_label_val.cget("text")
+        # 學校維持原值 (不從 Label 讀取，因為 Label 不會被修改)
+        # q_data["school"] 保持不變
+
+        # 科系和年份現在從 Entry 獲取
+        q_data["department"] = self.department_entry.get()
+        q_data["year"] = self.year_entry.get()
 
         q_data["question_number"] = self.question_number_entry.get()
         q_data["question_text"] = self.question_text_text.get(1.0, tk.END).strip()
@@ -286,8 +292,10 @@ class ErrorEditorApp:
                 self.total_errors = len(self.error_data)
 
                 # 更新 map
-                del self.total_q_num_map[deleted_q_num] # 從 map 中移除被刪除的
-                # 因為刪除導致索引變化，需要重建 map
+                if deleted_q_num in self.total_q_num_map: # 檢查是否存在，避免KeyError
+                    del self.total_q_num_map[deleted_q_num]
+                
+                # 因為刪除導致索引變化，需要重新構建 map
                 self.total_q_num_map = {
                     item.get("total_question_number"): i
                     for i, item in enumerate(self.error_data)
