@@ -1726,9 +1726,7 @@
             "question_text": "針對下面這個問題,盡量用物件導向的概念來設計你的程式,(A)請畫出 class diagram (5%)",
             "options": [],
             "type": "draw-answer",
-            "image_file": [
-                "沒有圖片"
-            ]
+            "image_file": []
         }
     },
     {
@@ -1744,9 +1742,7 @@
             "question_text": "寫出你的程式流程(10%)。(沒畫出 class diagram 則程式流程不予記分,程式與 class diagram 無法配合的會扣分)",
             "options": [],
             "type": "short-answer",
-            "image_file": [
-                "沒有圖片"
-            ]
+            "image_file": []
         }
     },
     {
@@ -2018,9 +2014,7 @@
             "question_text": "寫出你的程式流程(10%)。(沒畫出 class diagram 則程式流程不予記分,程式與 class diagram 無法配合的會扣分)",
             "options": [],
             "type": "coding-answer",
-            "image_file": [
-                "沒有圖片"
-            ]
+            "image_file": []
         }
     },
     {
@@ -2293,9 +2287,7 @@
             "question_text": "寫出你的程式流程(10%)。(沒畫出 class diagram 則程式流程不予記分,程式與 class diagram 無法配合的會扣分)\n輸入是一行分數的運算式,其中分數最多3個,運算子只有+和-,請輸出運算結果。分數格式為X/Y (X,Y為小於100的正整數),內無空格,分數和運算子間均有一空格隔開。\n\\text{Sample Input:}\n\n$1/2 + 1/3 - 1/6$\n\n\\text{Sample Output:}\n\n$2/3$",
             "options": [],
             "type": "coding-answer",
-            "image_file": [
-                "沒有圖片"
-            ]
+            "image_file": []
         }
     },
     {
@@ -6831,9 +6823,7 @@
             "question_text": "請分析以下程式片段的時間複雜度:(5%)\nfor(i=0;i<n;i++)\nfor(j=0;j<n;j=j+i)\nx++;",
             "options": [],
             "type": "short-answer",
-            "image_file": [
-                "沒有圖片"
-            ]
+            "image_file": []
         }
     },
     {
@@ -125558,9 +125548,7 @@
                 "d. NOR"
             ],
             "type": "single-choice",
-            "image_file": [
-                "不須圖片"
-            ]
+            "image_file": []
         }
     },
     {
@@ -125582,9 +125570,7 @@
                 "d. D"
             ],
             "type": "single-choice",
-            "image_file": [
-                "不須圖片"
-            ]
+            "image_file": []
         }
     },
     {
@@ -125606,9 +125592,7 @@
                 "d. order of arrived packet"
             ],
             "type": "single-choice",
-            "image_file": [
-                "不須圖片"
-            ]
+            "image_file": []
         }
     },
     {
@@ -125630,9 +125614,7 @@
                 "d. It is usually not needed to re-energize"
             ],
             "type": "single-choice",
-            "image_file": [
-                "不須圖片"
-            ]
+            "image_file": []
         }
     },
     {
@@ -125654,9 +125636,7 @@
                 "d. Both of A and B are with the same performance"
             ],
             "type": "single-choice",
-            "image_file": [
-                "不須圖片"
-            ]
+            "image_file": []
         }
     },
     {
@@ -125678,9 +125658,7 @@
                 "d. Bounded waiting"
             ],
             "type": "single-choice",
-            "image_file": [
-                "不須圖片"
-            ]
+            "image_file": []
         }
     },
     {
@@ -125702,9 +125680,7 @@
                 "d. Message"
             ],
             "type": "single-choice",
-            "image_file": [
-                "不須圖片"
-            ]
+            "image_file": []
         }
     },
     {
@@ -125726,9 +125702,7 @@
                 "d. Component based software engineering"
             ],
             "type": "single-choice",
-            "image_file": [
-                "不須圖片"
-            ]
+            "image_file": []
         }
     },
     {
@@ -125750,9 +125724,7 @@
                 "d. A=d, B=1"
             ],
             "type": "single-choice",
-            "image_file": [
-                "不須圖片"
-            ]
+            "image_file": []
         }
     },
     {
@@ -127343,9 +127315,7 @@
             "question_text": "試舉一個你所熟悉的 design pattern 繪圖說明其意義。(20%)",
             "options": [],
             "type": "long-answer",
-            "image_file": [
-                "不須圖片"
-            ]
+            "image_file": []
         }
     },
     {
@@ -128171,9 +128141,7 @@
             "question_text": "列出 OSI 模型之七層協定,針對每一層請舉一實例。(20分)",
             "options": [],
             "type": "short-answer",
-            "image_file": [
-                "不須圖片"
-            ]
+            "image_file": []
         }
     },
     {
@@ -128189,9 +128157,7 @@
             "question_text": "寫出 Bubble Sort 的演算法。(20分)",
             "options": [],
             "type": "short-answer",
-            "image_file": [
-                "不須圖片"
-            ]
+            "image_file": []
         }
     },
     {
@@ -128207,9 +128173,7 @@
             "question_text": "半導體記憶體主要分為哪二類,試簡述之?(20分)",
             "options": [],
             "type": "short-answer",
-            "image_file": [
-                "不須圖片"
-            ]
+            "image_file": []
         }
     },
     {
@@ -128419,9 +128383,7 @@
             "question_text": "列出 OSI 模型之七層協定,針對每一層請舉一實例。(20分)",
             "options": [],
             "type": "short-answer",
-            "image_file": [
-                "不須圖片"
-            ]
+            "image_file": []
         }
     },
     {
@@ -128437,9 +128399,7 @@
             "question_text": "寫出 Bubble Sort 的演算法。(20分)",
             "options": [],
             "type": "short-answer",
-            "image_file": [
-                "不須圖片"
-            ]
+            "image_file": []
         }
     },
     {
@@ -128455,9 +128415,7 @@
             "question_text": "半導體記憶體主要分為哪二類,試簡述之?(20分)",
             "options": [],
             "type": "short-answer",
-            "image_file": [
-                "不須圖片"
-            ]
+            "image_file": []
         }
     },
     {
@@ -139134,9 +139092,7 @@
             "question_text": "請以Crow's Foot Model 或 Chen's Model 畫出符合以下限制之畫家(PAINTER)、畫廊(GALLERY)及畫作(PAINTING)間之個體關聯圖(ER Diagram),注意需標示出連接性(connectivity)、外來鍵(foreign key)及可選性(optionality):(全部要求需畫於Diagram)\n● 一個畫家(PAINTER)必須畫(paint)過至少一幅畫作(PAINTING)\n● 一個畫廊(GALLERY)必須收藏(store)至少一幅畫作(PAINTING)\n● 一幅畫作(PAINTING)只能有一位畫家,可能被某家畫廊(GALLERY)收藏,也可能沒被收藏\n畫家的屬性包括:畫家編號(PTR_NUM)、畫家姓名(PTR_NAME)、畫家居住城市(PTR_CITY)\n● 畫作的屬性包括:畫作編號(PTNG_NUM)、畫作名稱(PTNG_TITLE)、畫作價格(PTNG_PRICE)、畫家編號(PTR_NUM)、畫廊編號(GAL_NUM)\n● 畫廊的屬性包括:畫廊編號(GAL_NUM)、畫廊名稱(GAL_NAME)、畫廊所在城市(GAL_CITY)",
             "options": [],
             "type": "draw-answer",
-            "image_file": [
-                "不須圖片"
-            ]
+            "image_file": []
         }
     },
     {
@@ -140738,9 +140694,7 @@
             "question_text": "平行處理系統中最著名的是神經網路系統,基本上神經網路系統可視為黑盒子,而此黑盒子是由許許多多的節點所連結而成。一般而言具有三層:輸入層、隱藏層、輸出層,請繪圖說明:人工神經網路系統之架構圖。(10%)",
             "options": [],
             "type": "draw-answer",
-            "image_file": [
-                "不須圖片"
-            ]
+            "image_file": []
         }
     },
     {
@@ -146896,9 +146850,7 @@
             "question_text": "Please draw an example and explain red-black tree in detail. What are the computational complexity orders of search, insertion, and deletion times, respectively?",
             "options": [],
             "type": "short-answer",
-            "image_file": [
-                "不須照片"
-            ]
+            "image_file": []
         }
     },
     {
@@ -146946,9 +146898,7 @@
             "question_text": "Please describe the 4 steps of machine cycle in CPU in detail. Please draw and describe how pipeline can enhance execution speed.",
             "options": [],
             "type": "short-answer",
-            "image_file": [
-                "不須照片"
-            ]
+            "image_file": []
         }
     },
     {
@@ -147060,9 +147010,7 @@
             "question_text": "Give an example of one incorrect bit in above example of 8-bit data: 01011010 and four Hamming error correction bits. Draw how to detect and correct the incorrect bit.",
             "options": [],
             "type": "short-answer",
-            "image_file": [
-                "不須照片"
-            ]
+            "image_file": []
         }
     },
     {
@@ -147286,9 +147234,7 @@
             "question_text": "Please draw an example and explain red-black tree in detail. What are the computational complexity orders of search, insertion, and deletion times, respectively?",
             "options": [],
             "type": "short-answer",
-            "image_file": [
-                "不須照片"
-            ]
+            "image_file": []
         }
     },
     {
@@ -147336,9 +147282,7 @@
             "question_text": "Please describe the 4 steps of machine cycle in CPU in detail. Please draw and describe how pipeline can enhance execution speed.",
             "options": [],
             "type": "short-answer",
-            "image_file": [
-                "不須照片"
-            ]
+            "image_file": []
         }
     },
     {
@@ -147450,9 +147394,7 @@
             "question_text": "Give an example of one incorrect bit in above example of 8-bit data: 01011010 and four Hamming error correction bits. Draw how to detect and correct the incorrect bit.",
             "options": [],
             "type": "short-answer",
-            "image_file": [
-                "不須照片"
-            ]
+            "image_file": []
         }
     },
     {
@@ -147875,9 +147817,7 @@
                 "d. w是一個指標陣列,其值為10。"
             ],
             "type": "single-choice",
-            "image_file": [
-                "不須照片"
-            ]
+            "image_file": []
         }
     },
     {
@@ -147898,9 +147838,7 @@
                 "d. 50."
             ],
             "type": "single-choice",
-            "image_file": [
-                "不須照片"
-            ]
+            "image_file": []
         }
     },
     {
@@ -158041,9 +157979,7 @@
             "question_text": "Using the Unified Modeling Language (UML) diagram (or flowchart) for program to convert the decimal to binary using modular function and stack data structure with push and pop functions. Also, please give pseudocode or any programming language.",
             "options": [],
             "type": "short-answer",
-            "image_file": [
-                "不須圖片"
-            ]
+            "image_file": []
         }
     },
     {
@@ -162875,9 +162811,7 @@
             "question_text": "請繪製下列數列{3,5,11, 8, 4, 1, 12, 7, 2, 6, 10, 9}的平衡二元樹,每次加入一個數字於此平衡二元樹即產生一個樹狀結構,調整過程也畫出一個樹狀結構。",
             "options": [],
             "type": "draw-answer",
-            "image_file": [
-                "不須圖片"
-            ]
+            "image_file": []
         }
     },
     {
@@ -163494,9 +163428,7 @@
             "question_text": "Please answer the following questions shortly and concisely. It is assumed that $T(1) = d$ for some constant $d$. (15 pts)\n\n(1) The symbols $\\sim$ and $\\to$ denote the negation and implication respectively. Please indicate whether the following statement formula is tautology or not. (3 pts)\n    $\\sim p \\to (p \\to q)$",
             "options": [],
             "type": "true-false",
-            "image_file": [
-                "不須圖片"
-            ]
+            "image_file": []
         }
     },
     {
@@ -163512,9 +163444,7 @@
             "question_text": "Please answer the following questions shortly and concisely. It is assumed that $T(1) = d$ for some constant $d$. (15 pts)\n\n(2) A bakery provides 10 types of donuts. Ms. Chiu wants to buy 4 donuts. In how many different ways can she do this? (3 pts)",
             "options": [],
             "type": "short-answer",
-            "image_file": [
-                "不須圖片"
-            ]
+            "image_file": []
         }
     },
     {
@@ -163531,9 +163461,7 @@
             "question_text": "Please answer the following questions shortly and concisely. It is assumed that $T(1) = d$ for some constant $d$. (15 pts)\n\n(3) Please write the following prefix expression in infix form: (3 pts)\n    $/ + \\times a b c c + d e f$",
             "options": [],
             "type": "short-answer",
-            "image_file": [
-                "不須圖片"
-            ]
+            "image_file": []
         }
     },
     {
@@ -163549,9 +163477,7 @@
             "question_text": "Please answer the following questions shortly and concisely. It is assumed that $T(1) = d$ for some constant $d$. (15 pts)\n\n(4) State, using the “big oh” notation, the solution to $T(n) = 8T(\\frac{n}{2}) + n^3$. (3 pts)",
             "options": [],
             "type": "short-answer",
-            "image_file": [
-                "不須圖片"
-            ]
+            "image_file": []
         }
     },
     {
@@ -163568,9 +163494,7 @@
             "question_text": "Please answer the following questions shortly and concisely. It is assumed that $T(1) = d$ for some constant $d$. (15 pts)\n\n(5) State, using the “big oh” notation, the solution to\n    $T(n) = 14T(\\frac{n}{2}) + 18n^3 \\sqrt{n}$. (3 pts)",
             "options": [],
             "type": "short-answer",
-            "image_file": [
-                "不須圖片"
-            ]
+            "image_file": []
         }
     },
     {
@@ -165386,9 +165310,7 @@
             "question_text": "問答題(每題 10 分,共 20 分)\n請依照樹的串列表示法:(A(B (E(K,L), F), C (G), D (H(M),I,J))),將此樹的樹狀結構畫出。(10%)",
             "options": [],
             "type": "draw-answer",
-            "image_file": [
-                "不須照片"
-            ]
+            "image_file": []
         }
     },
     {
@@ -168898,9 +168820,7 @@
             "question_text": "Let $m \\in \\mathbb{Z}$ with $m$ odd. Prove that there exists a positive integer $n$ such that $m$ divides $2^n + 1$.",
             "options": [],
             "type": "short-answer",
-            "image_file": [
-                "不須圖片"
-            ]
+            "image_file": []
         }
     },
     {
@@ -170040,9 +169960,7 @@
             "question_text": "Draw a state diagram for a Turing machine that increments a binary number. Two examples are given below. (10%)\n0100 => 0101\n0111 => 1000",
             "options": [],
             "type": "draw-answer",
-            "image_file": [
-                "不須圖片"
-            ]
+            "image_file": []
         }
     },
     {
@@ -172359,9 +172277,7 @@
             "question_text": "In object-oriented programming (OOP), public, private and protected are common access modifiers for the members (variables and functions) in a class. They are important for inheritance. Please describe what is inheritance and the difference among public, private and protected members. Furthermore, three kinds of inheritance, public, private and protected inheritance, are in C++. Please draw a figure or table to show how public, private and protected members in the base class become in the derived class through public, private and protected inheritance. (10%)",
             "options": [],
             "type": "draw-answer",
-            "image_file": [
-                "不須圖片"
-            ]
+            "image_file": []
         }
     },
     {
@@ -172377,9 +172293,7 @@
             "question_text": "A sequence of numbers {1, 5, 9, 18, 25, 36, 42, 74, 89, 97} is in an array b. Please draw the procedure of finding the number 18 using binary search (10%) and write down the corresponding code using recursion. (10%)",
             "options": [],
             "type": "long-answer",
-            "image_file": [
-                "不須圖片"
-            ]
+            "image_file": []
         }
     },
     {
@@ -173098,9 +173012,7 @@
             "question_text": "將下列的整數序列9,3,4,13, 16, 19, 1, 2, 7, 21,23,14,11,22依序插入一個空的二元搜尋樹T中。\n請畫出插入完此序列後的二元搜尋樹T。",
             "options": [],
             "type": "draw-answer",
-            "image_file": [
-                "不須圖片"
-            ]
+            "image_file": []
         }
     },
     {
@@ -173116,9 +173028,7 @@
             "question_text": "將下列的整數序列9,3,4,13, 16, 19, 1, 2, 7, 21,23,14,11,22依序插入一個空的二元搜尋樹T中。假設我們移出了樹T的根部節點(root node)後,可以得到一個新的二元搜尋樹T',請畫出二元搜尋樹T'。",
             "options": [],
             "type": "draw-answer",
-            "image_file": [
-                "不須圖片"
-            ]
+            "image_file": []
         }
     },
     {
@@ -173402,9 +173312,7 @@
             "question_text": "將下列的整數序列9,3,4,13, 16, 19, 1, 2, 7, 21,23,14,11,22依序插入一個空的二元搜尋樹T中。\n請畫出插入完此序列後的二元搜尋樹T。",
             "options": [],
             "type": "draw-answer",
-            "image_file": [
-                "不須圖片"
-            ]
+            "image_file": []
         }
     },
     {
@@ -173420,9 +173328,7 @@
             "question_text": "將下列的整數序列9,3,4,13, 16, 19, 1, 2, 7, 21,23,14,11,22依序插入一個空的二元搜尋樹T中。假設我們移出了樹T的根部節點(root node)後,可以得到一個新的二元搜尋樹T',請畫出二元搜尋樹T'。",
             "options": [],
             "type": "draw-answer",
-            "image_file": [
-                "不須圖片"
-            ]
+            "image_file": []
         }
     },
     {
@@ -179830,9 +179736,7 @@
             "question_text": "Please draw the process life cycle diagram, including five states and six transitions, and describe them. (15%)",
             "options": [],
             "type": "draw-answer",
-            "image_file": [
-                "不須照片"
-            ]
+            "image_file": []
         }
     },
     {
@@ -179848,9 +179752,7 @@
             "question_text": "Please write down pseudocode of Fibonacei number in both iterative and recursive approaches, where fib (1) = 1, fib (2) = 1 and fib (3) = 2. What is the time and space complexity of them (in big-O natation)? Describe the reasons or calculating procedure. (12%) How many times the Fibonacci number function is called when the input argument is 6. Please write down and draw the procedure conceptually. (8%)",
             "options": [],
             "type": "coding-answer",
-            "image_file": [
-                "不須照片"
-            ]
+            "image_file": []
         }
     },
     {
@@ -179882,9 +179784,7 @@
             "question_text": "Please write down pseudocode of Bubble sort. When the elements in the input array are (29, 14, 17, 4, 53, 31), write down or draw the procedure of sorting. What is the time and space complexity of it (in big-O natation)? (20%)",
             "options": [],
             "type": "coding-answer",
-            "image_file": [
-                "不須照片"
-            ]
+            "image_file": []
         }
     },
     {
@@ -185853,9 +185753,7 @@
             "question_text": "Consider the skip list data structure. Suppose that we use only two levels, i.e., two (sorted) linked lists, for n elements. Each element is in linked list $S_0$ and some elements are also in the other linked list $S_1$. Please draw the skip list structure where the minimized search cost is O(\\sqrt{n}).",
             "options": [],
             "type": "draw-answer",
-            "image_file": [
-                "不須照片"
-            ]
+            "image_file": []
         }
     },
     {
@@ -188860,9 +188758,7 @@
             "question_text": "If the Y is output and A, B is input, the XOR function can be shown as follows: $Y = \\overline{A}B + A\\overline{B}$ \nImplement the XOR function by means of: NAND gates only.",
             "options": [],
             "type": "draw-answer",
-            "image_file": [
-                "不須圖片"
-            ]
+            "image_file": []
         }
     },
     {
@@ -188878,9 +188774,7 @@
             "question_text": "If the Y is output and A, B is input, the XOR function can be shown as follows: $Y = \\overline{A}B + A\\overline{B}$ \nImplement the XOR function by means of: NOR gates only.",
             "options": [],
             "type": "draw-answer",
-            "image_file": [
-                "不須圖片"
-            ]
+            "image_file": []
         }
     },
     {
@@ -201345,9 +201239,7 @@
             "question_text": "The inorder traversal of a binary is DCEFHAGJB, and its preorder sequence is ACDEFHBGJ.\nPlease draw the binary tree",
             "options": [],
             "type": "draw-answer",
-            "image_file": [
-                "不須照片"
-            ]
+            "image_file": []
         }
     },
     {
@@ -201363,9 +201255,7 @@
             "question_text": "The inorder traversal of a binary is DCEFHAGJB, and its preorder sequence is ACDEFHBGJ.\nWrite down its postorder sequence",
             "options": [],
             "type": "short-answer",
-            "image_file": [
-                "不須照片"
-            ]
+            "image_file": []
         }
     },
     {
@@ -202359,9 +202249,7 @@
                 "c. decr X"
             ],
             "type": "single-choice",
-            "image_file": [
-                "不須照片"
-            ]
+            "image_file": []
         }
     },
     {
@@ -203323,9 +203211,7 @@
             "question_text": "Suppose that in a group of 5 people: A, B, C, D, and E, the following pairs of people are acquainted with each other.\n\n* A and C\n* A and D\n* B and C\n* C and D\n* C and E\n\nDraw a graph G to represent this situation. (3%)",
             "options": [],
             "type": "draw-answer",
-            "image_file": [
-                "不須圖片"
-            ]
+            "image_file": []
         }
     },
     {
@@ -203342,9 +203228,7 @@
             "question_text": "Suppose that in a group of 5 people: A, B, C, D, and E, the following pairs of people are acquainted with each other.\n\n* A and C\n* A and D\n* B and C\n* C and D\n* C and E\n\nList the vertex set, and the edge set, using set notation. In other words, show sets V and E for the vertices and edges, respectively, in $G = \\{V, E\\}$. (4%)",
             "options": [],
             "type": "short-answer",
-            "image_file": [
-                "不須圖片"
-            ]
+            "image_file": []
         }
     },
     {
@@ -203361,9 +203245,7 @@
             "question_text": "Suppose that in a group of 5 people: A, B, C, D, and E, the following pairs of people are acquainted with each other.\n\n* A and C\n* A and D\n* B and C\n* C and D\n* C and E\n\nDraw an adjacency matrix for G. (3%)",
             "options": [],
             "type": "draw-answer",
-            "image_file": [
-                "不須圖片"
-            ]
+            "image_file": []
         }
     },
     {
